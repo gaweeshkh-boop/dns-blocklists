@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Jun 2026 13:53 UTC
-# Version: 2026.0628.1353.50
+# Last modified: 01 Jul 2026 13:53 UTC
+# Version: 2026.0701.1353.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 10000
+# Number of entries: 10001
 #
 a.189.cn
 t.2merkato.com
@@ -5331,6 +5331,7 @@ luis.im
 lukeo.link
 lukes.cloud
 lulusin.io
+luma.link
 lumar.is
 luminary.link
 luna.rip

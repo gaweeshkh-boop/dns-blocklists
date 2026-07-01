@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 07:45 UTC
-# Version: 2026.0701.0745.57
+# Last modified: 01 Jul 2026 19:05 UTC
+# Version: 2026.0701.1905.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17229
+# Number of entries: 17222
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -73,10 +73,6 @@ local=/t2c.240130034.xyz/
 local=/dns.240527.xyz/
 local=/college-pathway.rakunan-h.ed.jp.24x7.hk/
 local=/educational-site.24x7.hk/
-local=/bbcincheecks.26252526.xyz/
-local=/quizzesandworksheets.26252526.xyz/
-local=/sophie-fulton.26252526.xyz/
-local=/when-sophie-gets-angry.26252526.xyz/
 local=/doh003.280blocker.net/
 local=/skynet.2bsafe.info/
 local=/proxy.2d.su/
@@ -105,10 +101,8 @@ local=/adg.3k.work/
 local=/dns.3wv.de/
 local=/dns.4-the.win/
 local=/vpn.4-the.win/
-local=/904523.404.mn/
 local=/ababaershop67thatscostaquartar.404.mn/
 local=/notfound-google.404.mn/
-local=/speedineedthis7475.404.mn/
 local=/doh.42l.fr/
 local=/bannana.web-doge.42web.io/
 local=/ns1.4netguides.org/
@@ -7412,7 +7406,6 @@ local=/5537955585be9a774f79ea792941d72404fe69d3.com/
 local=/55780358.xyz/
 local=/55aktnolkvuoctxitm.online/
 local=/55gms.com/
-local=/55gms.store/
 local=/55laomao.com/
 local=/57824.com/
 local=/583838.xyz/

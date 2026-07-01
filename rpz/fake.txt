@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782888540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782929220 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jul 2026 06:49 UTC
-; Version: 2026.0701.0649.03
+; Last modified: 01 Jul 2026 18:07 UTC
+; Version: 2026.0701.1807.42
 ; Syntax: RPZ
-; Number of entries: 34006
+; Number of entries: 33998
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -2024,8 +2024,6 @@ ai.55aiagents.com CNAME .
 *.74invest.com CNAME .
 77jobwear.com CNAME .
 *.77jobwear.com CNAME .
-77options.com CNAME .
-*.77options.com CNAME .
 77unishop.com CNAME .
 *.77unishop.com CNAME .
 7econds.com CNAME .
@@ -3494,8 +3492,6 @@ bayerischegeschenke.com CNAME .
 *.bayerischegeschenke.com CNAME .
 bayowns.com CNAME .
 *.bayowns.com CNAME .
-bayro-markt.com CNAME .
-*.bayro-markt.com CNAME .
 bazorlo.com CNAME .
 *.bazorlo.com CNAME .
 bb-consults.com CNAME .
@@ -5694,8 +5690,6 @@ dannerbootsromania.com CNAME .
 *.dannerbootsromania.com CNAME .
 dannerwandelschoen.com CNAME .
 *.dannerwandelschoen.com CNAME .
-dapenex.com CNAME .
-*.dapenex.com CNAME .
 dapperlogistik.com CNAME .
 *.dapperlogistik.com CNAME .
 darembel.com CNAME .
@@ -9570,8 +9564,6 @@ heydudeschuheschweiz.com CNAME .
 *.heydudeschuheschweiz.com CNAME .
 hezoposo.com CNAME .
 *.hezoposo.com CNAME .
-hhvmerch.com CNAME .
-*.hhvmerch.com CNAME .
 hi-goeedoo.com CNAME .
 *.hi-goeedoo.com CNAME .
 hiddenbarandgrill.com CNAME .
@@ -25420,6 +25412,8 @@ kummich-reifenwelt.de CNAME .
 *.kummich-reifenwelt.de CNAME .
 kundendienstline.de CNAME .
 *.kundendienstline.de CNAME .
+kunstanders.de CNAME .
+*.kunstanders.de CNAME .
 kunstgeschwind.de CNAME .
 *.kunstgeschwind.de CNAME .
 kunstkulisse.de CNAME .
@@ -32148,8 +32142,6 @@ grillzentrale.shop CNAME .
 *.grillzentrale.shop CNAME .
 grizzlyroids.shop CNAME .
 *.grizzlyroids.shop CNAME .
-grlavfta.shop CNAME .
-*.grlavfta.shop CNAME .
 grunekraft.shop CNAME .
 *.grunekraft.shop CNAME .
 gutkauf.shop CNAME .
@@ -32304,6 +32296,8 @@ krugerdirndlssale.shop CNAME .
 *.krugerdirndlssale.shop CNAME .
 kucings.shop CNAME .
 *.kucings.shop CNAME .
+kunstanders.shop CNAME .
+*.kunstanders.shop CNAME .
 kxktrr.shop CNAME .
 *.kxktrr.shop CNAME .
 lageerr.shop CNAME .
@@ -33060,8 +33054,6 @@ youdenovahome.shop CNAME .
 *.youdenovahome.shop CNAME .
 yournaturalathlettrading.shop CNAME .
 *.yournaturalathlettrading.shop CNAME .
-ysmnfewy.shop CNAME .
-*.ysmnfewy.shop CNAME .
 yvarrd.shop CNAME .
 *.yvarrd.shop CNAME .
 zaladowintersale.shop CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 07:45 UTC
-# Version: 2026.0701.0745.57
+# Last modified: 01 Jul 2026 19:05 UTC
+# Version: 2026.0701.1905.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 17229
+# Number of entries: 17222
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -73,10 +73,6 @@ t2c.240130034.xyz
 dns.240527.xyz
 college-pathway.rakunan-h.ed.jp.24x7.hk
 educational-site.24x7.hk
-bbcincheecks.26252526.xyz
-quizzesandworksheets.26252526.xyz
-sophie-fulton.26252526.xyz
-when-sophie-gets-angry.26252526.xyz
 doh003.280blocker.net
 skynet.2bsafe.info
 proxy.2d.su
@@ -105,10 +101,8 @@ adg.3k.work
 dns.3wv.de
 dns.4-the.win
 vpn.4-the.win
-904523.404.mn
 ababaershop67thatscostaquartar.404.mn
 notfound-google.404.mn
-speedineedthis7475.404.mn
 doh.42l.fr
 bannana.web-doge.42web.io
 ns1.4netguides.org
@@ -7412,7 +7406,6 @@ dns.zzuhacker.cn
 55780358.xyz
 55aktnolkvuoctxitm.online
 55gms.com
-55gms.store
 55laomao.com
 57824.com
 583838.xyz

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782891900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782932700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jul 2026 07:45 UTC
-; Version: 2026.0701.0745.57
+; Last modified: 01 Jul 2026 19:05 UTC
+; Version: 2026.0701.1905.51
 ; Syntax: RPZ
-; Number of entries: 34458
+; Number of entries: 34444
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -21153,14 +21153,10 @@ bebrik.men CNAME .
 *.bebrik.men CNAME .
 touching.diddy.men CNAME .
 *.touching.diddy.men CNAME .
-904523.404.mn CNAME .
-*.904523.404.mn CNAME .
 ababaershop67thatscostaquartar.404.mn CNAME .
 *.ababaershop67thatscostaquartar.404.mn CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
-speedineedthis7475.404.mn CNAME .
-*.speedineedthis7475.404.mn CNAME .
 franzosen.bad.mn CNAME .
 *.franzosen.bad.mn CNAME .
 spaceis.bad.mn CNAME .
@@ -31189,8 +31185,6 @@ uboo.st CNAME .
 *.uboo.st CNAME .
 123adsas.store CNAME .
 *.123adsas.store CNAME .
-55gms.store CNAME .
-*.55gms.store CNAME .
 bizdomain.store CNAME .
 *.bizdomain.store CNAME .
 calculra.store CNAME .
@@ -33247,14 +33241,6 @@ t2c.240130034.xyz CNAME .
 *.24032949.xyz CNAME .
 dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
-bbcincheecks.26252526.xyz CNAME .
-*.bbcincheecks.26252526.xyz CNAME .
-quizzesandworksheets.26252526.xyz CNAME .
-*.quizzesandworksheets.26252526.xyz CNAME .
-sophie-fulton.26252526.xyz CNAME .
-*.sophie-fulton.26252526.xyz CNAME .
-when-sophie-gets-angry.26252526.xyz CNAME .
-*.when-sophie-gets-angry.26252526.xyz CNAME .
 268222219.xyz CNAME .
 *.268222219.xyz CNAME .
 2poigv.xyz CNAME .

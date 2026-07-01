@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 06:49 UTC
-# Version: 2026.0701.0649.03
+# Last modified: 01 Jul 2026 18:07 UTC
+# Version: 2026.0701.1807.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17003
+# Number of entries: 16999
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -757,7 +757,6 @@ local=/746fr229.com/
 local=/74days.com/
 local=/74invest.com/
 local=/77jobwear.com/
-local=/77options.com/
 local=/77unishop.com/
 local=/7dealdays.de/
 local=/7econds.com/
@@ -2007,7 +2006,6 @@ local=/bayerischegeschenke.com/
 local=/bayerischeu.de/
 local=/bayowns.com/
 local=/bayreuth-boutique.de/
-local=/bayro-markt.com/
 local=/bazaarskedeals.shop/
 local=/bazorlo.com/
 local=/bb-consults.com/
@@ -3840,7 +3838,6 @@ local=/danster-gmbh.de/
 local=/dantesavoy.de/
 local=/danxon.de/
 local=/dap-deals.de/
-local=/dapenex.com/
 local=/dapperlogistik.com/
 local=/dar-germany.de/
 local=/darasports.de/
@@ -6754,7 +6751,6 @@ local=/grimhat.com/
 local=/griw.xyz/
 local=/grizzlyroids.shop/
 local=/grkwork.com/
-local=/grlavfta.shop/
 local=/groomifypetsstore.com/
 local=/grosshandelwebservice.de/
 local=/grossiste-parfum-generique.com/
@@ -7374,7 +7370,6 @@ local=/heyewall.de/
 local=/heyi-handel.de/
 local=/hezoposo.com/
 local=/hgtyfd.shop/
-local=/hhvmerch.com/
 local=/hi-goeedoo.com/
 local=/hibote.de/
 local=/hicity.de/
@@ -8933,6 +8928,8 @@ local=/kundendienstgeraete.at/
 local=/kundendienstline.de/
 local=/kundenservice-hotline.at/
 local=/kundigenbei.at/
+local=/kunstanders.de/
+local=/kunstanders.shop/
 local=/kunstgeschwind.de/
 local=/kunstkulisse.de/
 local=/kunstpfadkarte.de/
@@ -16826,7 +16823,6 @@ local=/youthcarebeauty.com/
 local=/youtradefx.com/
 local=/youzuu.de/
 local=/yoyocats.com/
-local=/ysmnfewy.shop/
 local=/ysolara.at/
 local=/ytcycling.com/
 local=/ythebyre.top/
