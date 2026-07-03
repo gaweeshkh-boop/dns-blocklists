@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 06:38 UTC
-# Version: 2026.0702.0638.22
+# Last modified: 03 Jul 2026 06:36 UTC
+# Version: 2026.0703.0636.34
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2258
+# Number of entries: 2267
 #
 1-aclk.net
 1aurl.io
@@ -451,6 +451,7 @@ seu2.cleverreach.com
 245789.seu2.cleverreach.com
 246754.seu2.cleverreach.com
 246876.seu2.cleverreach.com
+247451.seu2.cleverreach.com
 248553.seu2.cleverreach.com
 248844.seu2.cleverreach.com
 248977.seu2.cleverreach.com
@@ -737,6 +738,7 @@ click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
 10972684.open.convertkit-mail.com
+193996d8.open.convertkit-mail.com
 2e9869a7.open.convertkit-mail.com
 37fdfba9.open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
@@ -968,6 +970,7 @@ ssapi.ad.cpe.dotomi.com
 sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
+c80669.csd.dotomi.com
 c82564.csd.dotomi.com
 c83573.csd.dotomi.com
 c83578.csd.dotomi.com
@@ -1026,6 +1029,7 @@ suite33-cf.emarsys.net
 suite34.emarsys.net
 suite35-cf.emarsys.net
 suite36.emarsys.net
+suite37.emarsys.net
 suite38.emarsys.net
 suite4.emarsys.net
 suite4-cf.emarsys.net
@@ -1091,7 +1095,7 @@ click.s10.exacttarget.com
 image.s10.exacttarget.com
 mc.s10.exacttarget.com
 members.s10.exacttarget.com
-virt.s10.exacttarget.com
+pub.s10.exacttarget.com
 s11.exacttarget.com
 bounce.s11.exacttarget.com
 mc.s11.exacttarget.com
@@ -1108,7 +1112,6 @@ s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
-members.s13.exacttarget.com
 s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -1138,6 +1141,7 @@ view.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
+click-sms.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
 mc.s7.exacttarget.com
@@ -1270,6 +1274,7 @@ sites.hscoscdn-eu1.net
 139786927.sites.hscoscdn-eu1.net
 139808002.sites.hscoscdn-eu1.net
 142726949.sites.hscoscdn-eu1.net
+143319901.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
 143456969.sites.hscoscdn-eu1.net
 143649436.sites.hscoscdn-eu1.net
@@ -1285,6 +1290,7 @@ sites.hscoscdn-eu1.net
 25456557.sites.hscoscdn-eu1.net
 25468276.sites.hscoscdn-eu1.net
 25639721.sites.hscoscdn-eu1.net
+25708310.sites.hscoscdn-eu1.net
 25713015.sites.hscoscdn-eu1.net
 25740424.sites.hscoscdn-eu1.net
 25864942.sites.hscoscdn-eu1.net
@@ -1312,12 +1318,14 @@ group0.sites.hscoscdn-eu1.net
 145721053.group0.sites.hscoscdn-eu1.net
 145830670.group0.sites.hscoscdn-eu1.net
 146213786.group0.sites.hscoscdn-eu1.net
+146273777.group0.sites.hscoscdn-eu1.net
 146325655.group0.sites.hscoscdn-eu1.net
 146638686.group0.sites.hscoscdn-eu1.net
 24879817.group0.sites.hscoscdn-eu1.net
 25229496.group0.sites.hscoscdn-eu1.net
 25488337.group0.sites.hscoscdn-eu1.net
 25661531.group0.sites.hscoscdn-eu1.net
+26202849.group0.sites.hscoscdn-eu1.net
 26829280.group0.sites.hscoscdn-eu1.net
 341979.group0.sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
@@ -1650,6 +1658,7 @@ mkto-ab660168.com
 mkto-ab690011.com
 mkto-ab690019.com
 mkto-ab690062.com
+mkto-ab690064.com
 mkto-ab690132.com
 mkto-ab690180.com
 mkto-ab700044.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 19:17 UTC
-# Version: 2026.0702.1917.54
+# Last modified: 03 Jul 2026 07:45 UTC
+# Version: 2026.0703.0745.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3430
+# Number of entries: 3429
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -391,7 +391,6 @@ local=/81.brudnowski.eu/
 local=/81xyz.brudnowski.eu/
 local=/doh.bt.com/
 local=/goose.buckyfan.net/
-local=/doh.bugdns.com/
 local=/stratus.bugz.fr/
 local=/dns.burgas.pro/
 local=/dns.busold.ws/
