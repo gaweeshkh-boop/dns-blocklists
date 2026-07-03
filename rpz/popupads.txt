@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783061220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783072200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 06:47 UTC
-; Version: 2026.0703.0647.19
+; Last modified: 03 Jul 2026 09:50 UTC
+; Version: 2026.0703.0950.57
 ; Syntax: RPZ
-; Number of entries: 113598
+; Number of entries: 113580
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -2828,24 +2828,8 @@ hengde.cn CNAME .
 *.hengde.cn CNAME .
 qiejushuo.hirz.cn CNAME .
 *.qiejushuo.hirz.cn CNAME .
-app-google-zh.hl.cn CNAME .
-*.app-google-zh.hl.cn CNAME .
-go-todesk.hl.cn CNAME .
-*.go-todesk.hl.cn CNAME .
-google-google-chrome-google-com.hl.cn CNAME .
-*.google-google-chrome-google-com.hl.cn CNAME .
-line-go.hl.cn CNAME .
-*.line-go.hl.cn CNAME .
-qh-qishuiyinyue.hl.cn CNAME .
-*.qh-qishuiyinyue.hl.cn CNAME .
-qishuimusic-cn.hl.cn CNAME .
-*.qishuimusic-cn.hl.cn CNAME .
-todesk-web.hl.cn CNAME .
-*.todesk-web.hl.cn CNAME .
-todesk-zh.hl.cn CNAME .
-*.todesk-zh.hl.cn CNAME .
-zh-todesk-cn.hl.cn CNAME .
-*.zh-todesk-cn.hl.cn CNAME .
+hl.cn CNAME .
+*.hl.cn CNAME .
 ho521.cn CNAME .
 *.ho521.cn CNAME .
 hologramid.cn CNAME .
@@ -23974,8 +23958,6 @@ cloudw.com CNAME .
 *.cloudw.com CNAME .
 cloudy-win.com CNAME .
 *.cloudy-win.com CNAME .
-cloudymorningwood.com CNAME .
-*.cloudymorningwood.com CNAME .
 cloudypotsincluded.com CNAME .
 *.cloudypotsincluded.com CNAME .
 clover-seven.com CNAME .
@@ -34644,6 +34626,8 @@ flattenpliable.com CNAME .
 *.flattenpliable.com CNAME .
 flatteringwhirlpooldetergent.com CNAME .
 *.flatteringwhirlpooldetergent.com CNAME .
+flavamovie.com CNAME .
+*.flavamovie.com CNAME .
 flavorists.com CNAME .
 *.flavorists.com CNAME .
 flawedbusiness.com CNAME .
@@ -100954,6 +100938,8 @@ fuwin.sbs CNAME .
 *.fuwin.sbs CNAME .
 ghtzqkwm.sbs CNAME .
 *.ghtzqkwm.sbs CNAME .
+great-fade.sbs CNAME .
+*.great-fade.sbs CNAME .
 instagitkbs.sbs CNAME .
 *.instagitkbs.sbs CNAME .
 jjiu3sqw.sbs CNAME .
@@ -101070,12 +101056,8 @@ barapolaran.shop CNAME .
 *.barapolaran.shop CNAME .
 barmanonymity.shop CNAME .
 *.barmanonymity.shop CNAME .
-chiyouranai.base.shop CNAME .
-*.chiyouranai.base.shop CNAME .
-tokujiro.base.shop CNAME .
-*.tokujiro.base.shop CNAME .
-uranai1111.base.shop CNAME .
-*.uranai1111.base.shop CNAME .
+base.shop CNAME .
+*.base.shop CNAME .
 basiscopyright.shop CNAME .
 *.basiscopyright.shop CNAME .
 battuelevered.shop CNAME .
@@ -101140,8 +101122,6 @@ circleblart.shop CNAME .
 *.circleblart.shop CNAME .
 zx.cleruchfrisky.shop CNAME .
 *.zx.cleruchfrisky.shop CNAME .
-cmlaffirms.shop CNAME .
-*.cmlaffirms.shop CNAME .
 cocx.shop CNAME .
 *.cocx.shop CNAME .
 wt.coecaloppress.shop CNAME .
@@ -107722,8 +107702,6 @@ zlibrary.to CNAME .
 *.100x.today CNAME .
 sub.astroline.today CNAME .
 *.sub.astroline.today CNAME .
-clxuuhlmtvrmt.today CNAME .
-*.clxuuhlmtvrmt.today CNAME .
 core4.today CNAME .
 *.core4.today CNAME .
 datedate.today CNAME .
@@ -112672,6 +112650,8 @@ gsbuvygko.xyz CNAME .
 *.gsbuvygko.xyz CNAME .
 gsmowdykncb.xyz CNAME .
 *.gsmowdykncb.xyz CNAME .
+gtm-tools.xyz CNAME .
+*.gtm-tools.xyz CNAME .
 gtosmdjgn.xyz CNAME .
 *.gtosmdjgn.xyz CNAME .
 guardbyte.xyz CNAME .
@@ -113204,6 +113184,8 @@ rauheestuma.xyz CNAME .
 *.rauheestuma.xyz CNAME .
 razwa.xyz CNAME .
 *.razwa.xyz CNAME .
+re-captcha.xyz CNAME .
+*.re-captcha.xyz CNAME .
 realsh.xyz CNAME .
 *.realsh.xyz CNAME .
 red-track.xyz CNAME .

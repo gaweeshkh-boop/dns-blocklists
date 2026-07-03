@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783064340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783074900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 07:39 UTC
-; Version: 2026.0703.0739.54
+; Last modified: 03 Jul 2026 10:35 UTC
+; Version: 2026.0703.1035.02
 ; Syntax: RPZ
-; Number of entries: 62492
+; Number of entries: 62488
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -59138,8 +59138,6 @@ cb01.us CNAME .
 *.cb01.us CNAME .
 cinepulse.us CNAME .
 *.cinepulse.us CNAME .
-cmovies.us CNAME .
-*.cmovies.us CNAME .
 deadfrog.us CNAME .
 *.deadfrog.us CNAME .
 empornium.us CNAME .
@@ -61436,8 +61434,6 @@ cinepulse.xyz CNAME .
 *.cinepulse.xyz CNAME .
 cloudblink91.xyz CNAME .
 *.cloudblink91.xyz CNAME .
-cmovieshd.xyz CNAME .
-*.cmovieshd.xyz CNAME .
 comandoplay.xyz CNAME .
 *.comandoplay.xyz CNAME .
 cruzing.xyz CNAME .

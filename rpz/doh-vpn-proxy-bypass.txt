@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783064760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783075200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 07:46 UTC
-; Version: 2026.0703.0746.51
+; Last modified: 03 Jul 2026 10:40 UTC
+; Version: 2026.0703.1040.59
 ; Syntax: RPZ
-; Number of entries: 34162
+; Number of entries: 34154
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -5893,8 +5893,6 @@ adguard.cnbeining.com CNAME .
 *.adguard.cnbeining.com CNAME .
 cnelectrictools.com CNAME .
 *.cnelectrictools.com CNAME .
-cnlrdoxd.com CNAME .
-*.cnlrdoxd.com CNAME .
 cns-kuailian.com CNAME .
 *.cns-kuailian.com CNAME .
 readingforfun.co.com CNAME .
@@ -18031,8 +18029,6 @@ hax.co.id CNAME .
 *.hax.co.id CNAME .
 hcpss.keriss.co.id CNAME .
 *.hcpss.keriss.co.id CNAME .
-sammyspawnedhotspot.keriss.co.id CNAME .
-*.sammyspawnedhotspot.keriss.co.id CNAME .
 dns.skuy.co.id CNAME .
 *.dns.skuy.co.id CNAME .
 dns.spil.co.id CNAME .
@@ -31951,16 +31947,12 @@ ddelay.co.uk CNAME .
 *.ddelay.co.uk CNAME .
 adguard.discounthost.co.uk CNAME .
 *.adguard.discounthost.co.uk CNAME .
-www.dnsadguard.co.uk CNAME .
-*.www.dnsadguard.co.uk CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
 dns.gayanalysing.co.uk CNAME .
 *.dns.gayanalysing.co.uk CNAME .
 dns.hashemlabs.co.uk CNAME .
 *.dns.hashemlabs.co.uk CNAME .
-hidemyass.co.uk CNAME .
-*.hidemyass.co.uk CNAME .
 justproxy.co.uk CNAME .
 *.justproxy.co.uk CNAME .
 lamnia.co.uk CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 07:46 UTC
-# Version: 2026.0703.0746.51
+# Last modified: 03 Jul 2026 10:40 UTC
+# Version: 2026.0703.1040.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17081
+# Number of entries: 17077
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -1793,7 +1793,6 @@ local=/adg.datamatter.co.za/
 local=/pihole.datamatter.co.za/
 local=/adguard.discounthost.co.uk/
 local=/sainttech.discountmarineequipment.co.nz/
-local=/www.dnsadguard.co.uk/
 local=/dns.eliv.co.kr/
 local=/gn-z11.franscois.co.za/
 local=/dns.gayanalysing.co.uk/
@@ -1803,7 +1802,6 @@ local=/dns.hashemlabs.co.uk/
 local=/ag.hostme.co.il/
 local=/ixl.math.hsf.co.za/
 local=/hcpss.keriss.co.id/
-local=/sammyspawnedhotspot.keriss.co.id/
 local=/dns.kloiber.co.at/
 local=/dns2.kloiber.co.at/
 local=/saudisdumb.lightingonline.co.za/
@@ -1872,7 +1870,6 @@ local=/ddelay.co.uk/
 local=/diskcrmvpn.co.cc/
 local=/englandproxy.co.uk/
 local=/hax.co.id/
-local=/hidemyass.co.uk/
 local=/insteadvpn.co.cc/
 local=/justproxy.co.uk/
 local=/lamnia.co.uk/
@@ -8921,7 +8918,6 @@ local=/cn-letsvpnapp.com/
 local=/cn-nord.info/
 local=/cn-pc-kuailian.com/
 local=/cnelectrictools.com/
-local=/cnlrdoxd.com/
 local=/cns-kuailian.cn/
 local=/cns-kuailian.com/
 local=/cns-kuailian.net/

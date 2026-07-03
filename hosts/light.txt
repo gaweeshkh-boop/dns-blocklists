@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 07:23 UTC
-# Version: 2026.0703.0723.47
+# Last modified: 03 Jul 2026 10:49 UTC
+# Version: 2026.0703.1049.10
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 90712
+# Number of entries: 90716
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -5217,6 +5217,7 @@
 0.0.0.0 wwetv.5mp.eu
 0.0.0.0 www.5mp.eu
 0.0.0.0 lenovo-mx.5nfc.net
+0.0.0.0 5qryjrx3.xyz
 0.0.0.0 5qzone.net
 0.0.0.0 5thfinger.com
 0.0.0.0 www.5thfinger.com
@@ -5274,6 +5275,7 @@
 0.0.0.0 6grxxoqmpc.com
 0.0.0.0 6i7y3i.ru
 0.0.0.0 6opo.com
+0.0.0.0 6ovzwbq4o.com
 0.0.0.0 metric.6p71hs.top
 0.0.0.0 6pq.cc
 0.0.0.0 6s5acf8d.com
@@ -21927,6 +21929,7 @@
 0.0.0.0 a.bf-tools.net
 0.0.0.0 mds.bf-tools.net
 0.0.0.0 rtt.bf-tools.net
+0.0.0.0 bf88vyyuigm35zb5x.cfd
 0.0.0.0 bfbcaifdhdfdsgdfu.com
 0.0.0.0 bfbfkhz.cc
 0.0.0.0 bfhspobdvajttb.com
@@ -23977,6 +23980,8 @@
 0.0.0.0 buddygays.com
 0.0.0.0 www.buddygays.com
 0.0.0.0 budlniydym.com
+0.0.0.0 budtawney.com
+0.0.0.0 ft.budtawney.com
 0.0.0.0 budwutadb.com
 0.0.0.0 buenashomogenrattier.qpon
 0.0.0.0 bueno-analytics.com
@@ -29698,6 +29703,7 @@
 0.0.0.0 analyticsplus.classlink.com
 0.0.0.0 server.classmates.com
 0.0.0.0 classwindscreensemi.com
+0.0.0.0 claudehub.click
 0.0.0.0 claviermudbank.cyou
 0.0.0.0 clbanners9.com
 0.0.0.0 clbjmp.com
@@ -30376,13 +30382,10 @@
 0.0.0.0 cloudy-with-containers.ch
 0.0.0.0 cloudyjacket.com
 0.0.0.0 www.cloudyjacket.com
-0.0.0.0 cloutrvgkmxam.website
 0.0.0.0 cloverkeys.com
 0.0.0.0 clovermovies.com
 0.0.0.0 clozer.io
-0.0.0.0 clpnkuwcdmunv.space
 0.0.0.0 clprr.com
-0.0.0.0 clptdbrmcaxat.online
 0.0.0.0 clrt.ai
 0.0.0.0 11405.clrt.ai
 0.0.0.0 12114.clrt.ai
@@ -30414,7 +30417,6 @@
 0.0.0.0 pixel.clutter.com
 0.0.0.0 clvafteebrdfk.space
 0.0.0.0 clvrads.com
-0.0.0.0 clyersfrden.cfd
 0.0.0.0 clypeiescapes.com
 0.0.0.0 ns.clypeiescapes.com
 0.0.0.0 clzl.pro
@@ -30427,14 +30429,12 @@
 0.0.0.0 cmcore.com
 0.0.0.0 cmcxmh.com
 0.0.0.0 cmdfmbugzwjkg.site
-0.0.0.0 cmdtumult.cfd
 0.0.0.0 px802.cmediahub.ru
 0.0.0.0 cmexota.ru
 0.0.0.0 www.cmfads.com
 0.0.0.0 cmjvxtwaitw.com
 0.0.0.0 cmmeglobal.com
 0.0.0.0 www.cmmeglobal.com
-0.0.0.0 cmnxkjysvugqj.website
 0.0.0.0 sgtm.cmoa.jp
 0.0.0.0 config.cmpassport.com
 0.0.0.0 config1.cmpassport.com
@@ -30444,7 +30444,6 @@
 0.0.0.0 log-h5.cmpassport.com
 0.0.0.0 log1.cmpassport.com
 0.0.0.0 log2.cmpassport.com
-0.0.0.0 cmpkbyjtsnuny.online
 0.0.0.0 analytics.tepper.cmu.edu
 0.0.0.0 cmvfkxeqwmy.com
 0.0.0.0 ad.cmvideo.cn
@@ -30467,7 +30466,6 @@
 0.0.0.0 s2s.cncpt-central.com
 0.0.0.0 cncptx.com
 0.0.0.0 analytics.cnd-motionmedia.de
-0.0.0.0 cnemicsynthol.qpon
 0.0.0.0 cnetcontentsolutions.com
 0.0.0.0 cnevlso.com
 0.0.0.0 cnb.cnews.ru
@@ -30543,7 +30541,6 @@
 0.0.0.0 adoffice.11st.co.kr
 0.0.0.0 action.adoffice.11st.co.kr
 0.0.0.0 ads.adoffice.11st.co.kr
-0.0.0.0 err.11st.co.kr
 0.0.0.0 rake.11st.co.kr
 0.0.0.0 blog.121416.co.cc
 0.0.0.0 12circles.co.cc
@@ -43825,6 +43822,7 @@
 0.0.0.0 flatjeep.com
 0.0.0.0 flatrate.dk
 0.0.0.0 flattervillage.qpon
+0.0.0.0 flavamovie.com
 0.0.0.0 flaviahackia.shop
 0.0.0.0 flaxentwice.qpon
 0.0.0.0 flayingjuffer.qpon
@@ -44607,6 +44605,7 @@
 0.0.0.0 ftksrnkazgilp.space
 0.0.0.0 ftlaunchpad.ai
 0.0.0.0 ftp21.cc
+0.0.0.0 ftqn9wedv.com
 0.0.0.0 ftuapps.dev
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 www.ftv-publicite.fr
@@ -79439,6 +79438,7 @@
 0.0.0.0 synergy-e.com
 0.0.0.0 synkd.life
 0.0.0.0 synoekyamazia.shop
+0.0.0.0 synoekypods.cfd
 0.0.0.0 smetrics.synopsys.com
 0.0.0.0 syntaxtounlimited.com
 0.0.0.0 synthesiswinterindeed.com
@@ -79813,6 +79813,11 @@
 0.0.0.0 talvurieks-official.net
 0.0.0.0 talvurieks-official-at.com
 0.0.0.0 tamarisoutlet.com
+0.0.0.0 tambet-resmigiris.com
+0.0.0.0 tambetads.vip
+0.0.0.0 tambeteniyigiris.vip
+0.0.0.0 tambetgirisadresic.vip
+0.0.0.0 tambetilkadres.vip
 0.0.0.0 tambetresmigirisim.vip
 0.0.0.0 tame-discount.pro
 0.0.0.0 tamgrt.com
@@ -87101,8 +87106,6 @@
 0.0.0.0 sgtm.weathertech.com
 0.0.0.0 log.weathertrip.net
 0.0.0.0 telemetry.weaviate.io
-0.0.0.0 getandplay.web.id
-0.0.0.0 url.getandplay.web.id
 0.0.0.0 h4g3z1-light.web.app
 0.0.0.0 hosting.web.tr
 0.0.0.0 epimetheus.navigator.web.de
@@ -89283,6 +89286,7 @@
 0.0.0.0 ychsit.com
 0.0.0.0 yckwcpcgnf.com
 0.0.0.0 yckzz7itgxnhkfloxxm.cfd
+0.0.0.0 ycqq-protect.pro
 0.0.0.0 yctoppmxmw.com
 0.0.0.0 ycxrldow.com
 0.0.0.0 ydcjbomim.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 07:39 UTC
-# Version: 2026.0703.0739.54
+# Last modified: 03 Jul 2026 10:35 UTC
+# Version: 2026.0703.1035.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 31246
+# Number of entries: 31244
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -4869,7 +4869,6 @@ local=/cmovies.is/
 local=/cmovies.mobi/
 local=/cmovies.so/
 local=/cmovies.space/
-local=/cmovies.us/
 local=/cmovies.video/
 local=/cmovies.vip/
 local=/cmovies.watch/
@@ -4878,7 +4877,6 @@ local=/cmovieshd.com/
 local=/cmovieshd.lol/
 local=/cmovieshd.net/
 local=/cmovieshd.vip/
-local=/cmovieshd.xyz/
 local=/cmoviesshd.com/
 local=/cn101.ru/
 local=/cnetworkbd.net/

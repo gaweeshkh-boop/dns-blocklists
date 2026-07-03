@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 07:39 UTC
-# Version: 2026.0703.0739.54
+# Last modified: 03 Jul 2026 10:35 UTC
+# Version: 2026.0703.1035.02
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 31246
+# Number of entries: 31244
 #
 *.blink-stresser.000webhostapp.com
 *.ddos-ovh-v6.000webhostapp.com
@@ -4869,7 +4869,6 @@
 *.cmovies.mobi
 *.cmovies.so
 *.cmovies.space
-*.cmovies.us
 *.cmovies.video
 *.cmovies.vip
 *.cmovies.watch
@@ -4878,7 +4877,6 @@
 *.cmovieshd.lol
 *.cmovieshd.net
 *.cmovieshd.vip
-*.cmovieshd.xyz
 *.cmoviesshd.com
 *.cn101.ru
 *.cnetworkbd.net

@@ -3,6 +3,7 @@
 ```
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://aptwatch.org/blocklists/aptw-apt-domains-plain.txt
 https://big.oisd.nl
 https://botvrij.eu/data/ioclist.hostname
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
@@ -18,6 +19,7 @@ https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/04_fake.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/05_popup.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/06_phish.txt
 https://ctu.gov.cz/vyhledavaci-databaze/blokovane-weby/csv
+https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easydutch-ublockorigin.github.io/EasyDutch/EasyDutch.all.txt
 https://easylist-downloads.adblockplus.org/abpindo.txt
@@ -171,6 +173,7 @@ https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/ma
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Ukrainian-EMA-blocklist/main/urls-pihole.txt
+https://raw.githubusercontent.com/ensmingera/infoblox-tif-blocklist/main/lists/infoblox-tif-domains.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt
@@ -180,6 +183,7 @@ https://raw.githubusercontent.com/hectorm/hmirror/refs/heads/master/data/moliner
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alternative%20list%20formats/antimalware_domains_nopups.txt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
+https://raw.githubusercontent.com/Inkrex-dev/SI-CERT-PiHole/refs/heads/main/blocklist_domains.txt
 https://raw.githubusercontent.com/Iqbalnoorkhan/Malicious/main/Domain%20Threat%20Intelligence%20Feed.txt
 https://raw.githubusercontent.com/ITtoB/Main/refs/heads/main/DNSBL.txt
 https://raw.githubusercontent.com/jankais3r/Synology-Safe-Access-domain-list/refs/heads/master/malware.txt
@@ -229,13 +233,23 @@ https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/Neo23x0/signature-base/refs/heads/master/iocs/c2-iocs.txt
 https://raw.githubusercontent.com/NullAngst/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
+https://raw.githubusercontent.com/pathforwardit/BlockList/refs/heads/main/DomainList
+https://raw.githubusercontent.com/Phishcan/phishcan-data/refs/heads/main/api/investor-alerts/investor-alerts.txt
+https://raw.githubusercontent.com/Phishcan/phishcan-data/refs/heads/main/data/banking/canadian_bank_phishing_domains.txt
+https://raw.githubusercontent.com/Phishcan/phishcan-data/refs/heads/main/data/government/canadian_government_phishing_domains.txt
+https://raw.githubusercontent.com/Phishcan/phishcan-data/refs/heads/main/data/utilities/canadian_utilities_phishing_domains.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/content_active.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt
+https://raw.githubusercontent.com/PhishIndex/phishindex-blocklist/refs/heads/main/Data/Malicious%20Domains/txt/all_domains.txt
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.list
 https://raw.githubusercontent.com/Phishing-Database/phishing/refs/heads/master/additions/permanent/domains.wildcard.list
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/remad0/TurkHosts404/refs/heads/main/dns-blocklists/adblock.txt
 https://raw.githubusercontent.com/rjn32s/SentinelPhishFeed/refs/heads/main/domains.txt
+https://raw.githubusercontent.com/romainmarcoux/malicious-domains/refs/heads/main/full-domains-aa.txt
+https://raw.githubusercontent.com/romainmarcoux/malicious-domains/refs/heads/main/full-domains-ab.txt
+https://raw.githubusercontent.com/romainmarcoux/malicious-domains/refs/heads/main/full-domains-ac.txt
 https://raw.githubusercontent.com/sakib-m/BDIX-Piracy-Blocklist/refs/heads/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-trackers.txt
 https://raw.githubusercontent.com/sakib-m/Pi-hole-Torrent-Blocklist/refs/heads/main/all-torrent-websites.txt
@@ -289,6 +303,7 @@ https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
 https://raw.githubusercontent.com/UTKAzureSentinelGithub/CheckPoint_IOCS_URL_FeedList/refs/heads/main/CERT_UA/domains.csv
+https://raw.githubusercontent.com/vraicovi/nysiccau/refs/heads/main/nysicblocklist-DOMAIN.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv

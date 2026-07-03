@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783063380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783075740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 07:23 UTC
-; Version: 2026.0703.0723.47
+; Last modified: 03 Jul 2026 10:49 UTC
+; Version: 2026.0703.1049.10
 ; Syntax: RPZ
-; Number of entries: 86886
+; Number of entries: 86894
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -2602,6 +2602,8 @@ beratsighed.cfd CNAME .
 *.beratsighed.cfd CNAME .
 bespicedoni.cfd CNAME .
 *.bespicedoni.cfd CNAME .
+bf88vyyuigm35zb5x.cfd CNAME .
+*.bf88vyyuigm35zb5x.cfd CNAME .
 bickerpergola.cfd CNAME .
 *.bickerpergola.cfd CNAME .
 bioncrocketleos.cfd CNAME .
@@ -2722,10 +2724,6 @@ ciboriahulkier.cfd CNAME .
 *.ciboriahulkier.cfd CNAME .
 cimeterswail.cfd CNAME .
 *.cimeterswail.cfd CNAME .
-clyersfrden.cfd CNAME .
-*.clyersfrden.cfd CNAME .
-cmdtumult.cfd CNAME .
-*.cmdtumult.cfd CNAME .
 coconaunglove.cfd CNAME .
 *.coconaunglove.cfd CNAME .
 coeditsorpheum.cfd CNAME .
@@ -4238,6 +4236,8 @@ sycheegilpeyoutspin.cfd CNAME .
 *.sycheegilpeyoutspin.cfd CNAME .
 synchednombles.cfd CNAME .
 *.synchednombles.cfd CNAME .
+synoekypods.cfd CNAME .
+*.synoekypods.cfd CNAME .
 t56w3jk3hu3gvj27ee1eo9oy.cfd CNAME .
 *.t56w3jk3hu3gvj27ee1eo9oy.cfd CNAME .
 tactoidbatched.cfd CNAME .
@@ -4742,6 +4742,8 @@ bindirect.click CNAME .
 *.bindirect.click CNAME .
 blogtt-lp.click CNAME .
 *.blogtt-lp.click CNAME .
+claudehub.click CNAME .
+*.claudehub.click CNAME .
 cnfrm-newsale8324.click CNAME .
 *.cnfrm-newsale8324.click CNAME .
 cnfrmnewsale924.click CNAME .
@@ -7468,6 +7470,8 @@ cdn.61yes.com CNAME .
 *.6grxxoqmpc.com CNAME .
 6opo.com CNAME .
 *.6opo.com CNAME .
+6ovzwbq4o.com CNAME .
+*.6ovzwbq4o.com CNAME .
 6s5acf8d.com CNAME .
 *.6s5acf8d.com CNAME .
 6s78n1rj4r.com CNAME .
@@ -18878,6 +18882,8 @@ buddygays.com CNAME .
 *.buddygays.com CNAME .
 budlniydym.com CNAME .
 *.budlniydym.com CNAME .
+budtawney.com CNAME .
+*.budtawney.com CNAME .
 budwutadb.com CNAME .
 *.budwutadb.com CNAME .
 bueno-analytics.com CNAME .
@@ -26432,6 +26438,8 @@ flat-ads.com CNAME .
 *.flat-ads.com CNAME .
 flatjeep.com CNAME .
 *.flatjeep.com CNAME .
+flavamovie.com CNAME .
+*.flavamovie.com CNAME .
 flepquix.com CNAME .
 *.flepquix.com CNAME .
 flerap.com CNAME .
@@ -27082,6 +27090,8 @@ ftbpro.com CNAME .
 *.ftbpro.com CNAME .
 ftjcfx.com CNAME .
 *.ftjcfx.com CNAME .
+ftqn9wedv.com CNAME .
+*.ftqn9wedv.com CNAME .
 fu-nu-ra.com CNAME .
 *.fu-nu-ra.com CNAME .
 fuck-dating.com CNAME .
@@ -48296,6 +48306,8 @@ talvurieks-official-at.com CNAME .
 *.talvurieks-official-at.com CNAME .
 tamarisoutlet.com CNAME .
 *.tamarisoutlet.com CNAME .
+tambet-resmigiris.com CNAME .
+*.tambet-resmigiris.com CNAME .
 tamgrt.com CNAME .
 *.tamgrt.com CNAME .
 tammycooly.com CNAME .
@@ -60940,8 +60952,6 @@ aurum.tirto.id CNAME .
 *.aurum.tirto.id CNAME .
 internetpositif.uzone.id CNAME .
 *.internetpositif.uzone.id CNAME .
-getandplay.web.id CNAME .
-*.getandplay.web.id CNAME .
 z-lib.id CNAME .
 *.z-lib.id CNAME .
 analytics.blogspot.ie CNAME .
@@ -64400,8 +64410,6 @@ bridgelabs.kr CNAME .
 *.bridgelabs.kr CNAME .
 adoffice.11st.co.kr CNAME .
 *.adoffice.11st.co.kr CNAME .
-err.11st.co.kr CNAME .
-*.err.11st.co.kr CNAME .
 rake.11st.co.kr CNAME .
 *.rake.11st.co.kr CNAME .
 ad.about.co.kr CNAME .
@@ -73072,10 +73080,6 @@ cleanerbest.online CNAME .
 *.cleanerbest.online CNAME .
 clicktoupdservice.online CNAME .
 *.clicktoupdservice.online CNAME .
-clptdbrmcaxat.online CNAME .
-*.clptdbrmcaxat.online CNAME .
-cmpkbyjtsnuny.online CNAME .
-*.cmpkbyjtsnuny.online CNAME .
 codedome.online CNAME .
 *.codedome.online CNAME .
 coinads.online CNAME .
@@ -76092,6 +76096,8 @@ woozy-save.pro CNAME .
 *.woozy-save.pro CNAME .
 yatv.pro CNAME .
 *.yatv.pro CNAME .
+ycqq-protect.pro CNAME .
+*.ycqq-protect.pro CNAME .
 zendplace.pro CNAME .
 *.zendplace.pro CNAME .
 analytics.justica.gov.pt CNAME .
@@ -76364,8 +76370,6 @@ cloddyisomerypeesash.qpon CNAME .
 *.cloddyisomerypeesash.qpon CNAME .
 clubbytentory.qpon CNAME .
 *.clubbytentory.qpon CNAME .
-cnemicsynthol.qpon CNAME .
-*.cnemicsynthol.qpon CNAME .
 coarctpoppetnousel.qpon CNAME .
 *.coarctpoppetnousel.qpon CNAME .
 cobaltsvinylsakamai.qpon CNAME .
@@ -82184,8 +82188,6 @@ cllvingprepyt.space CNAME .
 *.cllvingprepyt.space CNAME .
 clnnusgbmqhnr.space CNAME .
 *.clnnusgbmqhnr.space CNAME .
-clpnkuwcdmunv.space CNAME .
-*.clpnkuwcdmunv.space CNAME .
 clvafteebrdfk.space CNAME .
 *.clvafteebrdfk.space CNAME .
 coosdtzwworiu.space CNAME .
@@ -84978,6 +84980,14 @@ opendsp.vip CNAME .
 *.opendsp.vip CNAME .
 sxkj999.vip CNAME .
 *.sxkj999.vip CNAME .
+tambetads.vip CNAME .
+*.tambetads.vip CNAME .
+tambeteniyigiris.vip CNAME .
+*.tambeteniyigiris.vip CNAME .
+tambetgirisadresic.vip CNAME .
+*.tambetgirisadresic.vip CNAME .
+tambetilkadres.vip CNAME .
+*.tambetilkadres.vip CNAME .
 tambetresmigirisim.vip CNAME .
 *.tambetresmigirisim.vip CNAME .
 wwopenclick.vip CNAME .
@@ -85258,10 +85268,6 @@ cdtnwcvokkicw.website CNAME .
 *.cdtnwcvokkicw.website CNAME .
 cgioikozcnuoh.website CNAME .
 *.cgioikozcnuoh.website CNAME .
-cloutrvgkmxam.website CNAME .
-*.cloutrvgkmxam.website CNAME .
-cmnxkjysvugqj.website CNAME .
-*.cmnxkjysvugqj.website CNAME .
 cojotelldfhks.website CNAME .
 *.cojotelldfhks.website CNAME .
 cvapmrecpvrjy.website CNAME .
@@ -86294,6 +86300,8 @@ umami-w4w44gcsokw84wg4w8ow0sgg.05052000.xyz CNAME .
 *.58686728.xyz CNAME .
 5azc.xyz CNAME .
 *.5azc.xyz CNAME .
+5qryjrx3.xyz CNAME .
+*.5qryjrx3.xyz CNAME .
 609999.xyz CNAME .
 *.609999.xyz CNAME .
 64786087.xyz CNAME .

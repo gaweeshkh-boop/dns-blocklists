@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783061340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783072380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 06:49 UTC
-; Version: 2026.0703.0649.28
+; Last modified: 03 Jul 2026 09:53 UTC
+; Version: 2026.0703.0953.38
 ; Syntax: RPZ
-; Number of entries: 33822
+; Number of entries: 33820
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -242,8 +242,6 @@ clifbarosterreich.at CNAME .
 *.clifbarosterreich.at CNAME .
 aeropress.co.at CNAME .
 *.aeropress.co.at CNAME .
-aldo.co.at CNAME .
-*.aldo.co.at CNAME .
 austria-partner.co.at CNAME .
 *.austria-partner.co.at CNAME .
 beurer.co.at CNAME .

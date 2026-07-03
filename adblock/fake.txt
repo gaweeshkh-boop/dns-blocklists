@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jul 2026 06:49 UTC
-! Version: 2026.0703.0649.28
+! Last modified: 03 Jul 2026 09:53 UTC
+! Version: 2026.0703.0953.38
 ! Syntax: AdBlock
-! Number of entries: 16911
+! Number of entries: 16910
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -57,7 +57,6 @@
 ||account.cmagruppe.com^
 ||aeropress.co.at^
 ||aktiennetwork.co.uk^
-||aldo.co.at^
 ||austria-partner.co.at^
 ||belmonthouse.co.za^
 ||beurer.co.at^

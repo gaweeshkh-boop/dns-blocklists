@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 07:46 UTC
-# Version: 2026.0703.0746.51
+# Last modified: 03 Jul 2026 10:40 UTC
+# Version: 2026.0703.1040.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 17081
+# Number of entries: 17077
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -1793,7 +1793,6 @@ adg.datamatter.co.za
 pihole.datamatter.co.za
 adguard.discounthost.co.uk
 sainttech.discountmarineequipment.co.nz
-www.dnsadguard.co.uk
 dns.eliv.co.kr
 gn-z11.franscois.co.za
 dns.gayanalysing.co.uk
@@ -1803,7 +1802,6 @@ dns.hashemlabs.co.uk
 ag.hostme.co.il
 ixl.math.hsf.co.za
 hcpss.keriss.co.id
-sammyspawnedhotspot.keriss.co.id
 dns.kloiber.co.at
 dns2.kloiber.co.at
 saudisdumb.lightingonline.co.za
@@ -1872,7 +1870,6 @@ ddelay.co.uk
 diskcrmvpn.co.cc
 englandproxy.co.uk
 hax.co.id
-hidemyass.co.uk
 insteadvpn.co.cc
 justproxy.co.uk
 lamnia.co.uk
@@ -8921,7 +8918,6 @@ cn-letsvpnapp.com
 cn-nord.info
 cn-pc-kuailian.com
 cnelectrictools.com
-cnlrdoxd.com
 cns-kuailian.cn
 cns-kuailian.com
 cns-kuailian.net

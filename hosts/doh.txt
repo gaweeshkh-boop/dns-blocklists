@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 07:45 UTC
-# Version: 2026.0703.0745.56
+# Last modified: 03 Jul 2026 10:53 UTC
+# Version: 2026.0703.1053.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3882
+# Number of entries: 3881
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -722,7 +722,6 @@
 0.0.0.0 adg.datamatter.co.za
 0.0.0.0 pihole.datamatter.co.za
 0.0.0.0 adguard.discounthost.co.uk
-0.0.0.0 www.dnsadguard.co.uk
 0.0.0.0 dns.eliv.co.kr
 0.0.0.0 gn-z11.franscois.co.za
 0.0.0.0 dns.gayanalysing.co.uk

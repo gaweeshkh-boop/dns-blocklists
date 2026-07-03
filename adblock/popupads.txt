@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jul 2026 06:47 UTC
-! Version: 2026.0703.0647.19
+! Last modified: 03 Jul 2026 09:50 UTC
+! Version: 2026.0703.0950.57
 ! Syntax: AdBlock
-! Number of entries: 56799
+! Number of entries: 56790
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -405,9 +405,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1841,15 +1838,6 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
-||app-google-zh.hl.cn^
-||go-todesk.hl.cn^
-||google-google-chrome-google-com.hl.cn^
-||line-go.hl.cn^
-||qh-qishuiyinyue.hl.cn^
-||qishuimusic-cn.hl.cn^
-||todesk-web.hl.cn^
-||todesk-zh.hl.cn^
-||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||m10.hoes.tube^
 ||yy.hogacotset.com^
@@ -13326,6 +13314,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -17235,7 +17224,6 @@
 ||cloudw.com^
 ||cloudy-win.com^
 ||cloudybar.pro^
-||cloudymorningwood.com^
 ||cloudypotsincluded.com^
 ||cloudyreach.pro^
 ||clover-seven.com^
@@ -17275,7 +17263,6 @@
 ||cluttered-possession.pro^
 ||clutteredbrush.pro^
 ||clvylxsunj.com^
-||clxuuhlmtvrmt.today^
 ||clyvjpuuvreqrgj.com^
 ||cm-trk2.com^
 ||cm-trk3.com^
@@ -17290,7 +17277,6 @@
 ||cmdsgzgn.com^
 ||cmfads.com^
 ||cmkhsigydgefs.site^
-||cmlaffirms.shop^
 ||cmnefjyfgctlw.com^
 ||cmoepgcsnhuhl.com^
 ||cmpgns.net^
@@ -24202,6 +24188,7 @@
 ||flattendollar.com^
 ||flattenpliable.com^
 ||flatteringwhirlpooldetergent.com^
+||flavamovie.com^
 ||flavorists.com^
 ||flawed-earth.pro^
 ||flawedbusiness.com^
@@ -26718,6 +26705,7 @@
 ||greaseguts.com^
 ||greasysquare.com^
 ||great-coach.pro^
+||great-fade.sbs^
 ||greatcomfortable.com^
 ||greatdexchange.com^
 ||greaterjoke.com^
@@ -27020,6 +27008,7 @@
 ||gtitdwvw.com^
 ||gtithiojf.com^
 ||gtlook.com^
+||gtm-tools.xyz^
 ||gtosmdjgn.xyz^
 ||gtrem.site^
 ||gtrlhbeizihyy.site^
@@ -28191,6 +28180,7 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
+||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -43542,6 +43532,7 @@
 ||rdyipjcfgurypl.com^
 ||rdzjxlizigryv.online^
 ||rdzretjctqkcn.site^
+||re-captcha.xyz^
 ||re-de.shop^
 ||rea-love.net^
 ||reacheffecti.work^
