@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783147740 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783188600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jul 2026 06:49 UTC
-; Version: 2026.0704.0649.32
+; Last modified: 04 Jul 2026 18:10 UTC
+; Version: 2026.0704.1810.02
 ; Syntax: RPZ
-; Number of entries: 19988
+; Number of entries: 19982
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4287,8 +4287,6 @@ f5url.com CNAME .
 *.f5url.com CNAME .
 f5yo.com CNAME .
 *.f5yo.com CNAME .
-facebookprofiles.com CNAME .
-*.facebookprofiles.com CNAME .
 faceboook-app.com CNAME .
 *.faceboook-app.com CNAME .
 fadurl.com CNAME .
@@ -12651,8 +12649,6 @@ faras.link CNAME .
 *.faras.link CNAME .
 fastfilehost.link CNAME .
 *.fastfilehost.link CNAME .
-fasturl.link CNAME .
-*.fasturl.link CNAME .
 fattoincasadabenedetta.link CNAME .
 *.fattoincasadabenedetta.link CNAME .
 fbstw.link CNAME .
@@ -17669,8 +17665,6 @@ empukjeru.site CNAME .
 *.empukjeru.site CNAME .
 fastslinks.site CNAME .
 *.fastslinks.site CNAME .
-firelinks.site CNAME .
-*.firelinks.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
 glowin88.site CNAME .

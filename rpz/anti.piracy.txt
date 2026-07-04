@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783150620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783191540 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jul 2026 07:37 UTC
-; Version: 2026.0704.0737.08
+; Last modified: 04 Jul 2026 18:59 UTC
+; Version: 2026.0704.1859.38
 ; Syntax: RPZ
-; Number of entries: 63226
+; Number of entries: 63188
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1178,8 +1178,6 @@ filmoflix.best CNAME .
 *.filmoflix.best CNAME .
 filmsenzalimiti.best CNAME .
 *.filmsenzalimiti.best CNAME .
-flyembed.best CNAME .
-*.flyembed.best CNAME .
 guardaserietv.best CNAME .
 *.guardaserietv.best CNAME .
 hdfilm.best CNAME .
@@ -1332,6 +1330,8 @@ streamcloud.bid CNAME .
 *.streamcloud.bid CNAME .
 streamingcommunityz.bid CNAME .
 *.streamingcommunityz.bid CNAME .
+unblockit.bid CNAME .
+*.unblockit.bid CNAME .
 piratebay.unlockpro.bid CNAME .
 *.piratebay.unlockpro.bid CNAME .
 5movierulz2.bike CNAME .
@@ -3366,8 +3366,6 @@ filmstreaming.cc CNAME .
 *.filmstreaming.cc CNAME .
 filmstreamingvf.cc CNAME .
 *.filmstreamingvf.cc CNAME .
-filser.cc CNAME .
-*.filser.cc CNAME .
 fitgirl.cc CNAME .
 *.fitgirl.cc CNAME .
 fitgirl-repacks.cc CNAME .
@@ -5064,8 +5062,6 @@ eurostreaming.co CNAME .
 *.eurostreaming.co CNAME .
 exsites.co CNAME .
 *.exsites.co CNAME .
-f2movie.co CNAME .
-*.f2movie.co CNAME .
 f5movies.co CNAME .
 *.f5movies.co CNAME .
 filmesonlinegratis.co CNAME .
@@ -7890,8 +7886,6 @@ esmeraldatorrent.com CNAME .
 *.esmeraldatorrent.com CNAME .
 espace-ekinoxe.com CNAME .
 *.espace-ekinoxe.com CNAME .
-estrenoslatinos.com CNAME .
-*.estrenoslatinos.com CNAME .
 etproxy.com CNAME .
 *.etproxy.com CNAME .
 ettvcentral.com CNAME .
@@ -7942,8 +7936,6 @@ extratorrent.com CNAME .
 *.extratorrent.com CNAME .
 extratorrentonline.com CNAME .
 *.extratorrentonline.com CNAME .
-extreme-d0wn.com CNAME .
-*.extreme-d0wn.com CNAME .
 t.extreme-dm.com CNAME .
 *.t.extreme-dm.com CNAME .
 extremlymtorrents.com CNAME .
@@ -8086,8 +8078,6 @@ filmoflix-site.com CNAME .
 *.filmoflix-site.com CNAME .
 filmpertutti.com CNAME .
 *.filmpertutti.com CNAME .
-filmplusapp.com CNAME .
-*.filmplusapp.com CNAME .
 filmraja.com CNAME .
 *.filmraja.com CNAME .
 filmrls.com CNAME .
@@ -8190,8 +8180,6 @@ fmovies-app.com CNAME .
 *.fmovies-app.com CNAME .
 fmovies-io.com CNAME .
 *.fmovies-io.com CNAME .
-fmovies-too.com CNAME .
-*.fmovies-too.com CNAME .
 fmovies09.com CNAME .
 *.fmovies09.com CNAME .
 fmovies1.com CNAME .
@@ -9864,6 +9852,8 @@ megakino7.com CNAME .
 *.megakino7.com CNAME .
 megakino8.com CNAME .
 *.megakino8.com CNAME .
+megakino9.com CNAME .
+*.megakino9.com CNAME .
 megamanmaker.com CNAME .
 *.megamanmaker.com CNAME .
 megamodapk.com CNAME .
@@ -14208,8 +14198,6 @@ cineby.cyou CNAME .
 *.cineby.cyou CNAME .
 cricfree.cyou CNAME .
 *.cricfree.cyou CNAME .
-eurostream.cyou CNAME .
-*.eurostream.cyou CNAME .
 film-pertutti.cyou CNAME .
 *.film-pertutti.cyou CNAME .
 filmoflix.cyou CNAME .
@@ -16148,8 +16136,6 @@ duboku.fun CNAME .
 *.duboku.fun CNAME .
 dvoynik-lordfilm.fun CNAME .
 *.dvoynik-lordfilm.fun CNAME .
-egydead.fun CNAME .
-*.egydead.fun CNAME .
 eonmovies.fun CNAME .
 *.eonmovies.fun CNAME .
 eurostreaming.fun CNAME .
@@ -16158,12 +16144,8 @@ eurostreamings.fun CNAME .
 *.eurostreamings.fun CNAME .
 eyforiya-lordfilm.fun CNAME .
 *.eyforiya-lordfilm.fun CNAME .
-fantasy-lordfilm.fun CNAME .
-*.fantasy-lordfilm.fun CNAME .
 fbr-lordfilm.fun CNAME .
 *.fbr-lordfilm.fun CNAME .
-filin-lordfilm.fun CNAME .
-*.filin-lordfilm.fun CNAME .
 filmapik.fun CNAME .
 *.filmapik.fun CNAME .
 filmix.fun CNAME .
@@ -16804,8 +16786,6 @@ torrentz2.hair CNAME .
 *.torrentz2.hair CNAME .
 uhdmovies.hair CNAME .
 *.uhdmovies.hair CNAME .
-vegamovies.hair CNAME .
-*.vegamovies.hair CNAME .
 123movies.haus CNAME .
 *.123movies.haus CNAME .
 altadefinizione.haus CNAME .
@@ -20098,8 +20078,6 @@ dood.ink CNAME .
 *.dood.ink CNAME .
 egydead.ink CNAME .
 *.egydead.ink CNAME .
-eurostreaming.ink CNAME .
-*.eurostreaming.ink CNAME .
 eurostreamings.ink CNAME .
 *.eurostreamings.ink CNAME .
 extraflix.ink CNAME .
@@ -37262,8 +37240,6 @@ torrents.emu-russia.net CNAME .
 *.torrents.emu-russia.net CNAME .
 emulatorgames.net CNAME .
 *.emulatorgames.net CNAME .
-engbookspdf.net CNAME .
-*.engbookspdf.net CNAME .
 ayu-tracker.enlist-a-distro.net CNAME .
 *.ayu-tracker.enlist-a-distro.net CNAME .
 envasion.net CNAME .
@@ -37372,8 +37348,6 @@ free-mp3-download.net CNAME .
 *.free-mp3-download.net CNAME .
 free-telecharger.net CNAME .
 *.free-telecharger.net CNAME .
-free123movies.net CNAME .
-*.free123movies.net CNAME .
 freebestmovies.net CNAME .
 *.freebestmovies.net CNAME .
 freefireadvance.net CNAME .
@@ -39312,8 +39286,6 @@ tracker1.loli.co.nz CNAME .
 *.tracker1.loli.co.nz CNAME .
 mega.co.nz CNAME .
 *.mega.co.nz CNAME .
-fmovies.nz CNAME .
-*.fmovies.nz CNAME .
 hdmovie2.nz CNAME .
 *.hdmovie2.nz CNAME .
 hianime.nz CNAME .
@@ -39846,8 +39818,6 @@ cineblog001.onl CNAME .
 *.cineblog001.onl CNAME .
 dizimag.onl CNAME .
 *.dizimag.onl CNAME .
-egydead.onl CNAME .
-*.egydead.onl CNAME .
 esk.onl CNAME .
 *.esk.onl CNAME .
 gomovies.onl CNAME .
@@ -40074,8 +40044,6 @@ fitgirlrepack.online CNAME .
 *.fitgirlrepack.online CNAME .
 fitgirlrepacks.online CNAME .
 *.fitgirlrepacks.online CNAME .
-flemmix.online CNAME .
-*.flemmix.online CNAME .
 fmovies-hd.online CNAME .
 *.fmovies-hd.online CNAME .
 fmovies0.online CNAME .
@@ -47348,8 +47316,6 @@ flesh-lordfilm3.ru CNAME .
 *.flesh-lordfilm3.ru CNAME .
 fleshs-lordfilm.ru CNAME .
 *.fleshs-lordfilm.ru CNAME .
-flrlordfilm.ru CNAME .
-*.flrlordfilm.ru CNAME .
 foff.ru CNAME .
 *.foff.ru CNAME .
 folautt-lordfilm.ru CNAME .
@@ -57212,8 +57178,6 @@ fastclick.to CNAME .
 *.fastclick.to CNAME .
 fbox.to CNAME .
 *.fbox.to CNAME .
-fboxz.to CNAME .
-*.fboxz.to CNAME .
 filemoon.to CNAME .
 *.filemoon.to CNAME .
 tpb.filepit.to CNAME .
@@ -62232,8 +62196,6 @@ firstrow1.xyz CNAME .
 *.firstrow1.xyz CNAME .
 flixanity.xyz CNAME .
 *.flixanity.xyz CNAME .
-fluxyrepacks.xyz CNAME .
-*.fluxyrepacks.xyz CNAME .
 fmhy.xyz CNAME .
 *.fmhy.xyz CNAME .
 fmovies-app.xyz CNAME .

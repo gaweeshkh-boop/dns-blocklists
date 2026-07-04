@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jul 2026 06:49 UTC
-! Version: 2026.0704.0649.32
+! Last modified: 04 Jul 2026 18:10 UTC
+! Version: 2026.0704.1810.02
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -3296,7 +3296,6 @@
 @@||fa.gd^
 @@||fa-st.co^
 @@||facebookid.live^
-@@||facebookprofiles.com^
 @@||faceboook-app.com^
 @@||fadurl.com^
 @@||fal.cn^
@@ -3318,7 +3317,6 @@
 @@||fastserp.com^
 @@||fastslinks.site^
 @@||fasttory.com^
-@@||fasturl.link^
 @@||fattoincasadabenedetta.link^
 @@||faturl.com^
 @@||fav.me^
@@ -3376,7 +3374,6 @@
 @@||finy.me^
 @@||fire.to^
 @@||firefone.com^
-@@||firelinks.site^
 @@||firsturl.de^
 @@||firsturl.net^
 @@||fitnur.com^

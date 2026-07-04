@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jul 2026 06:49 UTC
-# Version: 2026.0704.0649.32
+# Last modified: 04 Jul 2026 18:10 UTC
+# Version: 2026.0704.1810.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9994
+# Number of entries: 9991
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -3301,7 +3301,6 @@ local=/fa.by/
 local=/fa.gd/
 local=/fa-st.co/
 local=/facebookid.live/
-local=/facebookprofiles.com/
 local=/faceboook-app.com/
 local=/fadurl.com/
 local=/fal.cn/
@@ -3323,7 +3322,6 @@ local=/fastjpeg.net/
 local=/fastserp.com/
 local=/fastslinks.site/
 local=/fasttory.com/
-local=/fasturl.link/
 local=/fattoincasadabenedetta.link/
 local=/faturl.com/
 local=/fav.me/
@@ -3381,7 +3379,6 @@ local=/findmylink.org/
 local=/finy.me/
 local=/fire.to/
 local=/firefone.com/
-local=/firelinks.site/
 local=/firsturl.de/
 local=/firsturl.net/
 local=/fitnur.com/

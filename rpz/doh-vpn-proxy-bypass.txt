@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783151040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783191960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jul 2026 07:44 UTC
-; Version: 2026.0704.0744.07
+; Last modified: 04 Jul 2026 19:06 UTC
+; Version: 2026.0704.1906.33
 ; Syntax: RPZ
-; Number of entries: 34014
+; Number of entries: 33968
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -609,8 +609,6 @@ booking.traveling.com.ar CNAME .
 *.booking.traveling.com.ar CNAME .
 dogebynirb.winkel.com.ar CNAME .
 *.dogebynirb.winkel.com.ar CNAME .
-bu-saeed.feversani.ar CNAME .
-*.bu-saeed.feversani.ar CNAME .
 kjlefsdklj.wkjdfls.algoliq.net.ar CNAME .
 *.kjlefsdklj.wkjdfls.algoliq.net.ar CNAME .
 login.i-ready.com.a.noviolencia.ar CNAME .
@@ -2449,10 +2447,6 @@ sss.datamining.cl CNAME .
 *.67hub.decoro.cl CNAME .
 ayosuproman.elmvp.cl CNAME .
 *.ayosuproman.elmvp.cl CNAME .
-how-about-no.esal.cl CNAME .
-*.how-about-no.esal.cl CNAME .
-do-not-block.exmec.cl CNAME .
-*.do-not-block.exmec.cl CNAME .
 ahhhh.fqcomics.cl CNAME .
 *.ahhhh.fqcomics.cl CNAME .
 goon.fqcomics.cl CNAME .
@@ -7471,8 +7465,6 @@ embedlydesk.com CNAME .
 *.embedlydesk.com CNAME .
 coreenglish.emili.com CNAME .
 *.coreenglish.emili.com CNAME .
-learn-vcsa.emili.com CNAME .
-*.learn-vcsa.emili.com CNAME .
 emuby.com CNAME .
 *.emuby.com CNAME .
 en-proxy.com CNAME .
@@ -15711,10 +15703,6 @@ adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 darkweb.cyou CNAME .
 *.darkweb.cyou CNAME .
-cloaked.endis.cyou CNAME .
-*.cloaked.endis.cyou CNAME .
-why.endis.cyou CNAME .
-*.why.endis.cyou CNAME .
 extrememath.cyou CNAME .
 *.extrememath.cyou CNAME .
 feiba.cyou CNAME .
@@ -20405,8 +20393,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 encrypt-panicnitro.me CNAME .
 *.encrypt-panicnitro.me CNAME .
-drive.google.com.exid.me CNAME .
-*.drive.google.com.exid.me CNAME .
 faceless.me CNAME .
 *.faceless.me CNAME .
 adguard1.fampopprol.me CNAME .
@@ -23483,10 +23469,6 @@ faradns2.net CNAME .
 *.faradns2.net CNAME .
 cayden.farted.net CNAME .
 *.cayden.farted.net CNAME .
-i.friggin.farted.net CNAME .
-*.i.friggin.farted.net CNAME .
-gooogledotcomorsomethingjust.farted.net CNAME .
-*.gooogledotcomorsomethingjust.farted.net CNAME .
 nglbrowhatthesigiihakeohio.farted.net.farted.net CNAME .
 *.nglbrowhatthesigiihakeohio.farted.net.farted.net CNAME .
 fast91.net CNAME .
@@ -28779,8 +28761,6 @@ muromachibaku.drciocan.ro CNAME .
 *.muromachibaku.drciocan.ro CNAME .
 101-history.eminescusm.ro CNAME .
 *.101-history.eminescusm.ro CNAME .
-67w9rudidjeieu.eminescusm.ro CNAME .
-*.67w9rudidjeieu.eminescusm.ro CNAME .
 aaaaaaaaaaaa.eminescusm.ro CNAME .
 *.aaaaaaaaaaaa.eminescusm.ro CNAME .
 amcgoogles-life.eminescusm.ro CNAME .
@@ -28789,16 +28769,12 @@ artistic-education.eminescusm.ro CNAME .
 *.artistic-education.eminescusm.ro CNAME .
 dingus-mcgoogle-learning.eminescusm.ro CNAME .
 *.dingus-mcgoogle-learning.eminescusm.ro CNAME .
-first-pie.eminescusm.ro CNAME .
-*.first-pie.eminescusm.ro CNAME .
 galaxy.eminescusm.ro CNAME .
 *.galaxy.eminescusm.ro CNAME .
 gogaurdian.eminescusm.ro CNAME .
 *.gogaurdian.eminescusm.ro CNAME .
 history.eminescusm.ro CNAME .
 *.history.eminescusm.ro CNAME .
-keir8ridejeiconteleeper.eminescusm.ro CNAME .
-*.keir8ridejeiconteleeper.eminescusm.ro CNAME .
 kreekreekree.eminescusm.ro CNAME .
 *.kreekreekree.eminescusm.ro CNAME .
 mcgoogle-days.eminescusm.ro CNAME .
@@ -28807,24 +28783,10 @@ r4ferntest.eminescusm.ro CNAME .
 *.r4ferntest.eminescusm.ro CNAME .
 r4sele.eminescusm.ro CNAME .
 *.r4sele.eminescusm.ro CNAME .
-r4yne-endis.eminescusm.ro CNAME .
-*.r4yne-endis.eminescusm.ro CNAME .
-r4yne-endis-2.eminescusm.ro CNAME .
-*.r4yne-endis-2.eminescusm.ro CNAME .
-r4yne-endis-auiscool.eminescusm.ro CNAME .
-*.r4yne-endis-auiscool.eminescusm.ro CNAME .
-r4yne-endis-idk.eminescusm.ro CNAME .
-*.r4yne-endis-idk.eminescusm.ro CNAME .
-r4yne-fern.eminescusm.ro CNAME .
-*.r4yne-fern.eminescusm.ro CNAME .
-r4yne-galaxy.eminescusm.ro CNAME .
-*.r4yne-galaxy.eminescusm.ro CNAME .
 ramm.eminescusm.ro CNAME .
 *.ramm.eminescusm.ro CNAME .
 rrrtytrtghytrfh.eminescusm.ro CNAME .
 *.rrrtytrtghytrfh.eminescusm.ro CNAME .
-im-poor-in.sab.eminescusm.ro CNAME .
-*.im-poor-in.sab.eminescusm.ro CNAME .
 wow.fun.cool.glasstechnik.ro CNAME .
 *.wow.fun.cool.glasstechnik.ro CNAME .
 roadesdyn.go.ro CNAME .
@@ -31321,8 +31283,6 @@ extravpn.top CNAME .
 *.extravpn.top CNAME .
 ad.fai001.top CNAME .
 *.ad.fai001.top CNAME .
-falconon.top CNAME .
-*.falconon.top CNAME .
 fc01-ne6s3ngb.top CNAME .
 *.fc01-ne6s3ngb.top CNAME .
 fc02-lsb1l5ig.top CNAME .
@@ -31891,8 +31851,6 @@ doh.dnscrypt.uk CNAME .
 *.doh.dnscrypt.uk CNAME .
 v.dnscrypt.uk CNAME .
 *.v.dnscrypt.uk CNAME .
-mathiscool.eemotors.uk CNAME .
-*.mathiscool.eemotors.uk CNAME .
 tycoonisthebest.freeddns.uk CNAME .
 *.tycoonisthebest.freeddns.uk CNAME .
 dns.goshawk22.uk CNAME .
@@ -33091,8 +33049,6 @@ ednovas.xyz CNAME .
 *.ednovas.xyz CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
-blog.electricpiano.xyz CNAME .
-*.blog.electricpiano.xyz CNAME .
 elvkd0.xyz CNAME .
 *.elvkd0.xyz CNAME .
 epolx.xyz CNAME .
@@ -33123,8 +33079,6 @@ fireinspector.xyz CNAME .
 *.fireinspector.xyz CNAME .
 flexline.xyz CNAME .
 *.flexline.xyz CNAME .
-www-proxy.fluxis.xyz CNAME .
-*.www-proxy.fluxis.xyz CNAME .
 fooksun.xyz CNAME .
 *.fooksun.xyz CNAME .
 forhex.xyz CNAME .

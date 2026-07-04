@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jul 2026 07:44 UTC
-# Version: 2026.0704.0744.07
+# Last modified: 04 Jul 2026 19:06 UTC
+# Version: 2026.0704.1906.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17007
+# Number of entries: 16984
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -2824,7 +2824,6 @@ local=/agh.amber.edu.vn/
 local=/adblocker.institutobancario.edu.mx/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/academi.edu.pl/
-local=/mathiscool.eemotors.uk/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
 local=/dns.efficientdocuments.com/
@@ -2834,7 +2833,6 @@ local=/doh.eieidns.com/
 local=/adguard.eischmann.cz/
 local=/dd.elashri.net/
 local=/hole.elbschloss.xyz/
-local=/blog.electricpiano.xyz/
 local=/dns.electrotm.org/
 local=/pdns.elecura.net/
 local=/dns.elemental.software/
@@ -2844,36 +2842,23 @@ local=/ayosuproman.elmvp.cl/
 local=/adguard.elrobit.com/
 local=/nas.embraced.co/
 local=/coreenglish.emili.com/
-local=/learn-vcsa.emili.com/
-local=/im-poor-in.sab.eminescusm.ro/
 local=/101-history.eminescusm.ro/
-local=/67w9rudidjeieu.eminescusm.ro/
 local=/aaaaaaaaaaaa.eminescusm.ro/
 local=/amcgoogles-life.eminescusm.ro/
 local=/artistic-education.eminescusm.ro/
 local=/dingus-mcgoogle-learning.eminescusm.ro/
-local=/first-pie.eminescusm.ro/
 local=/galaxy.eminescusm.ro/
 local=/gogaurdian.eminescusm.ro/
 local=/history.eminescusm.ro/
-local=/keir8ridejeiconteleeper.eminescusm.ro/
 local=/kreekreekree.eminescusm.ro/
 local=/mcgoogle-days.eminescusm.ro/
 local=/r4ferntest.eminescusm.ro/
 local=/r4sele.eminescusm.ro/
-local=/r4yne-endis.eminescusm.ro/
-local=/r4yne-endis-2.eminescusm.ro/
-local=/r4yne-endis-auiscool.eminescusm.ro/
-local=/r4yne-endis-idk.eminescusm.ro/
-local=/r4yne-fern.eminescusm.ro/
-local=/r4yne-galaxy.eminescusm.ro/
 local=/ramm.eminescusm.ro/
 local=/rrrtytrtghytrfh.eminescusm.ro/
 local=/websiteiseasy.emtbiceland.is/
 local=/gdns.end.pub/
 local=/hk.end.pub/
-local=/cloaked.endis.cyou/
-local=/why.endis.cyou/
 local=/verify.endiseducation.com/
 local=/confess.endtimeassembly.org/
 local=/plant.smart.energysemi.com/
@@ -2907,7 +2892,6 @@ local=/dns.erkin.top/
 local=/agh.ero-sayhi.com/
 local=/sixseven67.errorrail.dev/
 local=/doh.ersei.net/
-local=/how-about-no.esal.cl/
 local=/dns.esegece.com/
 local=/dns-family.esegece.com/
 local=/dns.esnube.es/
@@ -2963,11 +2947,9 @@ local=/zexrctvjykiuln.evils.in/
 local=/exns1.exalto.nu/
 local=/garlandisd.exerciseandmind.com/
 local=/dns.exhome.pl/
-local=/drive.google.com.exid.me/
 local=/adguard.eximpius.xyz/
 local=/dns.exitstat.us/
 local=/adguard.exium.net/
-local=/do-not-block.exmec.cl/
 local=/dns.exonip.de/
 local=/rh4.ext.rocks/
 local=/proxy.extension.vn/
@@ -3015,10 +2997,8 @@ local=/dns.fancyorg.at/
 local=/dns.farakaft.ir/
 local=/dns.farshidhakimy.de/
 local=/dns.farshmc.ru/
-local=/i.friggin.farted.net/
 local=/nglbrowhatthesigiihakeohio.farted.net.farted.net/
 local=/cayden.farted.net/
-local=/gooogledotcomorsomethingjust.farted.net/
 local=/kendrickandpetezah.s81.fast-page.org/
 local=/asteroid.freetls.fastly.net/
 local=/f.freetls.fastly.net/
@@ -3102,7 +3082,6 @@ local=/dns.fehlsprache.de/
 local=/ag.felixf.eu/
 local=/home.fendya.com/
 local=/beacon.fengli.love/
-local=/bu-saeed.feversani.ar/
 local=/ag.ff0x.ca/
 local=/dnscrypt-cert.ffmuc.net/
 local=/doh.ffmuc.net/
@@ -3142,7 +3121,6 @@ local=/resolv.flokinet.net/
 local=/dns.floriantinney.de/
 local=/agh.fltn.us/
 local=/dns.flux24.net/
-local=/www-proxy.fluxis.xyz/
 local=/notdominospizzeria.fluxus.org/
 local=/dns.flwagners.com/
 local=/dns.flyer.vn/
@@ -9851,7 +9829,6 @@ local=/faceless.me/
 local=/fairfieldps.org/
 local=/fakeip.org/
 local=/falais.com/
-local=/falconon.top/
 local=/fallin.app/
 local=/familyfirst.church/
 local=/famiroq.ru/
