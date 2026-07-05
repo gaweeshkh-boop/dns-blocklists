@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jul 2026 18:10 UTC
-! Version: 2026.0704.1810.02
+! Last modified: 05 Jul 2026 06:57 UTC
+! Version: 2026.0705.0657.37
 ! Syntax: AdBlock
-! Number of entries: 9991
+! Number of entries: 9987
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -99,7 +99,6 @@
 ||ai.blendnow.com^
 ||s.block183.net^
 ||talk.bloomup.org^
-||ro.blox.com^
 ||shortener.blueeyestech.com^
 ||tu.bongobd.com^
 ||cdl.booksy.com^
@@ -3490,7 +3489,6 @@
 ||frli.net^
 ||frs.ink^
 ||fscu.net^
-||fstgo.to^
 ||fstrk.cc^
 ||fsu.ro^
 ||fsv.tf^
@@ -3617,13 +3615,11 @@
 ||getlickd.com^
 ||getlink.at^
 ||getlink.space^
-||getmovie.vip^
 ||getpcp.net^
 ||getrecipe.pro^
 ||getshort.in^
 ||getshorter.com^
 ||getsmallurl.com^
-||getsterlink.com^
 ||getthot.com^
 ||gettolink.net^
 ||getus.at^

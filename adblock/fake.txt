@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jul 2026 18:08 UTC
-! Version: 2026.0704.1808.22
+! Last modified: 05 Jul 2026 06:55 UTC
+! Version: 2026.0705.0655.38
 ! Syntax: AdBlock
-! Number of entries: 16857
+! Number of entries: 16809
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -276,15 +276,9 @@
 ||nss.gevestor.de^
 ||de.givalli-lifestyle.com^
 ||funnel.gluckaro.de^
-||at.gluconv.com^
-||ch.gluconv.com^
-||de.gluconv.com^
-||fr.gluconv.com^
-||gr.gluconv.com^
 ||fr.grandcapital.net^
 ||www.quantum.groupe.com^
 ||login.groupsecuritiesdublin.com^
-||account.gruppesoumerax.com^
 ||de.gvgmall.com^
 ||adl.gwrxbt.shop^
 ||rzycucbupk.gyhjjifm.beauty^
@@ -1787,6 +1781,7 @@
 ||babyausstattung-de.com^
 ||babybay-de.com^
 ||babybox-schweiz.ch^
+||babybubblestore.com^
 ||babycookie.online^
 ||babygea.com^
 ||babyglueckshop.com^
@@ -2171,6 +2166,7 @@
 ||bestartikel-online.com^
 ||bestbikecyclinggear.com^
 ||bestcarpartdepot.com^
+||bestchoicepills.com^
 ||bestclothes.club^
 ||bestdealtoday.net^
 ||bestdrugstore247.com^
@@ -4182,6 +4178,7 @@
 ||discountbloc.ru^
 ||discountcanadadrugs.com^
 ||discountdlife.shop^
+||discountdrugsfromcanada.com^
 ||discounted.bike^
 ||discountfahrradde.com^
 ||discountheldende.de^
@@ -5047,7 +5044,6 @@
 ||evosgaming-15l.site^
 ||evutal.com^
 ||ewige-seide.de^
-||ewigerbund.org^
 ||ewigesleder.com^
 ||exakubusinessclub.com^
 ||excap.org^
@@ -5598,7 +5594,6 @@
 ||followslow.com^
 ||foluna.fr^
 ||fomozo.de^
-||fondinvestcapital.com^
 ||fondluck.com^
 ||fondsavenue.com^
 ||fontancasino-online.de^
@@ -5608,7 +5603,6 @@
 ||footjoy-suomi.com^
 ||footjoygolfshoesuk.com^
 ||footjoyjapan.net^
-||footjoyosterreich.at^
 ||footjoyoutletfactory.us^
 ||footjoyoutletmexico.com^
 ||footjoys.at^
@@ -5681,7 +5675,6 @@
 ||francescobellani.com^
 ||franke-it.solutions^
 ||frankfurteintrachtshop.com^
-||frankfurtmodehaus.de^
 ||frankiesbikinishop.com^
 ||frankiesdubai.com^
 ||franziskasblumenwelt.de^
@@ -5766,14 +5759,12 @@
 ||frohe-herzen.de^
 ||frohzeit.de^
 ||frontaley.com^
-||frontrunningbot.net^
 ||frost-wind.de^
 ||frostorio.shop^
 ||fruechtepfluecken.ch^
 ||fruitfult.com^
 ||fryeschuhe.de^
 ||ftexvip.com^
-||ftmxglobal.com^
 ||ftradition.com^
 ||ftzs.net^
 ||fu-ostholstein.de^
@@ -5805,8 +5796,6 @@
 ||furnituretaste.com^
 ||furnitureustrade.com^
 ||furrying.com^
-||furzuhause.com^
-||fusionkick.com^
 ||fussballarea.de^
 ||fussballfanstore.com^
 ||fussballm2c.com^
@@ -5821,12 +5810,10 @@
 ||future-sales.com^
 ||futurecartdeals.com^
 ||futureftrader.net^
-||futuregolds.com^
 ||futurmarket.com^
 ||fvkiwanis.org^
 ||fwertty.shop^
 ||fx-ln.com^
-||fx-vantage.com^
 ||fxalta.com^
 ||fxandco.com^
 ||fxcapitalbank.com^
@@ -5842,7 +5829,6 @@
 ||fynixia.com^
 ||fyregaming.com^
 ||fyssea.com^
-||fzjewelry.com^
 ||gaballo-handel.de^
 ||gabion24.de^
 ||gaboraustralia.com^
@@ -5861,7 +5847,6 @@
 ||gaborschoenen.com^
 ||gaborschuhe.at^
 ||gaborschuhe.com^
-||gaborschuhe-damen.com^
 ||gaborschuhesale.de^
 ||gaborschuheschweiz.com^
 ||gaborschuhesuisse.com^
@@ -5914,7 +5899,6 @@
 ||gaming-experte-de.com^
 ||gaming-gorilla.de^
 ||gaming-king.de^
-||gaming-klassiker.de^
 ||gaming-monster.de^
 ||gaming-peaks-getaway.com^
 ||gamingbuddy.eu^
@@ -5936,7 +5920,6 @@
 ||garden-caddy.de^
 ||garden-machines-shop.com^
 ||garden-outdoor.com^
-||gardenfurniture-shop.com^
 ||gardenmow.com^
 ||gardenpoint.info^
 ||gardentoolsaleshop.com^
@@ -5951,7 +5934,6 @@
 ||garten-outdoor.com^
 ||garten-pflanzen-pro.com^
 ||garten-profi24.de^
-||garten-rasentraktor.com^
 ||garten-see.de^
 ||garten-sommer.de^
 ||garten-steckby.de^
@@ -5967,7 +5949,6 @@
 ||gartenbaukunster.de^
 ||gartenbaurheinruhr.de^
 ||gartenbedarf-ehlers.de^
-||gartenbedarfs-de.com^
 ||gartenbiliger.com^
 ||gartenbnke.com^
 ||gartenbotde.com^
@@ -5989,7 +5970,6 @@
 ||gartengreifer.de^
 ||gartenguenter.de^
 ||gartenhausmodern.com^
-||garteni.de^
 ||gartenil.com^
 ||gartenira.com^
 ||gartenix.com^
@@ -6033,12 +6013,10 @@
 ||gartenstores.com^
 ||gartenstuhlemetall.com^
 ||gartentischede.com^
-||gartentraktor.com^
 ||gartentrend.shop^
 ||gartenundanhaenger.de^
 ||gartenundoutdoor-de.com^
 ||gartenvision2.de^
-||gartenzau.de^
 ||gartenzepter.de^
 ||gartenzon.de^
 ||garved.com^
@@ -6063,7 +6041,6 @@
 ||gaziantepsauna.com^
 ||gbgroup.ee^
 ||gbr-office.de^
-||gbt.solutions^
 ||gbuynix.com^
 ||gcash-casino-ph.com^
 ||gcitrading.com^
@@ -6103,7 +6080,6 @@
 ||genericeupills.com^
 ||genericsbot.com^
 ||genericshop-247.eu^
-||generika-original.com^
 ||generika-profi.shop^
 ||generika4u.eu^
 ||generositye.com^
@@ -6131,7 +6107,6 @@
 ||geosite.mobi^
 ||geoxargentina.net^
 ||geoxbelgique.com^
-||geoxfabrikverkauf.de^
 ||geoxfashion.com^
 ||geoxisrael.com^
 ||geoxkuwait.com^
@@ -6243,7 +6218,6 @@
 ||getyourtickets.de^
 ||getyourtreatmentshere.com^
 ||gewa24.com^
-||gexchain.com^
 ||gfmtrader.com^
 ||gfore-suomi.com^
 ||gforefinland.com^
@@ -6273,7 +6247,6 @@
 ||giessweinca.com^
 ||giessweins.it^
 ||giessweinschuhe.com^
-||giessweinshop.com^
 ||giessweinsneaker.com^
 ||gift-backpack.com^
 ||giftbestsellers.com^
@@ -6287,7 +6260,6 @@
 ||gigaly.at^
 ||gigantautoteile.com^
 ||gileng.com^
-||gillne.de^
 ||gilltry.com^
 ||gimbowl.com^
 ||gimora.de^
@@ -6339,7 +6311,6 @@
 ||global-energies-services.com^
 ||globalcim.com^
 ||globalfireworks.eu^
-||globalkeys-sa.com^
 ||globalmedsnet.com^
 ||globalpharmacystore.com^
 ||globalsshop.com^
@@ -6439,11 +6410,8 @@
 ||goldofficemaster.com^
 ||goldpromocoes.com^
 ||goldreward.io^
-||goldridgepartners.com^
-||goldscheideanstalt-seit1970.de^
 ||goldschmiede-alpenglanz.at^
 ||goldshopsejahtera.com^
-||goldsicher.net^
 ||goldstollen.de^
 ||goldstoneindica.shop^
 ||golfapparelsale.com^
@@ -6533,7 +6501,6 @@
 ||gravelbikede.com^
 ||gravitonprofit.com^
 ||gravity-market.com^
-||gray-summit-group.com^
 ||graycanyon.com^
 ||grazapotheke.com^
 ||grazmodehaus.at^
@@ -6558,8 +6525,6 @@
 ||greesioun.com^
 ||greiner-marktanalyse.de^
 ||grekkstore.com^
-||gretasparwelt.de^
-||grill-markt.com^
 ||grill-welten.com^
 ||grillausrustung.com^
 ||grillen-shop.com^
@@ -6567,15 +6532,12 @@
 ||grillent.com^
 ||grilles.de^
 ||grillflix.de^
-||grillfuerstde.com^
 ||grillfuerstshop.com^
 ||grillia.xyz^
 ||grillmeisterde.com^
 ||grillo-music.com^
 ||grillscloud.com^
 ||grillsgeschaft.com^
-||grillstore-krefeld.com^
-||grillstorebuchen.com^
 ||grillterrasse.com^
 ||grillwelten.com^
 ||grillwizz-grillreiniger.de^
@@ -6612,19 +6574,14 @@
 ||growano.com^
 ||growingcat.com^
 ||growit-indoor.com^
-||growminance.com^
 ||growminds.de^
 ||grs-capital.com^
 ||gruavl.com^
 ||gruber-graz.at^
-||gruber-wien.com^
 ||grubergraz.at^
-||gruenbau-garten24.de^
-||gruene-strategie.de^
 ||grueneshandelzhaus.de^
 ||gruenstein.inc^
 ||grundstoffde.com^
-||grundstoffs-de.com^
 ||grunekraft.shop^
 ||grunekraft.store^
 ||grunerkaffeetabletten.de^
@@ -6641,7 +6598,6 @@
 ||gtltic-anhaenger.de^
 ||gtmn.store^
 ||gtoptions.com^
-||gtsusa.net^
 ||guamthuc.com^
 ||guaranteeddealhub.com^
 ||guardiannewstoday.com^
@@ -6653,8 +6609,6 @@
 ||guesso.com^
 ||guessosterreich.at^
 ||guessoutletdeutschland.de^
-||guest-pend3120.com^
-||gueta-handel.com^
 ||guetahandel.com^
 ||gueyeclasse-shop.com^
 ||gugeunk.de^
@@ -6743,7 +6697,6 @@
 ||halloweenmakeup-de.com^
 ||halloweenpetticoats.com^
 ||halloweenpopculture.com^
-||halloweens-de.com^
 ||halloweenwelt.com^
 ||halloweenwelt-manufaktur.de^
 ||halluxfit.de^
@@ -6754,7 +6707,6 @@
 ||hamburger-versand.de^
 ||hamburgermenetekel.de^
 ||hamsterkiste.de^
-||hamuelmaschinen.com^
 ||handarbeitenkaess.de^
 ||handbrausensale.com^
 ||handbrausenshop.com^
@@ -6764,7 +6716,6 @@
 ||handels-blatt.de^
 ||handelsartikel.com^
 ||handelshaus-buchem.de^
-||handelsnation.com^
 ||handelsplanetdeutschland.de^
 ||handlebarprada.com^
 ||handlemylife.info^
@@ -6844,8 +6795,6 @@
 ||harzsportev.de^
 ||hasbrofanwelt.com^
 ||hasegawamodel.com^
-||hashx-capital.com^
-||hashxcapital.com^
 ||haso.co^
 ||hasselbladeu.shop^
 ||hatme.de^
@@ -6891,7 +6840,6 @@
 ||haustechnik.deals^
 ||haustechnik-muenchen.de^
 ||haustechnikmeine.de^
-||haustier-de.com^
 ||haustieralles.com^
 ||haustierbedarfshop.com^
 ||haustiererabatt.com^
@@ -7464,7 +7412,6 @@
 ||hotels-colombo.com^
 ||hotels-inform4281.com^
 ||hotelsinperm.ru^
-||hotelsinvienna.org^
 ||hotelsofmenorca.com^
 ||hotelwareus.com^
 ||hotelwhales.com^
@@ -8019,6 +7966,8 @@
 ||jeffspoolservice.com^
 ||jellycats.de^
 ||jellylight.at^
+||jelvruvozan.fr^
+||jelvruvozan-ie.com^
 ||jerseymonsters.com^
 ||jerseyneu.com^
 ||jerseyteamss.com^
@@ -8560,6 +8509,7 @@
 ||kittinis.de^
 ||kittykaiser.de^
 ||kiwea.shop^
+||kiwidrug.com^
 ||kiwifunk.com^
 ||kizaro.de^
 ||kizwnbbm.shop^
@@ -13733,6 +13683,7 @@
 ||skechersschuhe.at^
 ||skechersshop.at^
 ||skecherstoresbest.de^
+||skelvurizont.at^
 ||skfveckc.shop^
 ||skgartenbau.de^
 ||ski-coaches.com^
@@ -15030,6 +14981,7 @@
 ||togelsydneypools.org^
 ||togetherrxacces.com^
 ||tojo-heizoel.de^
+||tokbit.site^
 ||token-invest.com^
 ||toko-mode.com^
 ||tolleapotheke101.com^

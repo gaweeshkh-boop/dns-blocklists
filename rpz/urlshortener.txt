@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783188600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783234620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jul 2026 18:10 UTC
-; Version: 2026.0704.1810.02
+; Last modified: 05 Jul 2026 06:57 UTC
+; Version: 2026.0705.0657.37
 ; Syntax: RPZ
-; Number of entries: 19982
+; Number of entries: 19974
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3637,8 +3637,6 @@ blllb.com CNAME .
 *.blllb.com CNAME .
 blltly.com CNAME .
 *.blltly.com CNAME .
-ro.blox.com CNAME .
-*.ro.blox.com CNAME .
 shortener.blueeyestech.com CNAME .
 *.shortener.blueeyestech.com CNAME .
 blynkn.com CNAME .
@@ -4465,8 +4463,6 @@ getshorter.com CNAME .
 *.getshorter.com CNAME .
 getsmallurl.com CNAME .
 *.getsmallurl.com CNAME .
-getsterlink.com CNAME .
-*.getsterlink.com CNAME .
 getthot.com CNAME .
 *.getthot.com CNAME .
 ghntinyurl.com CNAME .
@@ -18293,8 +18289,6 @@ ford.to CNAME .
 *.ford.to CNAME .
 fre.to CNAME .
 *.fre.to CNAME .
-fstgo.to CNAME .
-*.fstgo.to CNAME .
 fwds.to CNAME .
 *.fwds.to CNAME .
 fwr.to CNAME .
@@ -19489,8 +19483,6 @@ coklat.vip CNAME .
 *.coklat.vip CNAME .
 fileshortlinks.vip CNAME .
 *.fileshortlinks.vip CNAME .
-getmovie.vip CNAME .
-*.getmovie.vip CNAME .
 hokidana.vip CNAME .
 *.hokidana.vip CNAME .
 lihi.vip CNAME .

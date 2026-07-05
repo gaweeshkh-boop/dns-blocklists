@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783150980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783238580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jul 2026 07:43 UTC
-; Version: 2026.0704.0743.11
+; Last modified: 05 Jul 2026 08:03 UTC
+; Version: 2026.0705.0803.55
 ; Syntax: RPZ
-; Number of entries: 6850
+; Number of entries: 6848
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1071,8 +1071,6 @@ dns.freemyemail.com CNAME .
 *.dns.freemyemail.com CNAME .
 walhalla.freemyip.com CNAME .
 *.walhalla.freemyip.com CNAME .
-wg-aghome.freemyip.com CNAME .
-*.wg-aghome.freemyip.com CNAME .
 zuk.freemyip.com CNAME .
 *.zuk.freemyip.com CNAME .
 dns.gamban.com CNAME .
@@ -2183,6 +2181,8 @@ psociety.de CNAME .
 *.psociety.de CNAME .
 adguard.pushedv.de CNAME .
 *.adguard.pushedv.de CNAME .
+vps.robotboard.de CNAME .
+*.vps.robotboard.de CNAME .
 sascha-rabold.de CNAME .
 *.sascha-rabold.de CNAME .
 dns.schmidt-zoarn.de CNAME .
@@ -5929,8 +5929,6 @@ paradise-human.shop CNAME .
 *.paradise-human.shop CNAME .
 polisitogel.show CNAME .
 *.polisitogel.show CNAME .
-privacydns.go6lab.si CNAME .
-*.privacydns.go6lab.si CNAME .
 adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
 hk2.1833015459.site CNAME .

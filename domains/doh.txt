@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jul 2026 07:43 UTC
-# Version: 2026.0704.0743.11
+# Last modified: 05 Jul 2026 08:03 UTC
+# Version: 2026.0705.0803.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3877
+# Number of entries: 3875
 #
 ss.0001.xyz
 003153.xyz
@@ -1661,8 +1661,6 @@ studioai.freeddns.org
 hebe.freedynamicdns.org
 dns.freemyemail.com
 walhalla.freemyip.com
-wg-aghome.freemyip.com
-www.wg-aghome.freemyip.com
 zuk.freemyip.com
 dns.freopc.fr
 dns.freyja.pw
@@ -1742,7 +1740,6 @@ dns.gnb09.id
 moph.go.th
 roadesdyn.go.ro
 ux.go20.cf
-privacydns.go6lab.si
 dns.goertz.digital
 eime.goip.de
 dohsg.goitoi.co
@@ -3147,6 +3144,7 @@ adguard.rjscho.net
 zetland.rm-ni.uk
 sudo.rm-rf.cloud
 adguard.ro0t.us
+vps.robotboard.de
 1.rock-review.ru
 dns2.rocksdns.ovh
 rockwell.website

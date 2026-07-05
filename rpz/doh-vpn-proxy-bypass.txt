@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783191960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783238640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jul 2026 19:06 UTC
-; Version: 2026.0704.1906.33
+; Last modified: 05 Jul 2026 08:04 UTC
+; Version: 2026.0705.0804.45
 ; Syntax: RPZ
-; Number of entries: 33968
+; Number of entries: 33930
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -1239,22 +1239,12 @@ dns.edgeworkssystems.ca CNAME .
 *.dns.edgeworkssystems.ca CNAME .
 ag.ff0x.ca CNAME .
 *.ag.ff0x.ca CNAME .
-endis.halfwaythere.ca CNAME .
-*.endis.halfwaythere.ca CNAME .
 geo-learning.halfwaythere.ca CNAME .
 *.geo-learning.halfwaythere.ca CNAME .
-gmail-education.halfwaythere.ca CNAME .
-*.gmail-education.halfwaythere.ca CNAME .
 learnvcsa.halfwaythere.ca CNAME .
 *.learnvcsa.halfwaythere.ca CNAME .
 madebyconcon.halfwaythere.ca CNAME .
 *.madebyconcon.halfwaythere.ca CNAME .
-nowayhome.halfwaythere.ca CNAME .
-*.nowayhome.halfwaythere.ca CNAME .
-road.halfwaythere.ca CNAME .
-*.road.halfwaythere.ca CNAME .
-utopia.halfwaythere.ca CNAME .
-*.utopia.halfwaythere.ca CNAME .
 despite.icantec.ca CNAME .
 *.despite.icantec.ca CNAME .
 edu.icantec.ca CNAME .
@@ -2301,8 +2291,6 @@ digitale-gesellschaft.ch CNAME .
 *.digitale-gesellschaft.ch CNAME .
 mortar.e-cloud.ch CNAME .
 *.mortar.e-cloud.ch CNAME .
-study.freude-macherei.ch CNAME .
-*.study.freude-macherei.ch CNAME .
 doh.immerda.ch CNAME .
 *.doh.immerda.ch CNAME .
 adg.jabertechnologies.ch CNAME .
@@ -8067,8 +8055,6 @@ www-rf4.forestberrypi.com CNAME .
 *.www-rf4.forestberrypi.com CNAME .
 forestvpn.com CNAME .
 *.forestvpn.com CNAME .
-thinggg.forever-20.com CNAME .
-*.thinggg.forever-20.com CNAME .
 forever301.com CNAME .
 *.forever301.com CNAME .
 foreverlets.com CNAME .
@@ -8131,8 +8117,6 @@ dns.freemyemail.com CNAME .
 *.dns.freemyemail.com CNAME .
 walhalla.freemyip.com CNAME .
 *.walhalla.freemyip.com CNAME .
-wg-aghome.freemyip.com CNAME .
-*.wg-aghome.freemyip.com CNAME .
 zuk.freemyip.com CNAME .
 *.zuk.freemyip.com CNAME .
 freeopenproxy.com CNAME .
@@ -8257,8 +8241,6 @@ gclouddns.com CNAME .
 *.gclouddns.com CNAME .
 gcsdfgdt.com CNAME .
 *.gcsdfgdt.com CNAME .
-easyliterature.gearenergy.com CNAME .
-*.easyliterature.gearenergy.com CNAME .
 learnvcsa.gearenergy.com CNAME .
 *.learnvcsa.gearenergy.com CNAME .
 geaybxom.com CNAME .
@@ -8479,8 +8461,6 @@ gopcjsq.com CNAME .
 *.gopcjsq.com CNAME .
 gopjbvpn.com CNAME .
 *.gopjbvpn.com CNAME .
-education.gosdumamail.com CNAME .
-*.education.gosdumamail.com CNAME .
 rammermyhammer.goteeem.com CNAME .
 *.rammermyhammer.goteeem.com CNAME .
 gotoproxy.com CNAME .
@@ -16115,6 +16095,8 @@ purevpn.de CNAME .
 *.purevpn.de CNAME .
 adguard.pushedv.de CNAME .
 *.adguard.pushedv.de CNAME .
+vps.robotboard.de CNAME .
+*.vps.robotboard.de CNAME .
 bzndkv.route64.de CNAME .
 *.bzndkv.route64.de CNAME .
 dasfh.route64.de CNAME .
@@ -16813,8 +16795,6 @@ furriesarecute.furryplace.eu CNAME .
 *.furriesarecute.furryplace.eu CNAME .
 gammesfeld.eu CNAME .
 *.gammesfeld.eu CNAME .
-globaltri.eu CNAME .
-*.globaltri.eu CNAME .
 dns.grinevich.eu CNAME .
 *.dns.grinevich.eu CNAME .
 hemmulix.eu CNAME .
@@ -21081,8 +21061,6 @@ fonarex.my CNAME .
 *.fonarex.my CNAME .
 glock.my CNAME .
 *.glock.my CNAME .
-gooner.my CNAME .
-*.gooner.my CNAME .
 hitray.my CNAME .
 *.hitray.my CNAME .
 hyperbea.my CNAME .
@@ -21147,8 +21125,6 @@ encryptmy.name CNAME .
 *.encryptmy.name CNAME .
 getvpn.name CNAME .
 *.getvpn.name CNAME .
-schoologylearningedu.h-o-s-t.name CNAME .
-*.schoologylearningedu.h-o-s-t.name CNAME .
 hideaway.name CNAME .
 *.hideaway.name CNAME .
 hideee.name CNAME .
@@ -26951,8 +26927,6 @@ forestrywolf.org CNAME .
 *.forestrywolf.org CNAME .
 submit.formengineer.org CNAME .
 *.submit.formengineer.org CNAME .
-free-letsvpn.org CNAME .
-*.free-letsvpn.org CNAME .
 freebrowser.org CNAME .
 *.freebrowser.org CNAME .
 adblock.freeddns.org CNAME .
@@ -30085,8 +30059,6 @@ dns1.feear.se CNAME .
 *.dns1.feear.se CNAME .
 dns2.feear.se CNAME .
 *.dns2.feear.se CNAME .
-welcome-to-learning.fredrikkivi.se CNAME .
-*.welcome-to-learning.fredrikkivi.se CNAME .
 dns.haka.se CNAME .
 *.dns.haka.se CNAME .
 ipredator.se CNAME .
@@ -30121,8 +30093,6 @@ frogs.sh CNAME .
 *.frogs.sh CNAME .
 ilikehomework.ftp.sh CNAME .
 *.ilikehomework.ftp.sh CNAME .
-lebron.ftp.sh CNAME .
-*.lebron.ftp.sh CNAME .
 schoolmath.hop.sh CNAME .
 *.schoolmath.hop.sh CNAME .
 dns.moog.sh CNAME .
@@ -30299,8 +30269,6 @@ skrt.f5.si CNAME .
 *.skrt.f5.si CNAME .
 socchanpxy.f5.si CNAME .
 *.socchanpxy.f5.si CNAME .
-privacydns.go6lab.si CNAME .
-*.privacydns.go6lab.si CNAME .
 course.excel.kump.si CNAME .
 *.course.excel.kump.si CNAME .
 adguard.marto.si CNAME .
@@ -30603,8 +30571,6 @@ play.gghunter.space CNAME .
 *.play.gghunter.space CNAME .
 glados.space CNAME .
 *.glados.space CNAME .
-goldenearsvccc.space CNAME .
-*.goldenearsvccc.space CNAME .
 gsoubgh.space CNAME .
 *.gsoubgh.space CNAME .
 gsouyou.space CNAME .
@@ -32399,8 +32365,6 @@ fastforward.website CNAME .
 *.fastforward.website CNAME .
 geminipro.website CNAME .
 *.geminipro.website CNAME .
-haringinsuranc.website CNAME .
-*.haringinsuranc.website CNAME .
 hdmn.website CNAME .
 *.hdmn.website CNAME .
 kaisuta.website CNAME .
@@ -33161,8 +33125,6 @@ gummydummy.xyz CNAME .
 *.gummydummy.xyz CNAME .
 gvvip1.xyz CNAME .
 *.gvvip1.xyz CNAME .
-hackkcah.xyz CNAME .
-*.hackkcah.xyz CNAME .
 haltrix.xyz CNAME .
 *.haltrix.xyz CNAME .
 dns.haoxuan.xyz CNAME .

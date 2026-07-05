@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jul 2026 19:06 UTC
-# Version: 2026.0704.1906.33
+# Last modified: 05 Jul 2026 08:04 UTC
+# Version: 2026.0705.0804.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16984
+# Number of entries: 16965
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -3136,7 +3136,6 @@
 *.garland.isd.foresightgroup.pl
 *.rf4.forestberrypi.com
 *.www-rf4.forestberrypi.com
-*.thinggg.forever-20.com
 *.proxy.forkbomb.xyz
 *.www-proxy.formen.cc
 *.submit.formengineer.org
@@ -3161,7 +3160,6 @@
 *.know.orbit.frawst.com
 *.adguard.frece.de
 *.adguard2.frece.de
-*.welcome-to-learning.fredrikkivi.se
 *.jalexx.freeboxos.fr
 *.lilibox.freeboxos.fr
 *.pcornet.freeboxos.fr
@@ -3181,11 +3179,9 @@
 *.hebe.freedynamicdns.org
 *.dns.freemyemail.com
 *.walhalla.freemyip.com
-*.wg-aghome.freemyip.com
 *.zuk.freemyip.com
 *.www-server.freewebsproxy.com
 *.dns.freopc.fr
-*.study.freude-macherei.ch
 *.vvv.freya.moe
 *.dns.freyja.pw
 *.dns.friezer.eu
@@ -3206,7 +3202,6 @@
 *.dns.fsociety.club
 *.ychk.ft1991.top
 *.ilikehomework.ftp.sh
-*.lebron.ftp.sh
 *.ablock.fuckit.ovh
 *.dns.fulgore.fr
 *.live.fumcennis.org
@@ -3238,7 +3233,6 @@
 *.dns.beta.gandi.net
 *.guide.terms.gatpp.com
 *.adguard.gattow.com
-*.easyliterature.gearenergy.com
 *.learnvcsa.gearenergy.com
 *.dns.gearworks.app
 *.bg.geek.nz
@@ -3332,7 +3326,6 @@
 *.moph.go.th
 *.roadesdyn.go.ro
 *.ux.go20.cf
-*.privacydns.go6lab.si
 *.tracks.empleosonora.gob.mx
 *.clever.issuesloggingin.hndifhidalgo.gob.mx
 *.ixl.loginalternative.hospitaldelninodif.gob.mx
@@ -3357,7 +3350,6 @@
 *.tunnel.googlezip.net
 *.performance.gosami.xyz
 *.vpn.gosami.xyz
-*.education.gosdumamail.com
 *.dns.goshawk22.uk
 *.doh.fatucloud.gosprout.org
 *.rammermyhammer.goteeem.com
@@ -3466,7 +3458,6 @@
 *.smile-smp-forever.gw.lt
 *.hkns.gzelvis.com
 *.agh.gzhong.tw
-*.schoologylearningedu.h-o-s-t.name
 *.dns.h0schi.cloud
 *.dns2.h0schi.cloud
 *.artiom.made.this.h0stname.net
@@ -3485,14 +3476,9 @@
 *.dns.haka.se
 *.dns.hakim.one
 *.dns.hakutakucn.com
-*.endis.halfwaythere.ca
 *.geo-learning.halfwaythere.ca
-*.gmail-education.halfwaythere.ca
 *.learnvcsa.halfwaythere.ca
 *.madebyconcon.halfwaythere.ca
-*.nowayhome.halfwaythere.ca
-*.road.halfwaythere.ca
-*.utopia.halfwaythere.ca
 *.dns.hanahira.dev
 *.adguard.haneulo.com
 *.dns.hanmey.de
@@ -5567,6 +5553,7 @@
 *.adguard.ro0t.us
 *.uc.robby.blue
 *.skibidirizz.robinhud.com
+*.vps.robotboard.de
 *.1.rock-review.ru
 *.dns2.rocksdns.ovh
 *.dns.roedel.cloud
@@ -10285,7 +10272,6 @@
 *.fravix.ru
 *.fraymova.ru
 *.fredic.us
-*.free-letsvpn.org
 *.free-onlineproxy.com
 *.free-planet-vpn.net
 *.free-planetvpn-ru.net
@@ -10605,7 +10591,6 @@
 *.globalcloud.ir
 *.globalreject.com
 *.globalssh.net
-*.globaltri.eu
 *.globaltrx.com
 *.globalyun.cc
 *.glock.my
@@ -10646,7 +10631,6 @@
 *.gojcore.com
 *.gojlumxp.cc
 *.gokarel.xyz
-*.goldenearsvccc.space
 *.goldenfrog.com
 *.goldview.in
 *.goldvpn.info
@@ -10667,7 +10651,6 @@
 *.googo.us
 *.googo-appdns.top
 *.googohelps.top
-*.gooner.my
 *.gooningfor.life
 *.gooningforever.shop
 *.goooyun.top
@@ -10783,7 +10766,6 @@
 *.h-vpn.org
 *.habd.me
 *.hackkcah.com
-*.hackkcah.xyz
 *.haffnetworkam.com
 *.haffnetworkat.com
 *.haffnetworkca.com
@@ -10819,7 +10801,6 @@
 *.happykuailian.net
 *.hardenglish.buzz
 *.hardmath.buzz
-*.haringinsuranc.website
 *.hartfordps.org
 *.harvestinflate.com
 *.haszwrwe.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jul 2026 07:43 UTC
-# Version: 2026.0704.0743.11
+# Last modified: 05 Jul 2026 08:03 UTC
+# Version: 2026.0705.0803.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3425
+# Number of entries: 3424
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1235,7 +1235,6 @@ local=/studioai.freeddns.org/
 local=/hebe.freedynamicdns.org/
 local=/dns.freemyemail.com/
 local=/walhalla.freemyip.com/
-local=/wg-aghome.freemyip.com/
 local=/zuk.freemyip.com/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
@@ -1301,7 +1300,6 @@ local=/dns.gnb09.id/
 local=/moph.go.th/
 local=/roadesdyn.go.ro/
 local=/ux.go20.cf/
-local=/privacydns.go6lab.si/
 local=/dns.goertz.digital/
 local=/eime.goip.de/
 local=/dohsg.goitoi.co/
@@ -2376,6 +2374,7 @@ local=/adguard.rjscho.net/
 local=/zetland.rm-ni.uk/
 local=/sudo.rm-rf.cloud/
 local=/adguard.ro0t.us/
+local=/vps.robotboard.de/
 local=/1.rock-review.ru/
 local=/dns2.rocksdns.ovh/
 local=/dns.roedel.cloud/

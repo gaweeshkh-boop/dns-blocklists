@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jul 2026 18:10 UTC
-# Version: 2026.0704.1810.02
+# Last modified: 05 Jul 2026 06:57 UTC
+# Version: 2026.0705.0657.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9991
+# Number of entries: 9987
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -98,7 +98,6 @@ local=/artist.blanchtrap.com/
 local=/ai.blendnow.com/
 local=/s.block183.net/
 local=/talk.bloomup.org/
-local=/ro.blox.com/
 local=/shortener.blueeyestech.com/
 local=/tu.bongobd.com/
 local=/cdl.booksy.com/
@@ -3489,7 +3488,6 @@ local=/frizzymedia.com/
 local=/frli.net/
 local=/frs.ink/
 local=/fscu.net/
-local=/fstgo.to/
 local=/fstrk.cc/
 local=/fsu.ro/
 local=/fsv.tf/
@@ -3616,13 +3614,11 @@ local=/getlasso.co/
 local=/getlickd.com/
 local=/getlink.at/
 local=/getlink.space/
-local=/getmovie.vip/
 local=/getpcp.net/
 local=/getrecipe.pro/
 local=/getshort.in/
 local=/getshorter.com/
 local=/getsmallurl.com/
-local=/getsterlink.com/
 local=/getthot.com/
 local=/gettolink.net/
 local=/getus.at/

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jul 2026 07:44 UTC
-! Version: 2026.0704.0744.03
+! Last modified: 05 Jul 2026 08:04 UTC
+! Version: 2026.0705.0804.41
 ! Syntax: AdBlock
-! Number of entries: 260
+! Number of entries: 267
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -62,6 +62,7 @@
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||dns.gamban.com^
+||doh.ptqy.gitv.tv^
 ||moph.go.th^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -78,6 +79,7 @@
 ||dns.iqiyi.com^
 ||doh.iqiyi.com^
 ||dns.jd.com^
+||unfiltered.joindns4.eu^
 ||opencdn.jomodns.com^
 ||hdns.ksyun.com^
 ||doh.libredns.gr^
@@ -86,6 +88,7 @@
 ||httpdnsmultiapivip.meituan.com^
 ||httpdns.browser.miui.com^
 ||dns.mullvad.net^
+||doh.mullvad.net^
 ||dns.aa.net.uk^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
@@ -120,11 +123,16 @@
 ||dns.rubyfish.cn^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
+||dns.surfsharkdns.com^
+||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
+||httpdns.danuoyi.tbcache.com^
 ||homenet.telecomitalia.it^
+||doh.tiar.app^
 ||dot.tiar.app^
 ||jp.tiar.app^
+||jp.tiarap.org^
 ||sdkconfig.tlivedns.com^
 ||dns.twnic.tw^
 ||my.ublockdns.com^
@@ -135,7 +143,6 @@
 ||h4g3z1-doh.top.web.app^
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
-||dns.weibo.cn^
 ||doh2.gslb2.xfinity.com^
 ||doh.xfinity.com^
 ||common.dot.dns.yandex.net^
