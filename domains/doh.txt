@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 08:03 UTC
-# Version: 2026.0705.0803.55
+# Last modified: 05 Jul 2026 19:14 UTC
+# Version: 2026.0705.1914.30
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3875
+# Number of entries: 3858
 #
 ss.0001.xyz
 003153.xyz
@@ -1864,7 +1864,6 @@ admin.homedns.uk
 isolacje.homeip.net
 adguard.homenetmedia.stream
 adguard01.homepeter.de
-dns.hoody.com
 dns.hopkinton.online
 dns.hopsken.com
 2wired.hopto.org
@@ -1923,22 +1922,6 @@ ec.i-puppy.ru
 ru.i-puppy.ru
 opennic.i2pd.xyz
 opennic2.i2pd.xyz
-az.i81.ru
-3x.az.i81.ru
-alisa.az.i81.ru
-amigo.az.i81.ru
-dns.az.i81.ru
-filya.az.i81.ru
-igor.az.i81.ru
-jin.az.i81.ru
-kotys.az.i81.ru
-lena.az.i81.ru
-luba.az.i81.ru
-olga.az.i81.ru
-vasya.az.i81.ru
-vova.az.i81.ru
-vovale.az.i81.ru
-win10virtual.az.i81.ru
 hr.i81.ru
 alisa.hr.i81.ru
 amigo.hr.i81.ru

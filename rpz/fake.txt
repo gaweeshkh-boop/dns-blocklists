@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783234500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783274940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jul 2026 06:55 UTC
-; Version: 2026.0705.0655.38
+; Last modified: 05 Jul 2026 18:09 UTC
+; Version: 2026.0705.1809.12
 ; Syntax: RPZ
-; Number of entries: 33618
+; Number of entries: 33560
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -540,8 +540,6 @@ hubers-salzburg.at CNAME .
 *.hubers-salzburg.at CNAME .
 hunde-katzen.at CNAME .
 *.hunde-katzen.at CNAME .
-hundmonline.at CNAME .
-*.hundmonline.at CNAME .
 hunter-osterreich.at CNAME .
 *.hunter-osterreich.at CNAME .
 hunterbootswien.at CNAME .
@@ -9150,8 +9148,6 @@ heckenscherenbillig.com CNAME .
 *.heckenscherenbillig.com CNAME .
 heepqy.com CNAME .
 *.heepqy.com CNAME .
-heim-geschafts.com CNAME .
-*.heim-geschafts.com CNAME .
 heimatwear.com CNAME .
 *.heimatwear.com CNAME .
 heimde24.com CNAME .
@@ -9202,8 +9198,6 @@ heizoel24-aktuell.com CNAME .
 *.heizoel24-aktuell.com CNAME .
 heizoel24-preise.com CNAME .
 *.heizoel24-preise.com CNAME .
-heizoelblitz.com CNAME .
-*.heizoelblitz.com CNAME .
 heizoelhanse.com CNAME .
 *.heizoelhanse.com CNAME .
 heizoelnord.com CNAME .
@@ -9352,8 +9346,6 @@ highbtcstock.com CNAME .
 *.highbtcstock.com CNAME .
 highjel.com CNAME .
 *.highjel.com CNAME .
-hightqualitywear.com CNAME .
-*.hightqualitywear.com CNAME .
 hihstore.com CNAME .
 *.hihstore.com CNAME .
 hikingadventuregear.com CNAME .
@@ -9500,16 +9492,12 @@ holzspieltraum.com CNAME .
 *.holzspieltraum.com CNAME .
 holzti.com CNAME .
 *.holzti.com CNAME .
-holzweihnachtswelt.com CNAME .
-*.holzweihnachtswelt.com CNAME .
 holzwerkzeugekaufen.com CNAME .
 *.holzwerkzeugekaufen.com CNAME .
 home-aytm.com CNAME .
 *.home-aytm.com CNAME .
 home-studio-pur.com CNAME .
 *.home-studio-pur.com CNAME .
-home-stylish.com CNAME .
-*.home-stylish.com CNAME .
 homeaytm.com CNAME .
 *.homeaytm.com CNAME .
 homecrestview.com CNAME .
@@ -9744,8 +9732,6 @@ huntingmasterstore.com CNAME .
 *.huntingmasterstore.com CNAME .
 hurtiglane-shop.com CNAME .
 *.hurtiglane-shop.com CNAME .
-hushcandlesale.com CNAME .
-*.hushcandlesale.com CNAME .
 hutdesignherren.com CNAME .
 *.hutdesignherren.com CNAME .
 hwsdescontos.com CNAME .
@@ -9774,8 +9760,6 @@ hysszhh.com CNAME .
 *.hysszhh.com CNAME .
 i-velus.com CNAME .
 *.i-velus.com CNAME .
-i-vlus.com CNAME .
-*.i-vlus.com CNAME .
 ia-patrimoine.com CNAME .
 *.ia-patrimoine.com CNAME .
 iam-invest.com CNAME .
@@ -9786,8 +9770,6 @@ iauvon.com CNAME .
 *.iauvon.com CNAME .
 ibcfx.com CNAME .
 *.ibcfx.com CNAME .
-ibl-markets.com CNAME .
-*.ibl-markets.com CNAME .
 ibointernational.com CNAME .
 *.ibointernational.com CNAME .
 icarbuddy.com CNAME .
@@ -9834,8 +9816,6 @@ igmholdings.com CNAME .
 *.igmholdings.com CNAME .
 ignitionmodelcars.com CNAME .
 *.ignitionmodelcars.com CNAME .
-ihrbedarf.com CNAME .
-*.ihrbedarf.com CNAME .
 ihrmunzhandler.com CNAME .
 *.ihrmunzhandler.com CNAME .
 ihrrasentraktor.com CNAME .
@@ -9880,8 +9860,6 @@ immediate-momentum.com CNAME .
 *.immediate-momentum.com CNAME .
 immediate-peak.com CNAME .
 *.immediate-peak.com CNAME .
-immediate-thorenext.com CNAME .
-*.immediate-thorenext.com CNAME .
 immediatebitwave.com CNAME .
 *.immediatebitwave.com CNAME .
 immediateconnect.com CNAME .
@@ -9968,8 +9946,6 @@ info-euservice.com CNAME .
 *.info-euservice.com CNAME .
 info-shop-online.com CNAME .
 *.info-shop-online.com CNAME .
-infokaetotalbeauty.com CNAME .
-*.infokaetotalbeauty.com CNAME .
 infoscrypto.com CNAME .
 *.infoscrypto.com CNAME .
 infraredsaunaspot.com CNAME .
@@ -10062,8 +10038,6 @@ intertradesfx.com CNAME .
 *.intertradesfx.com CNAME .
 intesa-gestion.com CNAME .
 *.intesa-gestion.com CNAME .
-intialrmost.com CNAME .
-*.intialrmost.com CNAME .
 intoheair.com CNAME .
 *.intoheair.com CNAME .
 intonationu.com CNAME .
@@ -10098,8 +10072,6 @@ investirex.com CNAME .
 *.investirex.com CNAME .
 investisafe.com CNAME .
 *.investisafe.com CNAME .
-investixcrypto.com CNAME .
-*.investixcrypto.com CNAME .
 investmaza.com CNAME .
 *.investmaza.com CNAME .
 investsecuritiesgroup.com CNAME .
@@ -24048,10 +24020,6 @@ heizoase.de CNAME .
 *.heizoase.de CNAME .
 heizoel-best.de CNAME .
 *.heizoel-best.de CNAME .
-heizoel-discount.de CNAME .
-*.heizoel-discount.de CNAME .
-heizoel-easy.de CNAME .
-*.heizoel-easy.de CNAME .
 heizoel-experten.de CNAME .
 *.heizoel-experten.de CNAME .
 heizoel-freunde.de CNAME .
@@ -24072,8 +24040,6 @@ heizoel-schnell-gmbh.de CNAME .
 *.heizoel-schnell-gmbh.de CNAME .
 heizoel-tankstelle.de CNAME .
 *.heizoel-tankstelle.de CNAME .
-heizoel-versorgt.de CNAME .
-*.heizoel-versorgt.de CNAME .
 heizoel24h.de CNAME .
 *.heizoel24h.de CNAME .
 heizoelbp.de CNAME .
@@ -24190,8 +24156,6 @@ hennkel.de CNAME .
 *.hennkel.de CNAME .
 heraldik-leitfaden.de CNAME .
 *.heraldik-leitfaden.de CNAME .
-hermann-handel.de CNAME .
-*.hermann-handel.de CNAME .
 hermhoffer.de CNAME .
 *.hermhoffer.de CNAME .
 herr-bergholz.de CNAME .
@@ -24242,16 +24206,12 @@ hildebrandt-bekleidung.de CNAME .
 *.hildebrandt-bekleidung.de CNAME .
 hildebrandtfashion.de CNAME .
 *.hildebrandtfashion.de CNAME .
-hill-heizoel.de CNAME .
-*.hill-heizoel.de CNAME .
 hillheizoel.de CNAME .
 *.hillheizoel.de CNAME .
 hinato-tech.de CNAME .
 *.hinato-tech.de CNAME .
 hinz-gartenhandel.de CNAME .
 *.hinz-gartenhandel.de CNAME .
-hirobikegmbh.de CNAME .
-*.hirobikegmbh.de CNAME .
 hixberger-zeltlager.de CNAME .
 *.hixberger-zeltlager.de CNAME .
 hiziel.de CNAME .
@@ -24272,8 +24232,6 @@ holdirwerkzeug.de CNAME .
 *.holdirwerkzeug.de CNAME .
 holsteinerblumenservice.de CNAME .
 *.holsteinerblumenservice.de CNAME .
-holtz-handel.de CNAME .
-*.holtz-handel.de CNAME .
 holz-brennholzhandel.de CNAME .
 *.holz-brennholzhandel.de CNAME .
 holz-deal24.de CNAME .
@@ -24284,8 +24242,6 @@ holz-premium.de CNAME .
 *.holz-premium.de CNAME .
 holz-stahl-illing.de CNAME .
 *.holz-stahl-illing.de CNAME .
-holz-werkstatt-wagner.de CNAME .
-*.holz-werkstatt-wagner.de CNAME .
 holz-winterhoff.de CNAME .
 *.holz-winterhoff.de CNAME .
 holzabsatzfonds.de CNAME .
@@ -24320,8 +24276,6 @@ holznotenpulte.de CNAME .
 *.holznotenpulte.de CNAME .
 holzqualitat.de CNAME .
 *.holzqualitat.de CNAME .
-holzsofort.de CNAME .
-*.holzsofort.de CNAME .
 holzstreif.de CNAME .
 *.holzstreif.de CNAME .
 holzundkunststueble.de CNAME .
@@ -24484,8 +24438,6 @@ ilamparas.de CNAME .
 *.ilamparas.de CNAME .
 ilebe.de CNAME .
 *.ilebe.de CNAME .
-ilsemunchen.de CNAME .
-*.ilsemunchen.de CNAME .
 ilsevonbach.de CNAME .
 *.ilsevonbach.de CNAME .
 imeafinanz.de CNAME .
@@ -29374,8 +29326,6 @@ hubneme.eu CNAME .
 *.hubneme.eu CNAME .
 industrie-moebel.eu CNAME .
 *.industrie-moebel.eu CNAME .
-io-ny.eu CNAME .
-*.io-ny.eu CNAME .
 jaxban.eu CNAME .
 *.jaxban.eu CNAME .
 johannisstein.eu CNAME .
@@ -31258,8 +31208,6 @@ holzkraft.pro CNAME .
 *.holzkraft.pro CNAME .
 honestcapital.pro CNAME .
 *.honestcapital.pro CNAME .
-impecspalm.pro CNAME .
-*.impecspalm.pro CNAME .
 introtrade.pro CNAME .
 *.introtrade.pro CNAME .
 investing-in.pro CNAME .
@@ -31786,8 +31734,6 @@ hasselbladeu.shop CNAME .
 *.hasselbladeu.shop CNAME .
 hauselektro.shop CNAME .
 *.hauselektro.shop CNAME .
-heatkraft.shop CNAME .
-*.heatkraft.shop CNAME .
 heim-garten24.shop CNAME .
 *.heim-garten24.shop CNAME .
 heliohouse.shop CNAME .
@@ -31820,8 +31766,6 @@ home-saledeals.shop CNAME .
 *.home-saledeals.shop CNAME .
 homelectric.shop CNAME .
 *.homelectric.shop CNAME .
-horologyworks.shop CNAME .
-*.horologyworks.shop CNAME .
 hpdcrw.shop CNAME .
 *.hpdcrw.shop CNAME .
 huiiltn.shop CNAME .
@@ -33546,8 +33490,6 @@ griw.xyz CNAME .
 *.griw.xyz CNAME .
 harlankids.xyz CNAME .
 *.harlankids.xyz CNAME .
-klarjm.heimsvdc.xyz CNAME .
-*.klarjm.heimsvdc.xyz CNAME .
 heror.xyz CNAME .
 *.heror.xyz CNAME .
 huewi.xyz CNAME .

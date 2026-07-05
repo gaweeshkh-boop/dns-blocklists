@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 08:03 UTC
-# Version: 2026.0705.0803.55
+# Last modified: 05 Jul 2026 19:14 UTC
+# Version: 2026.0705.1914.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3424
+# Number of entries: 3422
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1398,7 +1398,6 @@ local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
 local=/adguard.homenetmedia.stream/
 local=/adguard01.homepeter.de/
-local=/dns.hoody.com/
 local=/dns.hopkinton.online/
 local=/dns.hopsken.com/
 local=/2wired.hopto.org/
@@ -1464,7 +1463,6 @@ local=/vasya.vpn.i81.ru/
 local=/vova.vpn.i81.ru/
 local=/vovale.vpn.i81.ru/
 local=/win10virtual.vpn.i81.ru/
-local=/az.i81.ru/
 local=/hr.i81.ru/
 local=/vd.i81.ru/
 local=/aq.iaalai.cn/

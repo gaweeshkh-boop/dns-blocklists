@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 08:03 UTC
-# Version: 2026.0705.0803.55
+# Last modified: 05 Jul 2026 19:14 UTC
+# Version: 2026.0705.1914.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3875
+# Number of entries: 3858
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1864,7 +1864,6 @@
 0.0.0.0 isolacje.homeip.net
 0.0.0.0 adguard.homenetmedia.stream
 0.0.0.0 adguard01.homepeter.de
-0.0.0.0 dns.hoody.com
 0.0.0.0 dns.hopkinton.online
 0.0.0.0 dns.hopsken.com
 0.0.0.0 2wired.hopto.org
@@ -1923,22 +1922,6 @@
 0.0.0.0 ru.i-puppy.ru
 0.0.0.0 opennic.i2pd.xyz
 0.0.0.0 opennic2.i2pd.xyz
-0.0.0.0 az.i81.ru
-0.0.0.0 3x.az.i81.ru
-0.0.0.0 alisa.az.i81.ru
-0.0.0.0 amigo.az.i81.ru
-0.0.0.0 dns.az.i81.ru
-0.0.0.0 filya.az.i81.ru
-0.0.0.0 igor.az.i81.ru
-0.0.0.0 jin.az.i81.ru
-0.0.0.0 kotys.az.i81.ru
-0.0.0.0 lena.az.i81.ru
-0.0.0.0 luba.az.i81.ru
-0.0.0.0 olga.az.i81.ru
-0.0.0.0 vasya.az.i81.ru
-0.0.0.0 vova.az.i81.ru
-0.0.0.0 vovale.az.i81.ru
-0.0.0.0 win10virtual.az.i81.ru
 0.0.0.0 hr.i81.ru
 0.0.0.0 alisa.hr.i81.ru
 0.0.0.0 amigo.hr.i81.ru

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 06:57 UTC
-# Version: 2026.0705.0657.37
+# Last modified: 05 Jul 2026 18:10 UTC
+# Version: 2026.0705.1810.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 9987
+# Number of entries: 9986
 #
 a.189.cn
 t.2merkato.com
@@ -3939,7 +3939,6 @@ hirummy.best
 hirummy.life
 hisc.app
 histori.ca
-hisweb.site
 hit.kg
 hitlap.com
 hiturl.at
@@ -4043,7 +4042,6 @@ hugeurl.com
 hulu.tv
 huma.na
 huntscreens.com
-hurirk.net
 hurl.it
 hurl.me
 hurl.ws
@@ -6181,6 +6179,7 @@ orlo.uk
 orp.io
 orst.io
 orts.link
+os.md
 osdb.link
 oshko.sh
 osku.jp

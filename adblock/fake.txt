@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jul 2026 06:55 UTC
-! Version: 2026.0705.0655.38
+! Last modified: 05 Jul 2026 18:09 UTC
+! Version: 2026.0705.1809.12
 ! Syntax: AdBlock
-! Number of entries: 16809
+! Number of entries: 16780
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -284,7 +284,6 @@
 ||rzycucbupk.gyhjjifm.beauty^
 ||regina-hotel-vienna.h-rez.com^
 ||ruckgabe.heidi-mode.de^
-||klarjm.heimsvdc.xyz^
 ||de.hisleeptime.com^
 ||try.homepromag.com^
 ||aliceblue-alligator-117543.hostingersite.com^
@@ -6889,7 +6888,6 @@
 ||heatingcontainers.com^
 ||heatingonsale.com^
 ||heatingtool.com^
-||heatkraft.shop^
 ||heatsy.de^
 ||heatwithwood.com^
 ||heatzy.de^
@@ -6904,7 +6902,6 @@
 ||heikojentsch.de^
 ||heilchannel.de^
 ||heim-garten24.shop^
-||heim-geschafts.com^
 ||heim-glueck.de^
 ||heimat-haft.de^
 ||heimatwear.com^
@@ -6983,9 +6980,7 @@
 ||heizoase.de^
 ||heizoel-24.com^
 ||heizoel-best.de^
-||heizoel-discount.de^
 ||heizoel-easy.com^
-||heizoel-easy.de^
 ||heizoel-experten.de^
 ||heizoel-freunde.de^
 ||heizoel-fuchs24.de^
@@ -6999,11 +6994,9 @@
 ||heizoel-schnell-gmbh.de^
 ||heizoel-station.com^
 ||heizoel-tankstelle.de^
-||heizoel-versorgt.de^
 ||heizoel24-aktuell.com^
 ||heizoel24-preise.com^
 ||heizoel24h.de^
-||heizoelblitz.com^
 ||heizoelbp.de^
 ||heizoelfit.de^
 ||heizoelgo.de^
@@ -7122,7 +7115,6 @@
 ||heritagerailbikes.com^
 ||herlange.com^
 ||herlingerieshop.com^
-||hermann-handel.de^
 ||hermesfod.shop^
 ||hermhoffer.de^
 ||heroherbals.com^
@@ -7177,7 +7169,6 @@
 ||highjel.com^
 ||highluxury.sk^
 ||highluxurystore.co^
-||hightqualitywear.com^
 ||hihstore.com^
 ||hijabsalmapop.shop^
 ||hike-schuhware.de^
@@ -7195,7 +7186,6 @@
 ||hilfsdienst.net^
 ||hilipert.com^
 ||hilkenmanor.com^
-||hill-heizoel.de^
 ||hillaryvonhacht.com^
 ||hillheizoel.de^
 ||hilltophomesforsale.com^
@@ -7205,7 +7195,6 @@
 ||hindpharma.org^
 ||hintergrunds.com^
 ||hinz-gartenhandel.de^
-||hirobikegmbh.de^
 ||hirsefeltshop.com^
 ||hisensepower.shop^
 ||hitenergysolar.online^
@@ -7268,7 +7257,6 @@
 ||hollister-co.at^
 ||hollylollies.com^
 ||holsteinerblumenservice.de^
-||holtz-handel.de^
 ||holz-brennholzhandel.de^
 ||holz-deal24.de^
 ||holz-discounter.com^
@@ -7278,7 +7266,6 @@
 ||holz-premium.de^
 ||holz-stahl-illing.de^
 ||holz-ton.com^
-||holz-werkstatt-wagner.de^
 ||holz-winterhoff.de^
 ||holzabsatzfonds.de^
 ||holzanatomie.de^
@@ -7309,14 +7296,12 @@
 ||holzpelletshop.com^
 ||holzpuzzlez.com^
 ||holzqualitat.de^
-||holzsofort.de^
 ||holzspieltraum.com^
 ||holzstreif.de^
 ||holzti.com^
 ||holzundkunststueble.de^
 ||holzundwerkzeug-bestequalitat.de^
 ||holzvomland.de^
-||holzweihnachtswelt.com^
 ||holzwerke-unikat.de^
 ||holzwerks.de^
 ||holzwerkzeugekaufen.com^
@@ -7324,7 +7309,6 @@
 ||home-gear24.de^
 ||home-saledeals.shop^
 ||home-studio-pur.com^
-||home-stylish.com^
 ||home-trend24.de^
 ||homeaytm.com^
 ||homecookies.at^
@@ -7393,7 +7377,6 @@
 ||hormanns24.de^
 ||hormans.de^
 ||horngrant.com^
-||horologyworks.shop^
 ||horstseefeld.de^
 ||hortura.de^
 ||hosalet.com^
@@ -7484,7 +7467,6 @@
 ||hundetrainingkragen.com^
 ||hundeweltde.com^
 ||hundezentrum-emsland.de^
-||hundmonline.at^
 ||hundsportlershop.de^
 ||hundtrockenfutter.com^
 ||hunter-gummistiefel.de^
@@ -7511,7 +7493,6 @@
 ||huntingfishingsale.com^
 ||huntingmasterstore.com^
 ||hurtiglane-shop.com^
-||hushcandlesale.com^
 ||husmode.de^
 ||hustlenation.store^
 ||hutdesignherren.com^
@@ -7538,7 +7519,6 @@
 ||hypulse.de^
 ||hysszhh.com^
 ||i-velus.com^
-||i-vlus.com^
 ||ia-patrimoine.com^
 ||iam-invest.com^
 ||iamkamu.de^
@@ -7546,7 +7526,6 @@
 ||iauvon.com^
 ||ibcfx.com^
 ||ibismall.net^
-||ibl-markets.com^
 ||ibler-elektronik.de^
 ||ibointernational.com^
 ||icarbuddy.com^
@@ -7592,7 +7571,6 @@
 ||igona.de^
 ||igotit.top^
 ||ihgaming.net^
-||ihrbedarf.com^
 ||ihrbegleiterimalltag.de^
 ||ihreedelmetallprofis.de^
 ||ihremed.de^
@@ -7609,7 +7587,6 @@
 ||ilebe.de^
 ||ilikehksm.life^
 ||ilopax.com^
-||ilsemunchen.de^
 ||ilsevonbach.de^
 ||ilumina.center^
 ||imaginte.com^
@@ -7639,7 +7616,6 @@
 ||immediate-momentum.io^
 ||immediate-momentum.org^
 ||immediate-peak.com^
-||immediate-thorenext.com^
 ||immediatebitcoin.io^
 ||immediatebitwave.com^
 ||immediateconnect.co^
@@ -7670,7 +7646,6 @@
 ||immotecta.de^
 ||immunepharma.com^
 ||imo-energie.com^
-||impecspalm.pro^
 ||impeller-sales.com^
 ||imperial-craft.com^
 ||imperial-hamburg.de^
@@ -7722,7 +7697,6 @@
 ||info-shop-online.com^
 ||infodir.net^
 ||infodux.de^
-||infokaetotalbeauty.com^
 ||infoscrypto.com^
 ||infox24.de^
 ||infraredsaunaspot.com^
@@ -7806,7 +7780,6 @@
 ||interstatesavings.us^
 ||intertradesfx.com^
 ||intesa-gestion.com^
-||intialrmost.com^
 ||intimewatches.de^
 ||intimissimiat.at^
 ||intoheair.com^
@@ -7829,7 +7802,6 @@
 ||investiraupays.com^
 ||investirex.com^
 ||investisafe.com^
-||investixcrypto.com^
 ||investkreditbank.at^
 ||investmaza.com^
 ||investproai.fr^
@@ -7837,7 +7809,6 @@
 ||invisiblen.com^
 ||invisishieldlab.com^
 ||invogue.at^
-||io-ny.eu^
 ||iojewellery.com^
 ||ioneebeauty.com^
 ||iount.com^

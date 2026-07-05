@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783234620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783275000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jul 2026 06:57 UTC
-; Version: 2026.0705.0657.37
+; Last modified: 05 Jul 2026 18:10 UTC
+; Version: 2026.0705.1810.57
 ; Syntax: RPZ
-; Number of entries: 19974
+; Number of entries: 19972
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -13711,6 +13711,8 @@ knf.md CNAME .
 *.knf.md CNAME .
 nej.md CNAME .
 *.nej.md CNAME .
+os.md CNAME .
+*.os.md CNAME .
 py.md CNAME .
 *.py.md CNAME .
 rsh.md CNAME .
@@ -15193,8 +15195,6 @@ hp24.net CNAME .
 *.hp24.net CNAME .
 httpreferer.net CNAME .
 *.httpreferer.net CNAME .
-hurirk.net CNAME .
-*.hurirk.net CNAME .
 go.hw.net CNAME .
 *.go.hw.net CNAME .
 iandavid.net CNAME .
@@ -17665,8 +17665,6 @@ gglink.site CNAME .
 *.gglink.site CNAME .
 glowin88.site CNAME .
 *.glowin88.site CNAME .
-hisweb.site CNAME .
-*.hisweb.site CNAME .
 infs.site CNAME .
 *.infs.site CNAME .
 islinks.site CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 06:57 UTC
-# Version: 2026.0705.0657.37
+# Last modified: 05 Jul 2026 18:10 UTC
+# Version: 2026.0705.1810.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9987
+# Number of entries: 9986
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -3939,7 +3939,6 @@ local=/hirummy.best/
 local=/hirummy.life/
 local=/hisc.app/
 local=/histori.ca/
-local=/hisweb.site/
 local=/hit.kg/
 local=/hitlap.com/
 local=/hiturl.at/
@@ -4043,7 +4042,6 @@ local=/hugeurl.com/
 local=/hulu.tv/
 local=/huma.na/
 local=/huntscreens.com/
-local=/hurirk.net/
 local=/hurl.it/
 local=/hurl.me/
 local=/hurl.ws/
@@ -6181,6 +6179,7 @@ local=/orlo.uk/
 local=/orp.io/
 local=/orst.io/
 local=/orts.link/
+local=/os.md/
 local=/osdb.link/
 local=/oshko.sh/
 local=/osku.jp/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783238640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783278900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jul 2026 08:04 UTC
-; Version: 2026.0705.0804.45
+; Last modified: 05 Jul 2026 19:15 UTC
+; Version: 2026.0705.1915.07
 ; Syntax: RPZ
-; Number of entries: 33930
+; Number of entries: 33852
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2445,22 +2445,12 @@ sup.fqcomics.cl CNAME .
 *.sup.fqcomics.cl CNAME .
 uniub.fqcomics.cl CNAME .
 *.uniub.fqcomics.cl CNAME .
-duddybkus2983ridjsjsj.hosteriafutaleufu.cl CNAME .
-*.duddybkus2983ridjsjsj.hosteriafutaleufu.cl CNAME .
-guhlic1d.hosteriafutaleufu.cl CNAME .
-*.guhlic1d.hosteriafutaleufu.cl CNAME .
-keepernotero38eidhf.hosteriafutaleufu.cl CNAME .
-*.keepernotero38eidhf.hosteriafutaleufu.cl CNAME .
-madebyguh.hosteriafutaleufu.cl CNAME .
-*.madebyguh.hosteriafutaleufu.cl CNAME .
 making-more-kids-from-ur-mother.hosteriafutaleufu.cl CNAME .
 *.making-more-kids-from-ur-mother.hosteriafutaleufu.cl CNAME .
 noah1.hosteriafutaleufu.cl CNAME .
 *.noah1.hosteriafutaleufu.cl CNAME .
 weloveyounoah.hosteriafutaleufu.cl CNAME .
 *.weloveyounoah.hosteriafutaleufu.cl CNAME .
-2ndi38rufidhdiwu.ilogica-soluciones.cl CNAME .
-*.2ndi38rufidhdiwu.ilogica-soluciones.cl CNAME .
 us-east-production-36887.jpleventos.cl CNAME .
 *.us-east-production-36887.jpleventos.cl CNAME .
 us-west-production-7892.jpleventos.cl CNAME .
@@ -8807,8 +8797,6 @@ hidianchi.com CNAME .
 *.hidianchi.com CNAME .
 hidiandian.com CNAME .
 *.hidiandian.com CNAME .
-hidingit.com CNAME .
-*.hidingit.com CNAME .
 hieaapp.com CNAME .
 *.hieaapp.com CNAME .
 hieugame.com CNAME .
@@ -9009,8 +8997,6 @@ honeyping.com CNAME .
 *.honeyping.com CNAME .
 hongxinglinktools.com CNAME .
 *.hongxinglinktools.com CNAME .
-dns.hoody.com CNAME .
-*.dns.hoody.com CNAME .
 hopperearnin.com CNAME .
 *.hopperearnin.com CNAME .
 dns.hopsken.com CNAME .
@@ -9211,32 +9197,16 @@ the.url.is.true.ifuckedhellokitty.com CNAME .
 *.0vercl0aked.ignorelist.com CNAME .
 babiesyui.ignorelist.com CNAME .
 *.babiesyui.ignorelist.com CNAME .
-basha-is-the-genius.ignorelist.com CNAME .
-*.basha-is-the-genius.ignorelist.com CNAME .
-conquista.bonniee.ignorelist.com CNAME .
-*.conquista.bonniee.ignorelist.com CNAME .
-canvastuhsd.ignorelist.com CNAME .
-*.canvastuhsd.ignorelist.com CNAME .
 cleverp0rtal.ignorelist.com CNAME .
 *.cleverp0rtal.ignorelist.com CNAME .
-justjoshin.com.ignorelist.com CNAME .
-*.justjoshin.com.ignorelist.com CNAME .
 thiswebsiteispeak4life.com.ignorelist.com CNAME .
 *.thiswebsiteispeak4life.com.ignorelist.com CNAME .
 diddyscoming.ignorelist.com CNAME .
 *.diddyscoming.ignorelist.com CNAME .
 doingthsforfunandcuzschoolisboring.ignorelist.com CNAME .
 *.doingthsforfunandcuzschoolisboring.ignorelist.com CNAME .
-fahfahfah.ignorelist.com CNAME .
-*.fahfahfah.ignorelist.com CNAME .
-fahfahfahbigd.ignorelist.com CNAME .
-*.fahfahfahbigd.ignorelist.com CNAME .
-fishstix.ignorelist.com CNAME .
-*.fishstix.ignorelist.com CNAME .
 galaxyiscool.ignorelist.com CNAME .
 *.galaxyiscool.ignorelist.com CNAME .
-gavinsblocked-test.ignorelist.com CNAME .
-*.gavinsblocked-test.ignorelist.com CNAME .
 geographystudyguide.ignorelist.com CNAME .
 *.geographystudyguide.ignorelist.com CNAME .
 learningscience.ignorelist.com CNAME .
@@ -9249,22 +9219,14 @@ pleaseaddto.ignorelist.com CNAME .
 *.pleaseaddto.ignorelist.com CNAME .
 salmon.ignorelist.com CNAME .
 *.salmon.ignorelist.com CNAME .
-samuel-and-toes.ignorelist.com CNAME .
-*.samuel-and-toes.ignorelist.com CNAME .
 schoool.ignorelist.com CNAME .
 *.schoool.ignorelist.com CNAME .
 sigma10192011.ignorelist.com CNAME .
 *.sigma10192011.ignorelist.com CNAME .
 test52139.ignorelist.com CNAME .
 *.test52139.ignorelist.com CNAME .
-thecassius.ignorelist.com CNAME .
-*.thecassius.ignorelist.com CNAME .
 uhhhhhh.ignorelist.com CNAME .
 *.uhhhhhh.ignorelist.com CNAME .
-voidvoidyesyes.ignorelist.com CNAME .
-*.voidvoidyesyes.ignorelist.com CNAME .
-whodagoat.ignorelist.com CNAME .
-*.whodagoat.ignorelist.com CNAME .
 iguoniejichang.com CNAME .
 *.iguoniejichang.com CNAME .
 dns.ihaveacloud.com CNAME .
@@ -9345,8 +9307,6 @@ incaseineeditoneday.com CNAME .
 *.incaseineeditoneday.com CNAME .
 indo-ssh.com CNAME .
 *.indo-ssh.com CNAME .
-doochachadoodoocha.inducort.com CNAME .
-*.doochachadoodoocha.inducort.com CNAME .
 dns.indybanipal.com CNAME .
 *.dns.indybanipal.com CNAME .
 solve.howto.infinisa.com CNAME .
@@ -9469,8 +9429,6 @@ brain.innovativegovernance.com CNAME .
 *.brain.innovativegovernance.com CNAME .
 innovativelearninghub.com CNAME .
 *.innovativelearninghub.com CNAME .
-www.securly.com.installgentoo.com CNAME .
-*.www.securly.com.installgentoo.com CNAME .
 sigma.installgentoo.com CNAME .
 *.sigma.installgentoo.com CNAME .
 installvpn.com CNAME .
@@ -17299,10 +17257,6 @@ not-masons-games.work.gd CNAME .
 *.not-masons-games.work.gd CNAME .
 fern.r4ash.work.gd CNAME .
 *.fern.r4ash.work.gd CNAME .
-baptism.info.gf CNAME .
-*.baptism.info.gf CNAME .
-chddschoolinfo.info.gf CNAME .
-*.chddschoolinfo.info.gf CNAME .
 bebra.gg CNAME .
 *.bebra.gg CNAME .
 doh.futa.gg CNAME .
@@ -17477,8 +17431,6 @@ googlevpn.help CNAME .
 *.googlevpn.help CNAME .
 gusvpn.help CNAME .
 *.gusvpn.help CNAME .
-helpmecheckthisout.help CNAME .
-*.helpmecheckthisout.help CNAME .
 herovpn.help CNAME .
 *.herovpn.help CNAME .
 hiddify.help CNAME .
@@ -18517,10 +18469,6 @@ hxs.info CNAME .
 *.hxs.info CNAME .
 hauntedman.iiiii.info CNAME .
 *.hauntedman.iiiii.info CNAME .
-learningwiki.iiiii.info CNAME .
-*.learningwiki.iiiii.info CNAME .
-plskillmeiworksohard.iiiii.info CNAME .
-*.plskillmeiworksohard.iiiii.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
 itranslator.info CNAME .
@@ -19527,8 +19475,6 @@ ghadrboland.ir CNAME .
 *.ghadrboland.ir CNAME .
 globalcloud.ir CNAME .
 *.globalcloud.ir CNAME .
-hexo-music.ir CNAME .
-*.hexo-music.ir CNAME .
 hotac.ir CNAME .
 *.hotac.ir CNAME .
 dns.jungle-im.ir CNAME .
@@ -19711,8 +19657,6 @@ dhchswi534.home.kg CNAME .
 *.dhchswi534.home.kg CNAME .
 kf.homework.kade.home.kg CNAME .
 *.kf.homework.kade.home.kg CNAME .
-rebirthsanctuarychurch.home.kg CNAME .
-*.rebirthsanctuarychurch.home.kg CNAME .
 vxdwsjxvde43.home.kg CNAME .
 *.vxdwsjxvde43.home.kg CNAME .
 ns.net.kg CNAME .
@@ -20089,8 +20033,6 @@ rt.http3.lol CNAME .
 *.rt.http3.lol CNAME .
 iproxy.lol CNAME .
 *.iproxy.lol CNAME .
-is-a-fag.lol CNAME .
-*.is-a-fag.lol CNAME .
 itop-vpn.lol CNAME .
 *.itop-vpn.lol CNAME .
 johneldenring.lol CNAME .
@@ -20247,8 +20189,6 @@ restena.lu CNAME .
 *.restena.lu CNAME .
 doh.lv CNAME .
 *.doh.lv CNAME .
-qazwsxeedc.aldis.id.lv CNAME .
-*.qazwsxeedc.aldis.id.lv CNAME .
 guard-1.vilbav.id.lv CNAME .
 *.guard-1.vilbav.id.lv CNAME .
 guard-2.vilbav.id.lv CNAME .
@@ -21149,8 +21089,6 @@ hidesafe.name CNAME .
 *.hidesafe.name CNAME .
 hidethe.name CNAME .
 *.hidethe.name CNAME .
-hidx.name CNAME .
-*.hidx.name CNAME .
 hidxmx.name CNAME .
 *.hidxmx.name CNAME .
 hidxmy.name CNAME .
@@ -25875,18 +25813,10 @@ hot-135.online CNAME .
 *.hot-135.online CNAME .
 hrf4hpcwvc8w.online CNAME .
 *.hrf4hpcwvc8w.online CNAME .
-hrj939rzl.online CNAME .
-*.hrj939rzl.online CNAME .
 hsnjx4a.online CNAME .
 *.hsnjx4a.online CNAME .
 hv8htsje.online CNAME .
 *.hv8htsje.online CNAME .
-hvqeezqn.online CNAME .
-*.hvqeezqn.online CNAME .
-hykdwzgw.online CNAME .
-*.hykdwzgw.online CNAME .
-i5d2kcibzp.online CNAME .
-*.i5d2kcibzp.online CNAME .
 ibdwcewgnkujqnzfsxxa.online CNAME .
 *.ibdwcewgnkujqnzfsxxa.online CNAME .
 ie5qtzarpqymn.online CNAME .
@@ -27105,8 +27035,6 @@ hcstemm.org CNAME .
 *.hcstemm.org CNAME .
 help-with-homework.org CNAME .
 *.help-with-homework.org CNAME .
-novaenglish.help4bali.org CNAME .
-*.novaenglish.help4bali.org CNAME .
 vibecoding.help4bali.org CNAME .
 *.vibecoding.help4bali.org CNAME .
 hide-me.org CNAME .
@@ -28767,8 +28695,6 @@ roadesdyn.go.ro CNAME .
 *.roadesdyn.go.ro CNAME .
 socolov.home.ro CNAME .
 *.socolov.home.ro CNAME .
-login.ilsatimisoara.ro CNAME .
-*.login.ilsatimisoara.ro CNAME .
 evasive.imiamintesc.ro CNAME .
 *.evasive.imiamintesc.ro CNAME .
 megahack41.imiamintesc.ro CNAME .
@@ -29233,8 +29159,6 @@ chiickenn.hvac-sale.ru CNAME .
 *.chiickenn.hvac-sale.ru CNAME .
 i-puppy.ru CNAME .
 *.i-puppy.ru CNAME .
-az.i81.ru CNAME .
-*.az.i81.ru CNAME .
 hr.i81.ru CNAME .
 *.hr.i81.ru CNAME .
 amigo.px.i81.ru CNAME .
@@ -30359,8 +30283,6 @@ type-v5.instadownloader.site CNAME .
 *.type-v5.instadownloader.site CNAME .
 type-v6.instadownloader.site CNAME .
 *.type-v6.instadownloader.site CNAME .
-type-v7.instadownloader.site CNAME .
-*.type-v7.instadownloader.site CNAME .
 type-v8.instadownloader.site CNAME .
 *.type-v8.instadownloader.site CNAME .
 type-v9.instadownloader.site CNAME .

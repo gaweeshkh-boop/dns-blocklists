@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783238580 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783278840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jul 2026 08:03 UTC
-; Version: 2026.0705.0803.55
+; Last modified: 05 Jul 2026 19:14 UTC
+; Version: 2026.0705.1914.30
 ; Syntax: RPZ
-; Number of entries: 6848
+; Number of entries: 6844
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1151,8 +1151,6 @@ mail.hilton-groups.com CNAME .
 *.mail.hilton-groups.com CNAME .
 adguard.hoangcongchuc.com CNAME .
 *.adguard.hoangcongchuc.com CNAME .
-dns.hoody.com CNAME .
-*.dns.hoody.com CNAME .
 dns.hopsken.com CNAME .
 *.dns.hopsken.com CNAME .
 horus-team.com CNAME .
@@ -5687,8 +5685,6 @@ adg.hostingab.ru CNAME .
 *.adg.hostingab.ru CNAME .
 i-puppy.ru CNAME .
 *.i-puppy.ru CNAME .
-az.i81.ru CNAME .
-*.az.i81.ru CNAME .
 hr.i81.ru CNAME .
 *.hr.i81.ru CNAME .
 amigo.px.i81.ru CNAME .
