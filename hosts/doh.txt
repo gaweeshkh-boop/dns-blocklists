@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 19:14 UTC
-# Version: 2026.0705.1914.30
+# Last modified: 06 Jul 2026 07:57 UTC
+# Version: 2026.0706.0757.57
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3858
+# Number of entries: 3853
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2128,7 +2128,6 @@
 0.0.0.0 unfiltered.joindns4.eu
 0.0.0.0 opencdn.jomodns.com
 0.0.0.0 panel.joosh.ru
-0.0.0.0 joouddo.ru
 0.0.0.0 josephfamily.org
 0.0.0.0 agh.josephyap.me
 0.0.0.0 joshberg.org
@@ -2144,7 +2143,6 @@
 0.0.0.0 addns.jujuland.net
 0.0.0.0 dns.jundev.org
 0.0.0.0 dns.jungle-im.ir
-0.0.0.0 dns.jupitrdns.com
 0.0.0.0 jp01.just-a-web.com
 0.0.0.0 sgs02.just-a-web.com
 0.0.0.0 ad.justincounts.com
@@ -2178,7 +2176,6 @@
 0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kekew.racing
 0.0.0.0 doh3.kekew.info
-0.0.0.0 kekv.fun
 0.0.0.0 doh.kel.pe
 0.0.0.0 kellerbier-home.com
 0.0.0.0 dns.kempkens.org
@@ -2258,9 +2255,7 @@
 0.0.0.0 dns.labar.re
 0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr
-0.0.0.0 cdns.lagzerotm.com
 0.0.0.0 2024.laijy.top
-0.0.0.0 adguard.lamhoangtung.space
 0.0.0.0 landerbrauver.ru
 0.0.0.0 x.laoban.fun
 0.0.0.0 mx1.laoxiao789.com

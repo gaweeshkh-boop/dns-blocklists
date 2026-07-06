@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 18:10 UTC
-# Version: 2026.0705.1810.57
+# Last modified: 06 Jul 2026 06:56 UTC
+# Version: 2026.0706.0656.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9986
+# Number of entries: 9983
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -447,7 +447,6 @@ local=/s.lalazodiac.com/
 local=/go.lamotte.fr/
 local=/bio.laormedia.com/
 local=/url.lcisd.net/
-local=/direct.learnspread.io/
 local=/go.liara.ir/
 local=/l.linforme.com/
 local=/app.linkpod.co/
@@ -1141,6 +1140,7 @@ local=/3d1200.xyz/
 local=/3dsecure.org/
 local=/3ft.ca/
 local=/3ind.com/
+local=/3k.pe/
 local=/3kx.in/
 local=/3le.ru/
 local=/3lo.gy/
@@ -4367,7 +4367,6 @@ local=/jcp.is/
 local=/jdem.cz/
 local=/jdev.uk/
 local=/jdp.am/
-local=/jeetbuzzlinks.com/
 local=/jek.it/
 local=/jelink.id/
 local=/jellylink.com/
@@ -4421,7 +4420,6 @@ local=/jos.bio/
 local=/joshbut.llc/
 local=/joskale.me/
 local=/joturl.com/
-local=/joy8.bond/
 local=/joyoflanguages.online/
 local=/jp22.net/
 local=/jpeg.ly/
@@ -4726,7 +4724,6 @@ local=/leonidea.com/
 local=/less.al/
 local=/lessnmore.net/
 local=/lesterchan.net/
-local=/letsconnect.fun/
 local=/letsharu.cc/
 local=/letx.be/
 local=/letz.kr/

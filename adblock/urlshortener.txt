@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jul 2026 18:10 UTC
-! Version: 2026.0705.1810.57
+! Last modified: 06 Jul 2026 06:56 UTC
+! Version: 2026.0706.0656.16
 ! Syntax: AdBlock
-! Number of entries: 9986
+! Number of entries: 9983
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -448,7 +448,6 @@
 ||go.lamotte.fr^
 ||bio.laormedia.com^
 ||url.lcisd.net^
-||direct.learnspread.io^
 ||go.liara.ir^
 ||l.linforme.com^
 ||app.linkpod.co^
@@ -1142,6 +1141,7 @@
 ||3dsecure.org^
 ||3ft.ca^
 ||3ind.com^
+||3k.pe^
 ||3kx.in^
 ||3le.ru^
 ||3lo.gy^
@@ -4368,7 +4368,6 @@
 ||jdem.cz^
 ||jdev.uk^
 ||jdp.am^
-||jeetbuzzlinks.com^
 ||jek.it^
 ||jelink.id^
 ||jellylink.com^
@@ -4422,7 +4421,6 @@
 ||joshbut.llc^
 ||joskale.me^
 ||joturl.com^
-||joy8.bond^
 ||joyoflanguages.online^
 ||jp22.net^
 ||jpeg.ly^
@@ -4727,7 +4725,6 @@
 ||less.al^
 ||lessnmore.net^
 ||lesterchan.net^
-||letsconnect.fun^
 ||letsharu.cc^
 ||letx.be^
 ||letz.kr^

@@ -21,15 +21,7 @@ www.84302764.xyz
 0.www.84302764.xyz
 stg.www.84302764.xyz
 0.stg.www.84302764.xyz
-1.stg.www.84302764.xyz
-2.stg.www.84302764.xyz
-3.stg.www.84302764.xyz
-4.stg.www.84302764.xyz
-5.stg.www.84302764.xyz
-6.stg.www.84302764.xyz
 7.stg.www.84302764.xyz
-8.stg.www.84302764.xyz
-9.stg.www.84302764.xyz
 ackzany.com
 ad-shield.cc
 ad-shield.io
@@ -1322,7 +1314,6 @@ video-loads.com
 8.video-loads.com
 9.video-loads.com
 wallabyhusky.com
-0.wallabyhusky.com
 stg.wallabyhusky.com
 0.stg.wallabyhusky.com
 1.stg.wallabyhusky.com

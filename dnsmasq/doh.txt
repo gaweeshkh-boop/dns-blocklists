@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 19:14 UTC
-# Version: 2026.0705.1914.30
+# Last modified: 06 Jul 2026 07:57 UTC
+# Version: 2026.0706.0757.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3422
+# Number of entries: 3417
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1605,7 +1605,6 @@ local=/dns.juancamos.com/
 local=/addns.jujuland.net/
 local=/dns.jundev.org/
 local=/dns.jungle-im.ir/
-local=/dns.jupitrdns.com/
 local=/jp01.just-a-web.com/
 local=/sgs02.just-a-web.com/
 local=/ad.justincounts.com/
@@ -1689,9 +1688,7 @@ local=/dns.l6.ee/
 local=/dns.labar.re/
 local=/dns.labnekotest.site/
 local=/doh.lacontrevoie.fr/
-local=/cdns.lagzerotm.com/
 local=/2024.laijy.top/
-local=/adguard.lamhoangtung.space/
 local=/x.laoban.fun/
 local=/mx1.laoxiao789.com/
 local=/dns.lars-lehmann.net/
@@ -3177,7 +3174,6 @@ local=/jimmyshjj.top/
 local=/jkdns.me/
 local=/jnprd.com/
 local=/johneldenring.lol/
-local=/joouddo.ru/
 local=/josephfamily.org/
 local=/joshberg.org/
 local=/juicysalmon.ru/
@@ -3187,7 +3183,6 @@ local=/kaiwu.xyz/
 local=/kallemarc.de/
 local=/kavkaz.monster/
 local=/kcolspacrm.ir/
-local=/kekv.fun/
 local=/kellerbier-home.com/
 local=/kennethhuang.com/
 local=/khome.site/

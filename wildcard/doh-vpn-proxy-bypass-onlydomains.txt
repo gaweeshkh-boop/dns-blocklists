@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 19:15 UTC
-# Version: 2026.0705.1915.07
+# Last modified: 06 Jul 2026 07:58 UTC
+# Version: 2026.0706.0758.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 16926
+# Number of entries: 16882
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -3920,7 +3920,6 @@ math.isreally.pro
 smellyal.isreally.pro
 smellypay.isreally.pro
 poem.istan.to
-pistontomato.endis.it.com
 abc123.welltypers.it.com
 6741.it.com
 goodfast.it.com
@@ -3977,7 +3976,6 @@ adguard.jfchenier.ca
 dns.jhangy.us
 dns.jichi.io
 homes.jif9.net
-web.jiij.cc
 dns.jimirobaer.be
 play.jimmyqrg.com
 wiki.jimmyqrg.com
@@ -4029,7 +4027,6 @@ ab.jsx.pm
 b.jtt.ink
 dns.juancamos.com
 addns.jujuland.net
-aanakwd.jumpingcrab.com
 abcmathforkids.jumpingcrab.com
 forschoolcuzgoguardianisbad.jumpingcrab.com
 galacticfederation.jumpingcrab.com
@@ -4037,10 +4034,7 @@ howtodomaths.jumpingcrab.com
 ifyourereadingthisyourecool.jumpingcrab.com
 learnsktech.jumpingcrab.com
 mathchallenges.jumpingcrab.com
-metteolovesitinthebut.jumpingcrab.com
 qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com
-qusr.jumpingcrab.com
-samuel-is-your-leader.jumpingcrab.com
 sksubscribetech.jumpingcrab.com
 sktechlink.jumpingcrab.com
 subscribesktech.jumpingcrab.com
@@ -4062,7 +4056,6 @@ learntoteach.justlearning.net
 studyingsocool.justlearning.net
 texashistory.justlearning.net
 tubaiscool.justlearning.net
-brandon.jwork.ru
 everyorigin.jwvbremen.nl
 adguard.k-likhachev.ru
 dns.k3nny.fr
@@ -4082,7 +4075,6 @@ dns.karl.one
 server01.karl.one
 adguard.kasbot.net
 dns.kastner-online.de
-raiseyouryayaya.katan.ro
 dns.kawa.tf
 dns.kc2wbx.com
 ad.kccsl.top
@@ -4105,11 +4097,9 @@ pihole.aws.ketan.dev
 dns.keviland.com
 dns.keweon.center
 masonmasontaylortaylor.net.keybusinessconnection.com
-brollyho.professor.keybusinessconnection.com
 algenisfentfolds.keybusinessconnection.com
 anthonycordova.keybusinessconnection.com
 axiomhas.keybusinessconnection.com
-brollyonly.keybusinessconnection.com
 isaiahshomework.keybusinessconnection.com
 johnbartlett.keybusinessconnection.com
 wproxies.keybusinessconnection.com
@@ -4176,7 +4166,6 @@ learn.kugya.com
 dns.kukal.cz
 agh.kul-lippek.de
 course.excel.kump.si
-ram.kunar.baby
 dns.kusoneko.moe
 trending.kutsenko.cc
 dns.kuuhaku.moe
@@ -4194,15 +4183,12 @@ for.my.subscribers.gg.schools.l5.ca
 adamz2eso.l5.ca
 quesosrammerhaha.l5.ca
 dns.l6.ee
-www.securly.com.laangles.com
 dns.labar.re
 dns.labnekotest.site
 orxwaicjss.laboratoriosdavis.cl
 doh.lacontrevoie.fr
 www-proxy.ladifsoftware.com
-cdns.lagzerotm.com
 2024.laijy.top
-adguard.lamhoangtung.space
 doge.lamplifesteal.xyz
 kaz.lamplifesteal.xyz
 www-magma-mantle.laneesports.com
@@ -4222,10 +4208,6 @@ eu1.dns.lavate.ch
 us1.dns.lavate.ch
 dns.lavir.com
 iterator.lazada.com
-oraxenpetea.lczipper.com
-petenirbyte.lczipper.com
-themaxeni.lczipper.com
-unblockedxerr.lczipper.com
 alumn.history.ldop.com
 adguard1.leadmon.net
 adguard2.leadmon.net
@@ -11546,7 +11528,6 @@ jinglongyu.com
 jirvalo.ru
 jirvanto.ru
 jisuvip.info
-jitudh.xyz
 jiujiu-speed.com
 jiujiu-speed.net
 jiujiuspeed.net
@@ -11559,7 +11540,6 @@ jj-speed.net
 jjcloud.xyz
 jjjj.loan
 jjjxgc.com
-jjs-bbq.space
 jjspeed.com
 jk-cloud.net
 jkbest033.net
@@ -11595,7 +11575,6 @@ joltravo.ru
 jomalex.baby
 jongserver.xyz
 joniro.ru
-joouddo.ru
 jooy.cc
 jordanburrow.com
 jordansmathwork.org
@@ -11730,7 +11709,6 @@ keeplets.net
 keeplian.com
 keeplian.net
 kejifenxiang.com
-kekv.fun
 keldrix.xyz
 kellerbier-home.com
 kelrano.ru
@@ -11776,7 +11754,6 @@ kkkkk.click
 klavino.ru
 klctextor5ag.online
 klevoro.ru
-klgf.net
 klimora.ru
 klimydkx.com
 klivaro.ru
@@ -12053,14 +12030,11 @@ kuailian-sf.com
 kuailian-st.com
 kuailian-ui.com
 kuailian-vip.com
-kuailian-vlp.com
 kuailian-vpn.com
 kuailian-vpn.vip
 kuailian-we.com
 kuailian-web.com
 kuailian-win.com
-kuailian-wins.com
-kuailian-world.com
 kuailian-wp.com
 kuailian-zo.com
 kuailian003.com
@@ -12095,7 +12069,6 @@ kuailianvpn123.com
 kuailianvsvpn.com
 kuailianvv.com
 kuailianx.com
-kuailianx.org
 kuailiian.com
 kuailivpn.cn
 kuailkian.com
@@ -12129,7 +12102,6 @@ lacsr.cc
 laddervpnapp.com
 laflame.us
 lagom.click
-lagomvpn.biz
 lagomvpn.com
 lagomvpn.help
 lagomvpn.org
@@ -12140,9 +12112,6 @@ landenglinktools.com
 landerbrauver.ru
 lanfancloud.info
 languagelearninginc.com
-lanmao365.com
-lanmaojiasu.com
-lanmaoyun.cc
 lanmaoyun.uk
 lantern.io
 lanternvpn.biz
@@ -12208,7 +12177,6 @@ lelux.fi
 lerbix.xyz
 les-vpn.com
 lestfvpn.com
-lestkuai.com
 lesuo.top
 letlab.online
 letmeoutletmeout.xyz
@@ -12225,34 +12193,23 @@ lets-vpn.dev
 lets-vpn.net
 lets-vpn.org
 lets-vpn.pub
-lets-vpn.tv
 lets-vpns.com
-letsauqvpn.com
-letsavuvpn.com
 letsbavvpn.com
 letsbvpn.com
 letsccsvpn.com
-letscifvpn.com
 letscn.cn
 letsconn.com
 letsconnectkuailianvpn.com
 letscpvpn.com
-letsddxvpn.com
 letseaivpn.com
 letsejavpn.com
-letsiesvpn.com
 letsilvpn.com
 letslian.com
 letslvpn.com
-letsoifvpn.com
 letsoluvpn.com
-letsoqqvpn.com
-letspcxvpn.com
-letsphcvpn.com
 letspmnvpn.com
 letsqtkvpn.com
 letsrstvpn.com
-letsvmevpn.com
 letsvpn.dev
 letsvpn.group
 letsvpn.hot
@@ -12267,7 +12224,6 @@ letsvpn-cn.co
 letsvpn-hd.com
 letsvpn-kuailian.com
 letsvpn-kuailian.net
-letsvpn-pc.cn
 letsvpn-w0rid.com
 letsvpn-w0rld.com
 letsvpn-worid.com
@@ -12292,7 +12248,6 @@ letswrhvpn.com
 letsxvpn.com
 letsyuivpn.com
 letvpn.net
-letvpna.com
 levsvpn.com
 lewsha.lol
 leyfxjlv.cc
@@ -15872,6 +15827,7 @@ vpn-fastest.com
 vpn-free.com
 vpn-free.download
 vpn-free.pro
+vpn-kostenlos.com
 vpn-kuailianapp.com
 vpn-lets.com
 vpn-lets.dev

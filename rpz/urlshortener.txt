@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783275000 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783320960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jul 2026 18:10 UTC
-; Version: 2026.0705.1810.57
+; Last modified: 06 Jul 2026 06:56 UTC
+; Version: 2026.0706.0656.16
 ; Syntax: RPZ
-; Number of entries: 19972
+; Number of entries: 19966
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1211,8 +1211,6 @@ ultra.bo CNAME .
 *.ultra.bo CNAME .
 wozencraft.boats CNAME .
 *.wozencraft.boats CNAME .
-joy8.bond CNAME .
-*.joy8.bond CNAME .
 shorturl.bond CNAME .
 *.shorturl.bond CNAME .
 eventogo.app.br CNAME .
@@ -4835,8 +4833,6 @@ jayan-uvl.com CNAME .
 *.jayan-uvl.com CNAME .
 jbiv.com CNAME .
 *.jbiv.com CNAME .
-jeetbuzzlinks.com CNAME .
-*.jeetbuzzlinks.com CNAME .
 jellylink.com CNAME .
 *.jellylink.com CNAME .
 jellyurl.com CNAME .
@@ -8985,8 +8981,6 @@ zipurl.fr CNAME .
 *.69run.fun CNAME .
 bj88php.fun CNAME .
 *.bj88php.fun CNAME .
-letsconnect.fun CNAME .
-*.letsconnect.fun CNAME .
 minitv.fun CNAME .
 *.minitv.fun CNAME .
 short.mypaste.fun CNAME .
@@ -10885,8 +10879,6 @@ l4y.io CNAME .
 *.l4y.io CNAME .
 landerlab.io CNAME .
 *.landerlab.io CNAME .
-direct.learnspread.io CNAME .
-*.direct.learnspread.io CNAME .
 leenker.io CNAME .
 *.leenker.io CNAME .
 lightbee.io CNAME .
@@ -16557,6 +16549,8 @@ slice.partners CNAME .
 *.slice.partners CNAME .
 making.party CNAME .
 *.making.party CNAME .
+3k.pe CNAME .
+*.3k.pe CNAME .
 adv.pe CNAME .
 *.adv.pe CNAME .
 cut.pe CNAME .

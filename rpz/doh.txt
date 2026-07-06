@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783278840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783324620 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jul 2026 19:14 UTC
-; Version: 2026.0705.1914.30
+; Last modified: 06 Jul 2026 07:57 UTC
+; Version: 2026.0706.0757.57
 ; Syntax: RPZ
-; Number of entries: 6844
+; Number of entries: 6834
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1247,8 +1247,6 @@ dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
 dns.juancamos.com CNAME .
 *.dns.juancamos.com CNAME .
-dns.jupitrdns.com CNAME .
-*.dns.jupitrdns.com CNAME .
 jp01.just-a-web.com CNAME .
 *.jp01.just-a-web.com CNAME .
 sgs02.just-a-web.com CNAME .
@@ -1287,8 +1285,6 @@ kstdownload.com CNAME .
 *.kstdownload.com CNAME .
 hdns.ksyun.com CNAME .
 *.hdns.ksyun.com CNAME .
-cdns.lagzerotm.com CNAME .
-*.cdns.lagzerotm.com CNAME .
 mx1.laoxiao789.com CNAME .
 *.mx1.laoxiao789.com CNAME .
 dns.lauraeguido.com CNAME .
@@ -2689,8 +2685,6 @@ dupatruwi22.fun CNAME .
 *.dupatruwi22.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
-kekv.fun CNAME .
-*.kekv.fun CNAME .
 x.laoban.fun CNAME .
 *.x.laoban.fun CNAME .
 adhome.maige.fun CNAME .
@@ -5737,8 +5731,6 @@ vps.jmarkin.ru CNAME .
 *.vps.jmarkin.ru CNAME .
 panel.joosh.ru CNAME .
 *.panel.joosh.ru CNAME .
-joouddo.ru CNAME .
-*.joouddo.ru CNAME .
 juicysalmon.ru CNAME .
 *.juicysalmon.ru CNAME .
 adguard.k-likhachev.ru CNAME .
@@ -5979,8 +5971,6 @@ b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space CNAME .
 *.b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space CNAME .
 addns.jpr.space CNAME .
 *.addns.jpr.space CNAME .
-adguard.lamhoangtung.space CNAME .
-*.adguard.lamhoangtung.space CNAME .
 pygos.space CNAME .
 *.pygos.space CNAME .
 adg.rueiliu.space CNAME .

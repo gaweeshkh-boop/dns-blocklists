@@ -122,6 +122,7 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-i
 https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/custom/is.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/cbuijs/suspicious-domains/refs/heads/main/suspicious.01d.domains.plain.list
+https://raw.githubusercontent.com/cbuijs/suspicious-domains/refs/heads/main/suspicious.07d.domains.plain.list
 https://raw.githubusercontent.com/cbuijs/ut1/master/cryptojacking/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains

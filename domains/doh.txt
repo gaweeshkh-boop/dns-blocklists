@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 19:14 UTC
-# Version: 2026.0705.1914.30
+# Last modified: 06 Jul 2026 07:57 UTC
+# Version: 2026.0706.0757.57
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3858
+# Number of entries: 3853
 #
 ss.0001.xyz
 003153.xyz
@@ -2128,7 +2128,6 @@ protective.joindns4.eu
 unfiltered.joindns4.eu
 opencdn.jomodns.com
 panel.joosh.ru
-joouddo.ru
 josephfamily.org
 agh.josephyap.me
 joshberg.org
@@ -2144,7 +2143,6 @@ juicysalmon.ru
 addns.jujuland.net
 dns.jundev.org
 dns.jungle-im.ir
-dns.jupitrdns.com
 jp01.just-a-web.com
 sgs02.just-a-web.com
 ad.justincounts.com
@@ -2178,7 +2176,6 @@ guard.keiper.net
 doh.kekew.info
 doh.kekew.racing
 doh3.kekew.info
-kekv.fun
 doh.kel.pe
 kellerbier-home.com
 dns.kempkens.org
@@ -2258,9 +2255,7 @@ dns.l6.ee
 dns.labar.re
 dns.labnekotest.site
 doh.lacontrevoie.fr
-cdns.lagzerotm.com
 2024.laijy.top
-adguard.lamhoangtung.space
 landerbrauver.ru
 x.laoban.fun
 mx1.laoxiao789.com

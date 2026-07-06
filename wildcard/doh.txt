@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jul 2026 19:14 UTC
-# Version: 2026.0705.1914.30
+# Last modified: 06 Jul 2026 07:57 UTC
+# Version: 2026.0706.0757.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3422
+# Number of entries: 3417
 #
 *.ss.0001.xyz
 *.ns.00dani.me
@@ -1605,7 +1605,6 @@
 *.addns.jujuland.net
 *.dns.jundev.org
 *.dns.jungle-im.ir
-*.dns.jupitrdns.com
 *.jp01.just-a-web.com
 *.sgs02.just-a-web.com
 *.ad.justincounts.com
@@ -1689,9 +1688,7 @@
 *.dns.labar.re
 *.dns.labnekotest.site
 *.doh.lacontrevoie.fr
-*.cdns.lagzerotm.com
 *.2024.laijy.top
-*.adguard.lamhoangtung.space
 *.x.laoban.fun
 *.mx1.laoxiao789.com
 *.dns.lars-lehmann.net
@@ -3177,7 +3174,6 @@
 *.jkdns.me
 *.jnprd.com
 *.johneldenring.lol
-*.joouddo.ru
 *.josephfamily.org
 *.joshberg.org
 *.juicysalmon.ru
@@ -3187,7 +3183,6 @@
 *.kallemarc.de
 *.kavkaz.monster
 *.kcolspacrm.ir
-*.kekv.fun
 *.kellerbier-home.com
 *.kennethhuang.com
 *.khome.site
