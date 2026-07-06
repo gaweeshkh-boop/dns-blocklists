@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783331820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783361700 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 09:57 UTC
-; Version: 2026.0706.0957.12
+; Last modified: 06 Jul 2026 18:15 UTC
+; Version: 2026.0706.1815.48
 ; Syntax: RPZ
-; Number of entries: 19962
+; Number of entries: 19960
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5317,8 +5317,6 @@ lz.com CNAME .
 *.lz.com CNAME .
 m3mi.com CNAME .
 *.m3mi.com CNAME .
-magicwlinks.com CNAME .
-*.magicwlinks.com CNAME .
 magnet-mind.com CNAME .
 *.magnet-mind.com CNAME .
 urlshortener.mahamafzar.com CNAME .
@@ -5445,8 +5443,6 @@ millerreception.com CNAME .
 *.millerreception.com CNAME .
 mimsee2020.com CNAME .
 *.mimsee2020.com CNAME .
-minecraftparodileri.com CNAME .
-*.minecraftparodileri.com CNAME .
 minfier.com CNAME .
 *.minfier.com CNAME .
 minify-url.com CNAME .
@@ -9951,6 +9947,8 @@ ishort.in CNAME .
 *.ishort.in CNAME .
 itly.in CNAME .
 *.itly.in CNAME .
+jobsvb.in CNAME .
+*.jobsvb.in CNAME .
 jsl1.in CNAME .
 *.jsl1.in CNAME .
 knext.in CNAME .
@@ -12321,6 +12319,8 @@ wed.li CNAME .
 *.wed.li CNAME .
 wso.li CNAME .
 *.wso.li CNAME .
+xem.li CNAME .
+*.xem.li CNAME .
 xpr.li CNAME .
 *.xpr.li CNAME .
 yrl.li CNAME .
@@ -13673,8 +13673,6 @@ yo.ma CNAME .
 *.yo.ma CNAME .
 zi.ma CNAME .
 *.zi.ma CNAME .
-matmacakiem222.makeup CNAME .
-*.matmacakiem222.makeup CNAME .
 woodmans.market CNAME .
 *.woodmans.market CNAME .
 cga.marketing CNAME .

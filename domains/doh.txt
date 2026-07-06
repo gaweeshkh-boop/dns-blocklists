@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 07:57 UTC
-# Version: 2026.0706.0757.57
+# Last modified: 06 Jul 2026 19:19 UTC
+# Version: 2026.0706.1919.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3853
+# Number of entries: 3850
 #
 ss.0001.xyz
 003153.xyz
@@ -2357,7 +2357,6 @@ maincloud.ir
 dns.maitrekuc.fr
 malanser.ru
 dns.malanser.ru
-malelolula.store
 dns.malhuda.com
 dns.mandre.dev
 adguard.manmademagic.com
@@ -2440,12 +2439,10 @@ mikezhang.xyz
 dns.mikopono.nl
 rwkdwpwsyv48.mikopono.nl
 dns.millernetwork.uk
-aitkcrev.minhduc.pw
 minilla.store
 dns.mipauns.com
 guard.miracloud.fr
 netcup.mismat.ch
-mistasinresolver.ru
 httpdns.browser.miui.com
 dns.miyun1.com
 doh.mmmalia.com

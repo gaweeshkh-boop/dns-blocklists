@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 07:57 UTC
-# Version: 2026.0706.0757.57
+# Last modified: 06 Jul 2026 19:19 UTC
+# Version: 2026.0706.1919.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3417
+# Number of entries: 3414
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1832,7 +1832,6 @@ local=/dns.mikeliu.org/
 local=/dns.mikopono.nl/
 local=/rwkdwpwsyv48.mikopono.nl/
 local=/dns.millernetwork.uk/
-local=/aitkcrev.minhduc.pw/
 local=/dns.mipauns.com/
 local=/guard.miracloud.fr/
 local=/netcup.mismat.ch/
@@ -3217,7 +3216,6 @@ local=/lukscasino-929-tr.xyz/
 local=/maherhost.uk/
 local=/maincloud.ir/
 local=/malanser.ru/
-local=/malelolula.store/
 local=/maqgie.xyz/
 local=/mastergad.me/
 local=/masters-of-cloud.de/
@@ -3232,7 +3230,6 @@ local=/mikatos.de/
 local=/mikewaddick.com/
 local=/mikezhang.xyz/
 local=/minilla.store/
-local=/mistasinresolver.ru/
 local=/moamao.shop/
 local=/morbitzer.de/
 local=/mresquire.com/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783336260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783365540 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 11:11 UTC
-; Version: 2026.0706.1111.03
+; Last modified: 06 Jul 2026 19:19 UTC
+; Version: 2026.0706.1919.51
 ; Syntax: RPZ
-; Number of entries: 33756
+; Number of entries: 33726
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2897,8 +2897,6 @@ blade.lixd.club CNAME .
 *.blade.lixd.club CNAME .
 loginnet.club CNAME .
 *.loginnet.club CNAME .
-marjifx.club CNAME .
-*.marjifx.club CNAME .
 meowless.club CNAME .
 *.meowless.club CNAME .
 ps1.modr.club CNAME .
@@ -10705,8 +10703,6 @@ iwillnot.loseyourip.com CNAME .
 *.iwillnot.loseyourip.com CNAME .
 ddd.loukky.com CNAME .
 *.ddd.loukky.com CNAME .
-fern.lovethosetrains.com CNAME .
-*.fern.lovethosetrains.com CNAME .
 loxch.com CNAME .
 *.loxch.com CNAME .
 loyaltynotes.com CNAME .
@@ -10795,14 +10791,8 @@ music.recap.markisfullofshit.com CNAME .
 *.music.recap.markisfullofshit.com CNAME .
 welweklrj.opwerop.markjlyon.com CNAME .
 *.welweklrj.opwerop.markjlyon.com CNAME .
-imagine-learning.marqenhotels.com CNAME .
-*.imagine-learning.marqenhotels.com CNAME .
 lumi.marqenhotels.com CNAME .
 *.lumi.marqenhotels.com CNAME .
-rizzmas2025.marqenhotels.com CNAME .
-*.rizzmas2025.marqenhotels.com CNAME .
-sleep-studies.marqenhotels.com CNAME .
-*.sleep-studies.marqenhotels.com CNAME .
 doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
@@ -19967,8 +19957,6 @@ latiao.lol CNAME .
 *.latiao.lol CNAME .
 lewsha.lol CNAME .
 *.lewsha.lol CNAME .
-lord-justice.lol CNAME .
-*.lord-justice.lol CNAME .
 mathisawesome.lol CNAME .
 *.mathisawesome.lol CNAME .
 void.mcfly.lol CNAME .
@@ -20115,12 +20103,6 @@ guard-1.vilbav.id.lv CNAME .
 *.guard-1.vilbav.id.lv CNAME .
 guard-2.vilbav.id.lv CNAME .
 *.guard-2.vilbav.id.lv CNAME .
-domer.merniekszm.lv CNAME .
-*.domer.merniekszm.lv CNAME .
-eeffoc.merniekszm.lv CNAME .
-*.eeffoc.merniekszm.lv CNAME .
-sixone.merniekszm.lv CNAME .
-*.sixone.merniekszm.lv CNAME .
 doh.nic.lv CNAME .
 *.doh.nic.lv CNAME .
 onion.ly CNAME .
@@ -28421,8 +28403,6 @@ doh.meetz.pw CNAME .
 *.doh.meetz.pw CNAME .
 redsea.meetz.pw CNAME .
 *.redsea.meetz.pw CNAME .
-aitkcrev.minhduc.pw CNAME .
-*.aitkcrev.minhduc.pw CNAME .
 mojie.pw CNAME .
 *.mojie.pw CNAME .
 ttag.dns.nomu.pw CNAME .
@@ -29225,14 +29205,10 @@ merlavo.ru CNAME .
 *.merlavo.ru CNAME .
 mestoro.ru CNAME .
 *.mestoro.ru CNAME .
-www.google.com.mikata.ru CNAME .
-*.www.google.com.mikata.ru CNAME .
 miltran.ru CNAME .
 *.miltran.ru CNAME .
 mirqenzo.ru CNAME .
 *.mirqenzo.ru CNAME .
-mistasinresolver.ru CNAME .
-*.mistasinresolver.ru CNAME .
 molvira.ru CNAME .
 *.molvira.ru CNAME .
 mont-riv.ru CNAME .
@@ -30561,8 +30537,6 @@ key1lib.store CNAME .
 *.key1lib.store CNAME .
 kuailianvpn.store CNAME .
 *.kuailianvpn.store CNAME .
-malelolula.store CNAME .
-*.malelolula.store CNAME .
 masgl.store CNAME .
 *.masgl.store CNAME .
 migz.store CNAME .
@@ -30623,8 +30597,6 @@ home34.su CNAME .
 *.home34.su CNAME .
 sers.lirlab.su CNAME .
 *.sers.lirlab.su CNAME .
-johnfrost.lumiwow.su CNAME .
-*.johnfrost.lumiwow.su CNAME .
 reniac.su CNAME .
 *.reniac.su CNAME .
 roblugo.su CNAME .
@@ -32197,8 +32169,6 @@ hdmn.website CNAME .
 *.hdmn.website CNAME .
 kaisuta.website CNAME .
 *.kaisuta.website CNAME .
-maureenesther.website CNAME .
-*.maureenesther.website CNAME .
 opener.website CNAME .
 *.opener.website CNAME .
 peremen.website CNAME .

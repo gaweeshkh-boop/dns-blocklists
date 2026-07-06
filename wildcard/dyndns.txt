@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 14:41 UTC
-# Version: 2026.0622.1441.15
+# Last modified: 06 Jul 2026 14:48 UTC
+# Version: 2026.0706.1448.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1518
+# Number of entries: 1517
 #
 *.dyn.addr.tools
 *.changeip.co.uk
@@ -935,7 +935,6 @@
 *.lostgumball.com
 *.lovethosetrains.com
 *.lozan.com
-*.luckyweaving.com
 *.macrofox.org
 *.madhacker.biz
 *.mao.fi

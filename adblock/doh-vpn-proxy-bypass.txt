@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jul 2026 11:11 UTC
-! Version: 2026.0706.1111.03
+! Last modified: 06 Jul 2026 19:19 UTC
+! Version: 2026.0706.1919.51
 ! Syntax: AdBlock
-! Number of entries: 16878
+! Number of entries: 16863
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -4292,7 +4292,6 @@
 ||sainttech.lotossutra.at^
 ||ddd.loukky.com^
 ||www-proxy.lovekeli.uk^
-||fern.lovethosetrains.com^
 ||relay.lsaccess.cf^
 ||n5.lsasss.com^
 ||dns.lsho.top^
@@ -4305,7 +4304,6 @@
 ||dns.lululu.dev^
 ||dns.luma-medien.com^
 ||webproxy.lumiproxy.com^
-||johnfrost.lumiwow.su^
 ||bt.luoo.cc^
 ||dns.lupine.solutions^
 ||home.luther.io^
@@ -4347,10 +4345,7 @@
 ||tripham.marieblazek.com^
 ||music.recap.markisfullofshit.com^
 ||welweklrj.opwerop.markjlyon.com^
-||imagine-learning.marqenhotels.com^
 ||lumi.marqenhotels.com^
-||rizzmas2025.marqenhotels.com^
-||sleep-studies.marqenhotels.com^
 ||ag.marschi.de^
 ||dns.marschi.de^
 ||dt.marss.vip^
@@ -4406,9 +4401,6 @@
 ||httpdnsvip.meituan.com^
 ||dns.melvin2204.nl^
 ||recap.utopia.menorahscrazyblog.com^
-||domer.merniekszm.lv^
-||eeffoc.merniekszm.lv^
-||sixone.merniekszm.lv^
 ||testaghome.meshkov.info^
 ||dns.mestdag.fr^
 ||learn.logic.metaure.com^
@@ -4430,7 +4422,6 @@
 ||dns.mihalcea.eu^
 ||agh.mihanentalpo.me^
 ||dns.mihanentalpo.me^
-||www.google.com.mikata.ru^
 ||dns.mikeliu.org^
 ||dns.mikopono.nl^
 ||rwkdwpwsyv48.mikopono.nl^
@@ -4443,7 +4434,6 @@
 ||fern.mine.bz^
 ||jalenhurtsformvp.minecraftr.us^
 ||harvardsigmasonly.minetest.land^
-||aitkcrev.minhduc.pw^
 ||api.miningbest.com^
 ||dns.mipauns.com^
 ||guard.miracloud.fr^
@@ -12345,7 +12335,6 @@
 ||looseforbid.com^
 ||lopana.com^
 ||lor-vino.ru^
-||lord-justice.lol^
 ||lordsalty.com^
 ||lorvino.ru^
 ||lostwi.cn^
@@ -12411,7 +12400,6 @@
 ||mainssh.com^
 ||maintainbrain.us^
 ||malanser.ru^
-||malelolula.store^
 ||maleyu.org^
 ||mallocapp.com^
 ||mallocprivacy.com^
@@ -12426,7 +12414,6 @@
 ||mapspublications.us^
 ||maqgie.xyz^
 ||maradns.org^
-||marjifx.club^
 ||marko1oko.online^
 ||marnovx.xyz^
 ||marslink.cc^
@@ -12460,7 +12447,6 @@
 ||mathwonders.xyz^
 ||matorian.pro^
 ||matrixvpn.net^
-||maureenesther.website^
 ||mavrex.ru^
 ||maxfong.cc^
 ||maxiro.ru^
@@ -12562,7 +12548,6 @@
 ||miscrosoft365.cloud^
 ||miseryrecord.com^
 ||missionjesus.net^
-||mistasinresolver.ru^
 ||mixing.run^
 ||mixturestab.com^
 ||mizban-r.site^

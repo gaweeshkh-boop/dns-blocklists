@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 09:57 UTC
-# Version: 2026.0706.0957.12
+# Last modified: 06 Jul 2026 18:15 UTC
+# Version: 2026.0706.1815.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9981
+# Number of entries: 9980
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -4407,6 +4407,7 @@
 *.jnshort.com
 *.jo.my
 *.jobscity24.com
+*.jobsvb.in
 *.jog690.org
 *.join-id.info
 *.joiner.co
@@ -5374,7 +5375,6 @@
 *.magaus.net
 *.magaus.org
 *.magaus.xyz
-*.magicwlinks.com
 *.magnet-mind.com
 *.mah.to
 *.maha77.site
@@ -5421,7 +5421,6 @@
 *.matchurl.com
 *.matei.org
 *.mathmayr.com
-*.matmacakiem222.makeup
 *.mattes.live
 *.mattlamadvisory.org
 *.mattos.design
@@ -5563,7 +5562,6 @@
 *.millerreception.com
 *.mimsee2020.com
 *.min.bz
-*.minecraftparodileri.com
 *.mineurl.top
 *.minfier.com
 *.mini-url.in
@@ -9642,6 +9640,7 @@
 *.xdomain.io
 *.xdu.me
 *.xdxd.org
+*.xem.li
 *.xemoday.com
 *.xemthem.link
 *.xenvn.com

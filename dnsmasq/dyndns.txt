@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 14:41 UTC
-# Version: 2026.0622.1441.15
+# Last modified: 06 Jul 2026 14:48 UTC
+# Version: 2026.0706.1448.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1518
+# Number of entries: 1517
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -935,7 +935,6 @@ local=/lospenitentes.com/
 local=/lostgumball.com/
 local=/lovethosetrains.com/
 local=/lozan.com/
-local=/luckyweaving.com/
 local=/macrofox.org/
 local=/madhacker.biz/
 local=/mao.fi/

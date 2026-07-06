@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 09:52 UTC
-# Version: 2026.0706.0952.44
+# Last modified: 06 Jul 2026 18:11 UTC
+# Version: 2026.0706.1811.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 56082
+# Number of entries: 55944
 #
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
@@ -2097,7 +2097,6 @@ nrxqoe.lovedatinglive.net
 grqvgz.loveeconnect.net
 kerwwg.loveeconnect.com
 xbexev.loveeconnection.com
-love.loveedatilng.com
 aoaavz.loveematches.com
 bgwmxx.loveematches.com
 dgwwoj.loveematches.com
@@ -2107,18 +2106,6 @@ weglen.loveinboxx.net
 mwdkze.loveiswe.net
 mrvraz.lovellydatte.com
 qbzjw.lovelymeetings.com
-pvgzw.loveonliine.com
-ydago.loveonliine.net
-yqkxb.loveonliine.com
-bmwmn.loveonlline.com
-davvj.loveonlline.net
-mwlwql.loveonlline.com
-nbjnz.loveonlline.com
-nrjbow.loveonlline.com
-qqovm.loveonlline.com
-wadoax.loveonlline.net
-zozagl.loveonlline.com
-www.nxmnq.loveonllne.net
 vnwxkk.lovixy.com
 lot.luck-fortune.com
 xm.luckengiants.com
@@ -2127,7 +2114,6 @@ rnwozv.luckylfee.com
 rnwwlk.luckylfee.com
 wanmow.luckylfee.com
 xbqdmn.luckylfee.com
-aoaroa.luckysideup.com
 kekoxe.luckytiiming.com
 zccs.k.luhongfu.com
 rnwkwr.lukcytime.com
@@ -2147,8 +2133,6 @@ mz.mafiadarnix.com
 miracle.magic-connect.net
 elmbzm.magicgirlhere.net
 zovkox.magiconneccts.com
-elrrqn.magicprizze.com
-zozdze.magiicpicks.com
 qrlvn.magiprize.com
 vnwxkk.magnificentdates.net
 ql.maipurecharta.com
@@ -2160,14 +2144,10 @@ zw.malduckcompile.com
 xp.maltheoverly.com
 mg.mammeajilters.com
 jw.manatusinglut.com
-br.mandantluhinga.world
-cj.mandaragouty.life
 gu.mandsspartan.com
-ng.manedbenchy.cyou
 js.manga1000.top
 mt.manitusbaclava.com
 ov.maniutyrone.com
-hp.mapachfeminin.click
 zw.marcidknaves.com
 log.sszg.markgame.com
 rf.marrergaliot.top
@@ -2183,10 +2163,8 @@ vnwxkk.matchinlovee.com
 llozqb.matchllfe.net
 ogzdxl.matchloviing.com
 qgealrijjeleazg.matchloving.net
-lp.matchtobies.com
 fw.matteryshou.com
 goas.mature.nl
-ee.matzohsassith.life
 eq.maximinkainite.com
 i3.mayoblast.com
 plotp.mazamob.space
@@ -2195,49 +2173,23 @@ m.mb2vas.click
 bbs.mc6789.com
 cdn.mcnn.pl
 torr.mediaget.com
-wo.mediansdoer.com
 getkmspico.medium.com
 kmspico-official.medium.com
-vnwxkk.meetgirlfor.net
 bggrjw.meetnlive.net
 gmkxq.meetnlive.net
 nrjbow.meetnlive.net
 xodrev.meetnoow.com
-wewnmm.meetonlive.com
-bevdgb.meetonwebb.com
-ddjage.meetonwebb.com
-enkxrj.meetonwebb.com
-gmxog.meetonwebb.com
-gxqkwg.meetonwebb.com
-kervqb.meetonwebb.com
-kgbrxd.meetonwebb.com
-kglwea.meetonwebb.com
-llvzmk.meetonwebb.com
-mrvraz.meetonwebb.com
-rgkxee.meetonwebb.com
-rvzqo.meetonwebb.com
-vekjd.meetonwebb.com
-wadxed.meetonwebb.com
-xbareo.meetonwebb.com
 cms.meettoday.net
 nrjbow.meettoday.net
-i.meetu.best
 nkkwr.meeturlove.com
 store.megads.store
 wc.meharitames.com
-www.rnwmoo.meheartlove.com
 ur.mekongkerchoo.com
 ndhbvx.menghuionline.com
-elozmm.meonlylove.com
-elvrgr.meonlylove.com
-lllvaw.meonlylove.com
-qgjnvl.meonlylove.com
-rnmvqq.meonlylove.com
 ir.meriahbansela.com
 nz.meseledgyrinus.com
 msg.metamessen.net
 ea.metasyaxche.com
-kewdjb.metgirlforyou.com
 xbwelj.meticulousdate.net
 enwvwx.metlcuiousdate.net
 gll.metricaga.com
@@ -2260,22 +2212,6 @@ mf.minkscatjang.com
 amazing.mirage-road.com
 fk.mirakdunes.com
 ph.mirvsstoper.shop
-aomzlj.miss4man.com
-dgjaln.miss4man.com
-dgkzdn.miss4man.com
-gradeb.miss4man.com
-llmnaj.miss4man.com
-llvxmg.miss4man.com
-mwjzlk.miss4man.com
-mwoobe.miss4man.com
-qgderd.miss4man.com
-rqmdq.miss4man.com
-vnrbeo.miss4man.com
-vnxdmj.miss4man.com
-waezra.miss4man.com
-xbgdkw.miss4man.com
-xbleow.miss4man.com
-xbqxgq.miss4man.com
 jneong.missyoudate.com
 qh.misweenownself.com
 brs.miteau.com
@@ -19347,6 +19283,7 @@ deepnewsjuly.com
 deeppquiz.ru
 deeprootedstranded.com
 deepsathegoh.com
+deepseek.app
 deerastron.xyz
 deerbeginner.com
 deereefade.xyz
@@ -19520,6 +19457,7 @@ demoadv.com
 democraticexit.com
 democratmachinesucceed.com
 democratplayful.com
+demodeglali.qpon
 demolishabolish.com
 demolishforbidhonorable.com
 demolishwaffleslegend.com
@@ -27776,7 +27714,6 @@ holidaysverbcloseness.com
 holisticmarriage.biz
 holjmynbrubve.online
 hollerbudge.com
-hollow-mess.com
 hollow-special.pro
 hollowbeautymalt.com
 hollowcombination.pro
@@ -32393,7 +32330,6 @@ lfxgbzxkfqhiy.space
 lfygfjsfv.com
 lfzibowrxoftr.online
 lgaafmqfwrdm.com
-lgdstolfuinmi.world
 lgepbups.xyz
 lghgxaudrourv.com
 lghjjjwnxrpjq.space
@@ -33021,7 +32957,6 @@ loobochoun.com
 loobyfleyed.com
 loocor.com
 loodauni.com
-loofahsinchain.top
 looglakaimoo.net
 loohaiturigavik.net
 loohiwez.net
@@ -33040,7 +32975,6 @@ looksmart.com
 looktotheright.com
 loopaautomate.com
 loopassume.com
-loopingnylghau.qpon
 loopme.me
 loopvehiclehour.com
 loopykorean.com
@@ -33081,7 +33015,6 @@ lostinfuture.com
 lostons.com
 lostpunch.pro
 lotadversaryvolatile.com
-lotapertish.top
 loteria77.com
 loto-4x.com
 loto-lab0.com
@@ -33120,7 +33053,6 @@ lov-hoot.life
 lovable-page.pro
 lovable-scale.com
 lovable-secretary.pro
-lovable-suspect.pro
 lovableerror.com
 lovablephilosophy.pro
 lovableprofile.com
@@ -33137,8 +33069,6 @@ love2-mail.com
 love2datee.com
 love4man.com
 love7date.info
-loveafalrs.net
-loveaffalrs.net
 loveaflairs.com
 loveaholics.com
 lovecatcher2025.com
@@ -33147,13 +33077,10 @@ lovedatee.com
 lovedatinglive.com
 lovedatllng.com
 lovee-idol.tokyo
-loveeforus.net
 loveentra.com
 loveeurdate.com
 loveflirt-haven.com
-loveforboy.com
 loveforuss.com
-loveforuss.net
 loveinaiir.net
 loveindate.com
 loveindatee.com
@@ -33170,7 +33097,6 @@ lovelydattes.net
 lovelydrum.com
 lovelyinduced.com
 lovelylinkss.com
-lovemelo.jp
 lovemelo.net
 lovenyai.xyz
 loveonpurpose.com
@@ -33232,7 +33158,6 @@ loydleste.com
 loyxjgtmbgirkn.net
 lozengeplea.com
 lozna.xyz
-lozrgsaa.icu
 lp-preview.net
 lp247p.com
 lparket.com
@@ -33258,7 +33183,6 @@ lq0nvu70e.com
 lqbvjmkoozmry.top
 lqcdn.com
 lqclick.com
-lqdafcgrlaaby.xyz
 lqeexamqje.com
 lqepkvudjwgwn.space
 lqfiznzqv.com
@@ -33275,7 +33199,6 @@ lr-in.com
 lr7ndsloie9cnfhqco14lfbjheestrqino2natoe.com
 lraline.com
 lrcaxaztripcv.online
-lrecfjekpxcgq.today
 lreojktedisfu.store
 lrhffbdwkplxf.website
 lrhtnrwv.com
@@ -33285,12 +33208,10 @@ lrmasmheotivr.com
 lrtfiyldgsawj.website
 lrucqhpa.com
 lrvtffyxhmz.com
-lrxzfherqqllp.site
 lryocmakbqri.com
 lrziloubgdcfe.online
 lsbbtclkiwrdx.online
 lsefpqchaizsv.site
-lshqoeik.icu
 lsiszlerwgure.store
 lsjne.com
 lsjuhz.icu
@@ -33337,7 +33258,6 @@ lucky-bet.site
 lucky-garden.net
 lucky-letter.com
 lucky-star8.com
-lucky-website.com
 lucky368slot.com
 lucky75.com
 luckyads.pro
@@ -33355,8 +33275,6 @@ lucrinearraign.com
 lucysuffice.com
 lucythreatendie.com
 luddismwebworn.life
-luddyvisayan.shop
-ludicrousavalancheherald.com
 ludmilastavro.com
 ludpvyyfohlgi.space
 lueidpjfqi.com
@@ -33369,7 +33287,6 @@ luggagesynchronize.com
 lugirsbhpifnl.store
 luhbnpeabgeqf.online
 luhoacmokoah.net
-luhoysvkxsewc.xyz
 luhzoywwssycd.online
 luilpicjbdsmhip.com
 luivcgmx.net
@@ -33378,7 +33295,6 @@ luizsycwgzmkg.website
 lukdqoytktvxf.com
 lukrqrzkmiwst.online
 lulkckpzirebi.space
-lullabybeneath.com
 lullprivacyheater.com
 luloffer.com
 lumaktoys.com
@@ -33437,7 +33353,6 @@ lustslate.com
 lustydates0725.click
 lustygg.com
 lutewayredug.shop
-lutingsmotty.qpon
 lutoorgourgi.com
 luuce.jp
 luuming.com
@@ -33527,7 +33442,6 @@ lxpwbzxrjazpo.com
 lxrsappgom.com
 lxstat.com
 lxt55094.com
-lxylxwxvhffvm.vip
 lyaoayetktu.com
 lybhycup.icu
 lycheenews.com
@@ -33537,7 +33451,6 @@ lycuhejheahrr.store
 lycykqrnprxjc.site
 lydidqrpbqaia.com
 lydkuzntnhxim.website
-lydrum.click
 lyeburjvjfc.com
 lyedpdomdgykd.site
 lyeempccaxuwq.site
@@ -33546,13 +33459,11 @@ lyexrcudpidrv.store
 lyfjnkpupaxixm.com
 lyftcapitalfloridahq.com
 lygwsxh.com
-lyhtajmyglh.xyz
 lylahhill.biz
 lylfxnnmp.com
 lylowerhughe.com
 lylufhuxqwi.com
 lymckensecuryren.org
-lymphyhearer.shop
 lyonthrill.com
 lypslljhdhveu.website
 lyricsdna.com
@@ -33579,7 +33490,6 @@ lzdj.com
 lzdprscnrpfyyx.com
 lzifgkyv.com
 lzjl.com
-lzlblwcp.icu
 lzlmmskqribu.com
 lzmcyodoqgmrd.com
 lzolanahk.com
@@ -33697,7 +33607,6 @@ maghoutwell.com
 magicads.nl
 magicallyitalian.com
 magicallyspecification.com
-magicforestlane.com
 magicianboundary.com
 magicianmost.com
 magicianoptimisticbeard.com
@@ -33705,7 +33614,6 @@ magicislandwalk.com
 magicmountainview.com
 magicslimnhatban.com
 magicsoninlaw.com
-magicvalleygrove.com
 magisk.me
 magiskapp.com
 magiskmodule.com
@@ -33820,7 +33728,6 @@ malignantyowlbravery.com
 malikiresids.com
 malletaskewbrittle.com
 malmaison-london.com
-malmierregroup.life
 maltcontaining.com
 malthahooye.com
 malwaaliquot.com
@@ -33830,7 +33737,6 @@ mamak.jp
 mamamour.net
 mamasg.net
 mamathrive.org
-mameyschokier.top
 mammaedmundtabloid.com
 mammalbow.com
 mammalhazelportion.com
@@ -33853,7 +33759,6 @@ manclodwounded.com
 manconsider.com
 mandateowl.com
 mandatorypainter.com
-mandilblitzed.top
 mangbaiz.xyz
 mangensaud.net
 mangerolympicssnort.com
@@ -33913,7 +33818,6 @@ maphatinso.net
 mapslob.com
 maquiags.com
 marapcana.online
-marasgumpus.com
 marathonpleadparachute.com
 marathonseaside.com
 maraywreath.com
@@ -33924,7 +33828,6 @@ marciaarmata.com
 marconesettlement.com
 marcopolotyres.com
 maredpt.com
-margaretnerves.com
 margaritawanderingelusive.com
 marghot.com
 margiebackage.shop
@@ -33934,15 +33837,12 @@ mariabonillamartinez.com
 mariage-inc.com
 mariahansell.com
 mariahcarey.cn
-marillavier.digital
 marimedia.com
 marinadelifestyle.com
 marinadeworriesdurable.com
 marinagazette.com
 marineingredientinevitably.com
 marinerattest.com
-marinershemu.top
-mariolafloorer.shop
 marion-solutions.info
 marion-solutions.xyz
 maritaltrousersidle.com
@@ -33977,7 +33877,6 @@ marriagereseptivereseptive.com
 married-courage.com
 marriedtelephone.pro
 marriedvalue.com
-marriespluton.shop
 marrvelousgirl.com
 marsads.com
 marshalcurve.com
@@ -34078,7 +33977,6 @@ mattchplace.net
 mattersdeviceconsignment.com
 matterssharplyraw.com
 matthewelsom.com
-mattinstentigo.shop
 mattressafterwardsomeday.com
 mattressdinosaurcausing.com
 mattressthere.com
@@ -34106,7 +34004,6 @@ mavencosshen.com
 maverickstudio.com
 mavq.net
 mawhyzaxo.com
-mawingcossie.digital
 mawlaybob.com
 mawnuzvkin.com
 mawptuaz.com
@@ -34132,15 +34029,12 @@ maxudijuz.com
 maxvaluead.com
 maxybitcoin.org
 maya15.site
-mayads.store
 maybejanuarycosmetics.com
 maydaciting.com
 mayhemabjure.com
 mayhemmarginsold.com
-maylikegaron.help
 maynenkhi.asia
 mayorcabbagedemolish.com
-mayorsverbify.top
 mayportfolioshrine.com
 mayriches.com
 maysauceminister.com
@@ -34150,7 +34044,6 @@ mayxanhsupport.com
 mazdcyzudst.com
 mazecroy.blog
 mazefoam.com
-mazefulpothers.top
 mazrwvacfmpdq.space
 mb-npltfpro.com
 mb01.com
@@ -34221,7 +34114,6 @@ mct-niger.com
 mcurrentlysea.info
 mcxpcaxf.com
 mcxuorwlaqtyd.site
-mcyaabdssxdlg.space
 mczbf.com
 mczps.com
 mdckwfdl.com
@@ -34251,7 +34143,6 @@ me08mo.com
 me4track.com
 me88good.com
 me88social1.com
-meadowstreamlight.com
 meager-relief.pro
 meager-start.pro
 meagerblock.pro
@@ -34289,7 +34180,6 @@ mechanicalcardiac.com
 mechanicladenthereby.com
 mecootsoampe.com
 mecujducokfzp.space
-medakasppr.help
 medakasreglaze.com
 medalbashfulsunstroke.com
 medalopenairtedious.com
@@ -34392,7 +34282,6 @@ meetbenjen.com
 meetdatekiss.com
 meetflirtmatch.com
 meetgirlfor.com
-meetgirlforyou.com
 meetheage.com
 meetic-partners.com
 meeting-tencent.org
@@ -34409,7 +34298,6 @@ meetupplanet.com
 meeturlovee.com
 meetwebclub.com
 meetyouheree.com
-meetyuorllove.com
 meewireg.com
 mefkkezojxnzn.website
 megaad.nz
@@ -34442,11 +34330,9 @@ mejp.net
 mejxamor.xyz
 mekstolande.com
 melbournedistillery.com
-melkilleen.click
 mellodur.net
 mellow-expert.pro
 mellowpattern.pro
-mellowwavehill.com
 meloads.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -34466,7 +34352,6 @@ mementoinvest.com
 memesoupedyea.com
 memia.xyz
 memjhgpfq.com
-memoireassize.shop
 memopilot.com
 memorablehang.com
 memorizeneck.com
@@ -34502,7 +34387,6 @@ mentionideablit.com
 mentorremark.com
 meo257na3rch.com
 meofmukindwoul.info
-meoneintheworl.com
 meowadvertising.com
 meowthon.com
 mepasjmboxb.com
@@ -34516,7 +34400,6 @@ merelygreeksir.com
 mergebuffalo.com
 mergedlava.com
 merig.xyz
-merilorate.top
 merkezibesleme.com
 merlin1.net
 merrjep.online
@@ -34531,7 +34414,6 @@ merzqdnhuli.com
 mes-meilleurs-films.fr
 mesmerizeexempt.com
 mesodepointed.com
-mesquincochon.cyou
 mesqwrte.net
 messageaboderunner.com
 messagereceiver.com
@@ -34580,17 +34462,14 @@ metrisesikhs.com
 metroatlantapublicadjuster.com
 mettend-hamous.xyz
 metzia.com
-meucashback.store
 meultomhbkptq.store
 mevodvqmjix.com
 mewgzllnsp.com
 mexicocatamarans.com
-mexicodrink.shop
 mexoacmaidu.com
 mezcalumlaut.com
 mezwcddi.com
 mfadsrvr.com
-mfbvgcjkqpxup.xyz
 mfcewkrob.com
 mfcvcnmj.com
 mfcxgvwatbrjo.com
@@ -34653,14 +34532,12 @@ mhydndfvgzvwu.site
 mhyxciahfas.com
 mi-natoa.org
 mi82ltk3veb7.com
-miaeneolith.shop
 mialifestyle.com
 mianfenjixie.cn
 miaomiao365.com
 miaromance.com
 miaunshorn.com
 miayarus.com
-mibamebrnupqk.vip
 micaesoft.com
 miceelectricitysubdued.com
 michaelaguiar.dev
@@ -34687,10 +34564,8 @@ middensunrra.com
 midgerelativelyhoax.com
 midgetbreakfast.com
 midgetgravelshorthand.com
-midgetsrassles.life
 midlandcultivatecoherence.com
 midlanddisorganizeddivide.com
-midnightbashslightly.com
 midnighteaparty.com
 midnighthookup.today
 midnightlotusgrove.com
@@ -34732,7 +34607,6 @@ mihnea.sexy
 mihnea.zone
 mihneagrigore.com
 mihuvex.com
-miigbxonhjgnr.top
 mikebevel.com
 mikkvmklsfzwv.store
 mikoghoast.net
@@ -34771,7 +34645,6 @@ millerminds.com
 milletappliancejeopardize.com
 milletimmersed.com
 millettomato.com
-milliersubroot.qpon
 million-vita128.com
 millionaireconscientious.com
 millionexclusively.com
@@ -34823,16 +34696,13 @@ ministrycosmeticrigour.com
 ministryensuetribute.com
 minkfrequent.com
 minningsutu.com
-minorarequit.click
 minorcattle.com
 minotaur107.com
 mintaza.xyz
-minterhazes.com
 mintiia.com
 mintvipa.top
 minube.click
 minusbillion.com
-minyasfockle.shop
 mio1898.com
 miorokkyhdjna.store
 miqaqbpu.com
@@ -34854,11 +34724,9 @@ mirusiru.online
 misaglam.com
 misav.sbs
 miscalculateastound.com
-miscalmanx.click
 miscellaneousfloraprosecutor.com
 miscemassed.com
 mischacrossing.com
-miscutbiomes.shop
 miscworkshops.com
 miserable-anywhere.com
 miserable-disaster.pro
@@ -34871,15 +34739,12 @@ miserly-phone.com
 miserly-physics.pro
 miserly-wrap.com
 miserlycabinet.com
-misfortunesharply.com
 misguided-assistant.com
 misguidedclotpensioner.com
 misguidedfix.pro
 misguidedgrass.pro
 mishapinnocent.com
-mishapsfetting.digital
 misharyvddt.com
-mishutka52.ru
 misjudgebuoyeye.com
 misjudgedistilentice.com
 misleadgifted.com
@@ -34900,21 +34765,17 @@ mistakenarithmeticadjacent.com
 mistakevelvet.com
 misterindo.net
 mistermgermens.shop
-mistlefiggery.shop
 mistletoeframesethel.com
 mistletoeivory.com
-mistletoejobless.com
 mistrave.com
 mistresscoat.com
 misty-discussion.com
-misty-eyed.boats
 mistydeposit.pro
 mistysteel.co
 mistytear.pro
 misunderstandprodigalnovember.com
 misunderstandrough.com
 misuraunnail.com
-misuseartsy.com
 misweenpaegle.space
 mitblcskeqhxr.site
 mitchgermain.com
@@ -42375,6 +42236,7 @@ quipuspa.shop
 quirky-answer.pro
 quirky-international.com
 quirky-seat.com
+quirkycamera.pro
 quiscdvothbdc.com
 quitefullofeedshe.com
 quitelliot.com

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783324620 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783365540 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 07:57 UTC
-; Version: 2026.0706.0757.57
+; Last modified: 06 Jul 2026 19:19 UTC
+; Version: 2026.0706.1919.09
 ; Syntax: RPZ
-; Number of entries: 6834
+; Number of entries: 6828
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -5515,8 +5515,6 @@ doh.meetz.pw CNAME .
 *.doh.meetz.pw CNAME .
 redsea.meetz.pw CNAME .
 *.redsea.meetz.pw CNAME .
-aitkcrev.minhduc.pw CNAME .
-*.aitkcrev.minhduc.pw CNAME .
 ttag.dns.nomu.pw CNAME .
 *.ttag.dns.nomu.pw CNAME .
 las-vegas.privacy-dns.pw CNAME .
@@ -5747,8 +5745,6 @@ landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .
 *.malanser.ru CNAME .
-mistasinresolver.ru CNAME .
-*.mistasinresolver.ru CNAME .
 dns.msxnet.ru CNAME .
 *.dns.msxnet.ru CNAME .
 muxyuji.ru CNAME .
@@ -5989,8 +5985,6 @@ crypto2049.store CNAME .
 *.crypto2049.store CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
-malelolula.store CNAME .
-*.malelolula.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
 node9.servernode.store CNAME .

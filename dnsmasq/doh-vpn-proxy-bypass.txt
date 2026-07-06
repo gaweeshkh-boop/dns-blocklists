@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 11:11 UTC
-# Version: 2026.0706.1111.03
+# Last modified: 06 Jul 2026 19:19 UTC
+# Version: 2026.0706.1919.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16878
+# Number of entries: 16863
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -4291,7 +4291,6 @@ local=/iwillnot.loseyourip.com/
 local=/sainttech.lotossutra.at/
 local=/ddd.loukky.com/
 local=/www-proxy.lovekeli.uk/
-local=/fern.lovethosetrains.com/
 local=/relay.lsaccess.cf/
 local=/n5.lsasss.com/
 local=/dns.lsho.top/
@@ -4304,7 +4303,6 @@ local=/doh.lujiacai.top/
 local=/dns.lululu.dev/
 local=/dns.luma-medien.com/
 local=/webproxy.lumiproxy.com/
-local=/johnfrost.lumiwow.su/
 local=/bt.luoo.cc/
 local=/dns.lupine.solutions/
 local=/home.luther.io/
@@ -4346,10 +4344,7 @@ local=/er.marieblazek.com/
 local=/tripham.marieblazek.com/
 local=/music.recap.markisfullofshit.com/
 local=/welweklrj.opwerop.markjlyon.com/
-local=/imagine-learning.marqenhotels.com/
 local=/lumi.marqenhotels.com/
-local=/rizzmas2025.marqenhotels.com/
-local=/sleep-studies.marqenhotels.com/
 local=/ag.marschi.de/
 local=/dns.marschi.de/
 local=/dt.marss.vip/
@@ -4405,9 +4400,6 @@ local=/httpdnsmultiapivip.meituan.com/
 local=/httpdnsvip.meituan.com/
 local=/dns.melvin2204.nl/
 local=/recap.utopia.menorahscrazyblog.com/
-local=/domer.merniekszm.lv/
-local=/eeffoc.merniekszm.lv/
-local=/sixone.merniekszm.lv/
 local=/testaghome.meshkov.info/
 local=/dns.mestdag.fr/
 local=/learn.logic.metaure.com/
@@ -4429,7 +4421,6 @@ local=/spoap.miguelcarrasco.net/
 local=/dns.mihalcea.eu/
 local=/agh.mihanentalpo.me/
 local=/dns.mihanentalpo.me/
-local=/www.google.com.mikata.ru/
 local=/dns.mikeliu.org/
 local=/dns.mikopono.nl/
 local=/rwkdwpwsyv48.mikopono.nl/
@@ -4442,7 +4433,6 @@ local=/craftmaine.mine.bz/
 local=/fern.mine.bz/
 local=/jalenhurtsformvp.minecraftr.us/
 local=/harvardsigmasonly.minetest.land/
-local=/aitkcrev.minhduc.pw/
 local=/api.miningbest.com/
 local=/dns.mipauns.com/
 local=/guard.miracloud.fr/
@@ -12344,7 +12334,6 @@ local=/looquae8.xyz/
 local=/looseforbid.com/
 local=/lopana.com/
 local=/lor-vino.ru/
-local=/lord-justice.lol/
 local=/lordsalty.com/
 local=/lorvino.ru/
 local=/lostwi.cn/
@@ -12410,7 +12399,6 @@ local=/mainlandvpnapp.com/
 local=/mainssh.com/
 local=/maintainbrain.us/
 local=/malanser.ru/
-local=/malelolula.store/
 local=/maleyu.org/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
@@ -12425,7 +12413,6 @@ local=/mansujichang.com/
 local=/mapspublications.us/
 local=/maqgie.xyz/
 local=/maradns.org/
-local=/marjifx.club/
 local=/marko1oko.online/
 local=/marnovx.xyz/
 local=/marslink.cc/
@@ -12459,7 +12446,6 @@ local=/mathrules.dev/
 local=/mathwonders.xyz/
 local=/matorian.pro/
 local=/matrixvpn.net/
-local=/maureenesther.website/
 local=/mavrex.ru/
 local=/maxfong.cc/
 local=/maxiro.ru/
@@ -12561,7 +12547,6 @@ local=/miscrosoft.store/
 local=/miscrosoft365.cloud/
 local=/miseryrecord.com/
 local=/missionjesus.net/
-local=/mistasinresolver.ru/
 local=/mixing.run/
 local=/mixturestab.com/
 local=/mizban-r.site/

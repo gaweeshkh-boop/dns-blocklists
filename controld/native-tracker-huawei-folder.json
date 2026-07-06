@@ -43,6 +43,13 @@
       }
     },
     {
+      "PK": "ads-dre.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-drru.cloud.huawei.ru",
       "action": {
         "do": 0,
