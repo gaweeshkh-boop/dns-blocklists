@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783320840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783331700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 06:54 UTC
-; Version: 2026.0706.0654.33
+; Last modified: 06 Jul 2026 09:55 UTC
+; Version: 2026.0706.0955.10
 ; Syntax: RPZ
-; Number of entries: 33468
+; Number of entries: 33456
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -11400,8 +11400,6 @@ linenhomestudio.com CNAME .
 *.linenhomestudio.com CNAME .
 linenmia.com CNAME .
 *.linenmia.com CNAME .
-linens-chic.com CNAME .
-*.linens-chic.com CNAME .
 linkglobalcargo.com CNAME .
 *.linkglobalcargo.com CNAME .
 linknook.com CNAME .
@@ -31812,8 +31810,6 @@ lilymix.shop CNAME .
 *.lilymix.shop CNAME .
 limondo.shop CNAME .
 *.limondo.shop CNAME .
-linhygdt.shop CNAME .
-*.linhygdt.shop CNAME .
 linji.shop CNAME .
 *.linji.shop CNAME .
 liona.shop CNAME .
@@ -31822,22 +31818,14 @@ lipas.shop CNAME .
 *.lipas.shop CNAME .
 lisft.shop CNAME .
 *.lisft.shop CNAME .
-lisjo.shop CNAME .
-*.lisjo.shop CNAME .
 liverpoolfestivalgardens.shop CNAME .
 *.liverpoolfestivalgardens.shop CNAME .
 liverpoolgear.shop CNAME .
 *.liverpoolgear.shop CNAME .
-liverpoolmex.shop CNAME .
-*.liverpoolmex.shop CNAME .
-lloen.shop CNAME .
-*.lloen.shop CNAME .
 lloydspharmacystore.shop CNAME .
 *.lloydspharmacystore.shop CNAME .
 lmsffr.shop CNAME .
 *.lmsffr.shop CNAME .
-lmvae.shop CNAME .
-*.lmvae.shop CNAME .
 logitechoutlet-eu.shop CNAME .
 *.logitechoutlet-eu.shop CNAME .
 loporty.shop CNAME .

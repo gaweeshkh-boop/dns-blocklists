@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783324260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783335780 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 07:51 UTC
-; Version: 2026.0706.0751.53
+; Last modified: 06 Jul 2026 11:03 UTC
+; Version: 2026.0706.1103.52
 ; Syntax: RPZ
-; Number of entries: 64656
+; Number of entries: 64650
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -9670,8 +9670,6 @@ livesxtv.com CNAME .
 *.livesxtv.com CNAME .
 livetorrents.com CNAME .
 *.livetorrents.com CNAME .
-livetv-en.com CNAME .
-*.livetv-en.com CNAME .
 livingtorrents.com CNAME .
 *.livingtorrents.com CNAME .
 lizaonlinebd.com CNAME .
@@ -9686,8 +9684,6 @@ loffe414wil.com CNAME .
 *.loffe414wil.com CNAME .
 logansmovies.com CNAME .
 *.logansmovies.com CNAME .
-lojawarez.com CNAME .
-*.lojawarez.com CNAME .
 mw.lonelil.com CNAME .
 *.mw.lonelil.com CNAME .
 watch.lonelil.com CNAME .
@@ -40644,8 +40640,6 @@ extraflix.one CNAME .
 *.extraflix.one CNAME .
 film-pertutti.one CNAME .
 *.film-pertutti.one CNAME .
-filmoflix.one CNAME .
-*.filmoflix.one CNAME .
 filmpalast.one CNAME .
 *.filmpalast.one CNAME .
 filmsenzalimite.one CNAME .

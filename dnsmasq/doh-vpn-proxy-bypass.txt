@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 07:58 UTC
-# Version: 2026.0706.0758.48
+# Last modified: 06 Jul 2026 11:11 UTC
+# Version: 2026.0706.1111.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16882
+# Number of entries: 16878
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -4267,13 +4267,9 @@ local=/blade.lixd.club/
 local=/dns.lmir.info/
 local=/10.ln7371.top/
 local=/xm.ln7371.top/
-local=/www.itrsa.env.lntxbox.com/
 local=/dns.lobbygod.com/
-local=/lunaralgebra.localization.ee/
 local=/playernation.localization.ee/
 local=/playernationorg.localization.ee/
-local=/shadow.localization.ee/
-local=/sixsveen2927e8iddj.localization.ee/
 local=/history.lodgegomantak.org/
 local=/flat.loisy.it/
 local=/nas-fusion.loisy.it/
@@ -5960,6 +5956,7 @@ local=/us-browse.startpage.com/
 local=/us-proxy.startpage.com/
 local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/
+local=/us3-browse.startpage.com/
 local=/dns.startupstack.tech/
 local=/idea.graph.statboss.com/
 local=/adguard.stealbit.com/
@@ -12282,7 +12279,6 @@ local=/linbei.net/
 local=/lindsay.run/
 local=/linghun999.com/
 local=/link-vpn.mom/
-local=/linkideo.com/
 local=/linkmefree.net/
 local=/linkmetube.com/
 local=/linquarivo.xyz/

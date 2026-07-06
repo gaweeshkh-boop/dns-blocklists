@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783320720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783331520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 06:52 UTC
-; Version: 2026.0706.0652.22
+; Last modified: 06 Jul 2026 09:52 UTC
+; Version: 2026.0706.0952.44
 ; Syntax: RPZ
-; Number of entries: 112218
+; Number of entries: 112164
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -678,8 +678,6 @@ forwardrb.bid CNAME .
 *.forwardrb.bid CNAME .
 htl.bid CNAME .
 *.htl.bid CNAME .
-lin01.bid CNAME .
-*.lin01.bid CNAME .
 newrotatormarch23.bid CNAME .
 *.newrotatormarch23.bid CNAME .
 newrrb.bid CNAME .
@@ -1566,10 +1564,6 @@ host72x.cfd CNAME .
 *.host72x.cfd CNAME .
 hostk.cfd CNAME .
 *.hostk.cfd CNAME .
-limpsaka.cfd CNAME .
-*.limpsaka.cfd CNAME .
-loharsharked.cfd CNAME .
-*.loharsharked.cfd CNAME .
 mbbcdn.cfd CNAME .
 *.mbbcdn.cfd CNAME .
 nattytrouty.cfd CNAME .
@@ -1830,10 +1824,6 @@ kuites.click CNAME .
 *.kuites.click CNAME .
 lehmergambits.click CNAME .
 *.lehmergambits.click CNAME .
-bugfish.lindiesmocking.click CNAME .
-*.bugfish.lindiesmocking.click CNAME .
-lipoidsbleed.click CNAME .
-*.lipoidsbleed.click CNAME .
 lustydates0725.click CNAME .
 *.lustydates0725.click CNAME .
 lydrum.click CNAME .
@@ -2198,8 +2188,6 @@ ka73-urara.club CNAME .
 *.ka73-urara.club CNAME .
 lehemhavita.club CNAME .
 *.lehemhavita.club CNAME .
-lipwesfzuidbk.club CNAME .
-*.lipwesfzuidbk.club CNAME .
 mnqyjjbitxdvr.club CNAME .
 *.mnqyjjbitxdvr.club CNAME .
 movie-pass.club CNAME .
@@ -46776,8 +46764,6 @@ limitesrifer.com CNAME .
 *.limitesrifer.com CNAME .
 limitlessstare.com CNAME .
 *.limitlessstare.com CNAME .
-rp.limitoreluder.com CNAME .
-*.rp.limitoreluder.com CNAME .
 limnalpilosis.com CNAME .
 *.limnalpilosis.com CNAME .
 limp-attitude.com CNAME .
@@ -46786,8 +46772,6 @@ limp-exit.com CNAME .
 *.limp-exit.com CNAME .
 limpestpilosin.com CNAME .
 *.limpestpilosin.com CNAME .
-limping-gather.com CNAME .
-*.limping-gather.com CNAME .
 limpingpick.com CNAME .
 *.limpingpick.com CNAME .
 limpskin.com CNAME .
@@ -46892,8 +46876,6 @@ ri.lipperstoze.com CNAME .
 *.ri.lipperstoze.com CNAME .
 lipscould.com CNAME .
 *.lipscould.com CNAME .
-lipsfitfulhurricane.com CNAME .
-*.lipsfitfulhurricane.com CNAME .
 lipsgig.com CNAME .
 *.lipsgig.com CNAME .
 liquidabroad.com CNAME .
@@ -47006,8 +46988,6 @@ livecams.com CNAME .
 *.livecams.com CNAME .
 livechatinctest.com CNAME .
 *.livechatinctest.com CNAME .
-livedskateraisin.com CNAME .
-*.livedskateraisin.com CNAME .
 crmacd.livejasmin.com CNAME .
 *.crmacd.livejasmin.com CNAME .
 crmapt.livejasmin.com CNAME .
@@ -47040,8 +47020,6 @@ livesexbar.com CNAME .
 *.livesexbar.com CNAME .
 livesmarter.com CNAME .
 *.livesmarter.com CNAME .
-livespacelivekeyrealclub.com CNAME .
-*.livespacelivekeyrealclub.com CNAME .
 track.livesportnet.com CNAME .
 *.track.livesportnet.com CNAME .
 livestockabdicate.com CNAME .
@@ -47148,12 +47126,6 @@ lldrx.llovellydates.com CNAME .
 *.lldrx.llovellydates.com CNAME .
 vnwxkk.llovemeonline.com CNAME .
 *.vnwxkk.llovemeonline.com CNAME .
-lmqgr.lloveonline.com CNAME .
-*.lmqgr.lloveonline.com CNAME .
-lloveonlline.com CNAME .
-*.lloveonlline.com CNAME .
-comjakre.lloveonllne.com CNAME .
-*.comjakre.lloveonllne.com CNAME .
 lloversnok.com CNAME .
 *.lloversnok.com CNAME .
 llovesgreat.com CNAME .
@@ -47180,8 +47152,6 @@ llvpn.com CNAME .
 *.llvpn.com CNAME .
 llxbcprjfuc.com CNAME .
 *.llxbcprjfuc.com CNAME .
-llyighaboveth.com CNAME .
-*.llyighaboveth.com CNAME .
 lm832.com CNAME .
 *.lm832.com CNAME .
 lmacvanjv.com CNAME .
@@ -47388,8 +47358,6 @@ logvillage.com CNAME .
 *.logvillage.com CNAME .
 lohockdock.com CNAME .
 *.lohockdock.com CNAME .
-loinpriestinfected.com CNAME .
-*.loinpriestinfected.com CNAME .
 loinstaggerpamphlet.com CNAME .
 *.loinstaggerpamphlet.com CNAME .
 loivopem.com CNAME .
@@ -47398,14 +47366,8 @@ lojusypsa.com CNAME .
 *.lojusypsa.com CNAME .
 lojvicwu.com CNAME .
 *.lojvicwu.com CNAME .
-lokcdn.com CNAME .
-*.lokcdn.com CNAME .
-lokimaki.com CNAME .
-*.lokimaki.com CNAME .
 loktrk.com CNAME .
 *.loktrk.com CNAME .
-lolostan.com CNAME .
-*.lolostan.com CNAME .
 lolsefti.com CNAME .
 *.lolsefti.com CNAME .
 lolygag.com CNAME .
@@ -80662,8 +80624,6 @@ lhkpvpnnqcebn.fun CNAME .
 *.lhkpvpnnqcebn.fun CNAME .
 light678o.fun CNAME .
 *.light678o.fun CNAME .
-ljypfykcofguz.fun CNAME .
-*.ljypfykcofguz.fun CNAME .
 marketjavgg124.fun CNAME .
 *.marketjavgg124.fun CNAME .
 mybuzz.fun CNAME .
@@ -81114,8 +81074,6 @@ letubv.icu CNAME .
 *.letubv.icu CNAME .
 lihatt.icu CNAME .
 *.lihatt.icu CNAME .
-llbmoasj.icu CNAME .
-*.llbmoasj.icu CNAME .
 lmldxd.icu CNAME .
 *.lmldxd.icu CNAME .
 lmvwvyeo.icu CNAME .
@@ -83218,10 +83176,6 @@ krantzreal.life CNAME .
 *.krantzreal.life CNAME .
 leavealegacyof.life CNAME .
 *.leavealegacyof.life CNAME .
-lknvksrvlawsh.life CNAME .
-*.lknvksrvlawsh.life CNAME .
-lmepjztwwonxv.life CNAME .
-*.lmepjztwwonxv.life CNAME .
 locoesrasps.life CNAME .
 *.locoesrasps.life CNAME .
 lov-hoot.life CNAME .
@@ -96748,8 +96702,6 @@ lighthearted-two.pro CNAME .
 *.lighthearted-two.pro CNAME .
 lightsteal.pro CNAME .
 *.lightsteal.pro CNAME .
-likable-negotiation.pro CNAME .
-*.likable-negotiation.pro CNAME .
 limited-final.pro CNAME .
 *.limited-final.pro CNAME .
 limited-motor.pro CNAME .
@@ -100126,8 +100078,12 @@ barapolaran.shop CNAME .
 *.barapolaran.shop CNAME .
 barmanonymity.shop CNAME .
 *.barmanonymity.shop CNAME .
-base.shop CNAME .
-*.base.shop CNAME .
+chiyouranai.base.shop CNAME .
+*.chiyouranai.base.shop CNAME .
+tokujiro.base.shop CNAME .
+*.tokujiro.base.shop CNAME .
+uranai1111.base.shop CNAME .
+*.uranai1111.base.shop CNAME .
 basiscopyright.shop CNAME .
 *.basiscopyright.shop CNAME .
 battuelevered.shop CNAME .
@@ -100416,8 +100372,6 @@ litrebramia.shop CNAME .
 *.litrebramia.shop CNAME .
 livegeaster.shop CNAME .
 *.livegeaster.shop CNAME .
-longansenticed.shop CNAME .
-*.longansenticed.shop CNAME .
 luddyvisayan.shop CNAME .
 *.luddyvisayan.shop CNAME .
 lutewayredug.shop CNAME .
@@ -107418,8 +107372,6 @@ leggymomme.top CNAME .
 *.leggymomme.top CNAME .
 limitalcher.top CNAME .
 *.limitalcher.top CNAME .
-listeduntwist.top CNAME .
-*.listeduntwist.top CNAME .
 zs.liukiuuncited.top CNAME .
 *.zs.liukiuuncited.top CNAME .
 lixbngx.top CNAME .
@@ -107442,8 +107394,6 @@ llykjmzkqvvqy.top CNAME .
 *.llykjmzkqvvqy.top CNAME .
 lmalyjyojjvjm.top CNAME .
 *.lmalyjyojjvjm.top CNAME .
-df.lodgingeeyuck.top CNAME .
-*.df.lodgingeeyuck.top CNAME .
 loofahsinchain.top CNAME .
 *.loofahsinchain.top CNAME .
 lotapertish.top CNAME .
@@ -110510,8 +110460,6 @@ labqjxrhyjufl.world CNAME .
 *.labqjxrhyjufl.world CNAME .
 lgdstolfuinmi.world CNAME .
 *.lgdstolfuinmi.world CNAME .
-lockersgleemen.world CNAME .
-*.lockersgleemen.world CNAME .
 br.mandantluhinga.world CNAME .
 *.br.mandantluhinga.world CNAME .
 mediahell.world CNAME .
@@ -111514,8 +111462,6 @@ lgepbups.xyz CNAME .
 *.lgepbups.xyz CNAME .
 lianzl.xyz CNAME .
 *.lianzl.xyz CNAME .
-likeyoumakehappy.xyz CNAME .
-*.likeyoumakehappy.xyz CNAME .
 linksmallbusinesschallenge.xyz CNAME .
 *.linksmallbusinesschallenge.xyz CNAME .
 losobo.xyz CNAME .

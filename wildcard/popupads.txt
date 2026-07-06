@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 06:52 UTC
-# Version: 2026.0706.0652.22
+# Last modified: 06 Jul 2026 09:52 UTC
+# Version: 2026.0706.0952.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56109
+# Number of entries: 56082
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -404,6 +404,9 @@
 *.darian.bantengan.xyz
 *.uc.barbelfaldfee.com
 *.do.barmfellists.com
+*.chiyouranai.base.shop
+*.tokujiro.base.shop
+*.uranai1111.base.shop
 *.ah.basothomug.com
 *.bv.basquedbeloam.com
 *.ck.bastardzingaro.com
@@ -2033,8 +2036,6 @@
 *.alodd.likeyoudate.com
 *.lss-portal.lilly.com
 *.xx.limerupcatch.com
-*.rp.limitoreluder.com
-*.bugfish.lindiesmocking.click
 *.xy298.lingd.net
 *.ad.linksynergy.com
 *.rd.linksynergy.com
@@ -2070,9 +2071,7 @@
 *.dgamkq.llovegreat.com
 *.lldrx.llovellydates.com
 *.vnwxkk.llovemeonline.com
-*.lmqgr.lloveonline.com
 *.ajljb.lloveonllne.net
-*.comjakre.lloveonllne.com
 *.nrvkoj.lluckypllaces.com
 *.olkwb.lluckytlme.com
 *.rnwork.lmposlngdate.com
@@ -2086,7 +2085,6 @@
 *.om.lobwormplaga.com
 *.na.lockedvases.com
 *.ld.lockiancrab.com
-*.df.lodgingeeyuck.top
 *.rb.loftmentiple.com
 *.zh.longlyrurally.com
 *.rs.loquentsunders.com
@@ -13158,7 +13156,6 @@
 *.bartramagynous.com
 *.barytemarkup.com
 *.barytethynnid.com
-*.base.shop
 *.baseballletters.com
 *.basejudgementquizmaster.com
 *.basementunfamiliar.com
@@ -32546,7 +32543,6 @@
 *.lijit.com
 *.lijoxnfpioqd.com
 *.lijqfqpdavjhs.store
-*.likable-negotiation.pro
 *.like-love.net
 *.likeableindispensableassault.com
 *.likeads.com
@@ -32557,7 +32553,6 @@
 *.likenessfernbatter.com
 *.likeneverbeforeme.me
 *.likenewvids.online
-*.likeyoumakehappy.xyz
 *.likingblocks.com
 *.likingrusty.com
 *.liklojigctaog.space
@@ -32582,17 +32577,14 @@
 *.limp-signal.pro
 *.limp-total.pro
 *.limpestpilosin.com
-*.limping-gather.com
 *.limping-reputation.pro
 *.limpinganger.pro
 *.limpinggather.pro
 *.limpingpick.com
 *.limpinguniversity.pro
-*.limpsaka.cfd
 *.limpskin.com
 *.limzizffmrkkc.online
 *.lin-link.net
-*.lin01.bid
 *.linblog.info
 *.lincolnforestlakeproject.com
 *.lindiesoncoses.com
@@ -32660,12 +32652,9 @@
 *.lionshook.com
 *.lionwit.com
 *.lipidicchaoush.com
-*.lipoidsbleed.click
 *.lipscould.com
-*.lipsfitfulhurricane.com
 *.lipsgig.com
 *.lipsoowesto.net
-*.lipwesfzuidbk.club
 *.liquidabroad.com
 *.liquidfire.mobi
 *.liquorfromhead2toe.com
@@ -32681,7 +32670,6 @@
 *.lispimprovementgrocery.com
 *.lispnegligent.com
 *.list-ads.com
-*.listeduntwist.top
 *.listenedarsonproceedings.com
 *.listenerbilliardsegg.com
 *.listenerhooter.com
@@ -32728,7 +32716,6 @@
 *.livecams.com
 *.livechatinctest.com
 *.livecom.tech
-*.livedskateraisin.com
 *.liveelectricco.net
 *.livegeaster.shop
 *.lively-middle.pro
@@ -32741,7 +32728,6 @@
 *.liverstopped.com
 *.livesexbar.com
 *.livesmarter.com
-*.livespacelivekeyrealclub.com
 *.livestockabdicate.com
 *.livetwo.space
 *.livetwo.store
@@ -32784,7 +32770,6 @@
 *.ljswfyybyvbh.com
 *.ljybybyerzoev.top
 *.ljybybyerzreq.top
-*.ljypfykcofguz.fun
 *.lkaowvjzjfkyd.store
 *.lkauxiqpwlsfr.rocks
 *.lkbqfvdpf.com
@@ -32802,7 +32787,6 @@
 *.lkjyxc.top
 *.lklkxqconwqpt.online
 *.lklrcysmzvscks.com
-*.lknvksrvlawsh.life
 *.lkpmprksau.com
 *.lkqd.net
 *.lkqr.org
@@ -32812,7 +32796,6 @@
 *.lktopxlbtlb.net
 *.lkuxyvrptazgk.online
 *.lkvngplmrmjlc.store
-*.llbmoasj.icu
 *.llboqelaevqjy.top
 *.llclaqgoifaepev.net
 *.lldmuevvzmefo.space
@@ -32831,7 +32814,6 @@
 *.llovefinder.com
 *.lloveindate.com
 *.lloveonline.net
-*.lloveonlline.com
 *.lloversnok.com
 *.llovesgreat.com
 *.llovesignal.com
@@ -32850,7 +32832,6 @@
 *.llwgnafyieumn.store
 *.llxbcprjfuc.com
 *.llxqcrbjflbop.online
-*.llyighaboveth.com
 *.llykjmzkqvvqy.top
 *.lm832.com
 *.lmaarwdqraeak.online
@@ -32859,7 +32840,6 @@
 *.lmalyjyojjvjm.top
 *.lmdfmd.com
 *.lmdysqcmtinre.online
-*.lmepjztwwonxv.life
 *.lmgfcyhxjf.com
 *.lmgyjug31.com
 *.lmhvhlxacgtmb.site
@@ -32952,7 +32932,6 @@
 *.lockerdome.com
 *.lockerdomecdn.com
 *.lockersatelic.cam
-*.lockersgleemen.world
 *.locketsauce.com
 *.locksmithachievehostility.com
 *.lockupaccede.com
@@ -32985,21 +32964,16 @@
 *.logtoatera.com
 *.logtok.com
 *.logvillage.com
-*.loharsharked.cfd
 *.lohockdock.com
 *.loijtoottuleringv.info
-*.loinpriestinfected.com
 *.loinstaggerpamphlet.com
 *.loivopem.com
 *.lojsuarokgyxv.space
 *.lojusypsa.com
 *.lojvicwu.com
-*.lokcdn.com
-*.lokimaki.com
 *.loktrk.com
 *.lolco.net
 *.loloclicks.biz
-*.lolostan.com
 *.lolsefti.com
 *.lolygag.com
 *.lomkdcbcbnhds.com
@@ -33024,7 +32998,6 @@
 *.lonewin.com
 *.long-landscape.com
 *.long-spare.com
-*.longansenticed.shop
 *.longarctic.com
 *.longcapaciousguessing.com
 *.longchampblackfriday.com

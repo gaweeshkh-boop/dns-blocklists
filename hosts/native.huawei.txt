@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jun 2026 06:37 UTC
-# Version: 2026.0609.0637.19
+# Last modified: 06 Jul 2026 09:27 UTC
+# Version: 2026.0706.0927.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 166
+# Number of entries: 167
 #
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
@@ -151,6 +151,7 @@
 0.0.0.0 honorsearch-drcn.hiboard.hihonorcloud.com
 0.0.0.0 honorsearch-dre.hiboard.hihonorcloud.com
 0.0.0.0 ads-drcn.platform.hihonorcloud.com
+0.0.0.0 ads-dre.platform.hihonorcloud.com
 0.0.0.0 ads-drru.platform.hihonorcloud.com
 0.0.0.0 log-dra.platform.hihonorcloud.com
 0.0.0.0 log-drcn.platform.hihonorcloud.com

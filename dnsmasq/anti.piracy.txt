@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 07:51 UTC
-# Version: 2026.0706.0751.53
+# Last modified: 06 Jul 2026 11:03 UTC
+# Version: 2026.0706.1103.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 32328
+# Number of entries: 32325
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -7194,7 +7194,6 @@ local=/filmoflix.is/
 local=/filmoflix.ltd/
 local=/filmoflix.media/
 local=/filmoflix.money/
-local=/filmoflix.one/
 local=/filmoflix.page/
 local=/filmoflix.pizza/
 local=/filmoflix.shop/
@@ -11414,7 +11413,6 @@ local=/livetorrents.com/
 local=/livetv.asia/
 local=/livetv.ru/
 local=/livetv.sx/
-local=/livetv-en.com/
 local=/livetv706.me/
 local=/livetv786.pro/
 local=/livetv802.me/
@@ -11446,7 +11444,6 @@ local=/locke-and-kejj-lordfilm.ru/
 local=/loffe414wil.com/
 local=/logansmovies.com/
 local=/loiflix.xyz/
-local=/lojawarez.com/
 local=/lok-i-klyuch-lordfilm3.ru/
 local=/lokerbi-v-poiskah-pravdy-lordfilm3.ru/
 local=/loki-lordfilm.buzz/

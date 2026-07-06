@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 06:54 UTC
-# Version: 2026.0706.0654.33
+# Last modified: 06 Jul 2026 09:55 UTC
+# Version: 2026.0706.0955.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16734
+# Number of entries: 16728
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -9073,9 +9073,7 @@ local=/linear-antrieb.de/
 local=/linearnetrik.de/
 local=/linenhomestudio.com/
 local=/linenmia.com/
-local=/linens-chic.com/
 local=/linevo.de/
-local=/linhygdt.shop/
 local=/linji.shop/
 local=/linkglobalcargo.com/
 local=/linknook.com/
@@ -9096,7 +9094,6 @@ local=/lirunqiu.com/
 local=/lisach.com/
 local=/lisalerose.com/
 local=/lisft.shop/
-local=/lisjo.shop/
 local=/lissomesmart.com/
 local=/literalsmon.com/
 local=/literaryi.com/
@@ -9113,7 +9110,6 @@ local=/livelyberlin.com/
 local=/livemintnewstoday.com/
 local=/liverpoolfestivalgardens.shop/
 local=/liverpoolgear.shop/
-local=/liverpoolmex.shop/
 local=/liviele.com/
 local=/living-smarter24.com/
 local=/livinghome-shop.de/
@@ -9130,7 +9126,6 @@ local=/lkw-mieten-wien.at/
 local=/lkw-reifenpanne.com/
 local=/ll-sheins.com/
 local=/ller.net/
-local=/lloen.shop/
 local=/lloyddeutschland.com/
 local=/lloydschuhesale.de/
 local=/lloydslovakia.com/
@@ -9139,7 +9134,6 @@ local=/lloydspharmacystore.shop/
 local=/lm-heizoel.de/
 local=/lmfmotoculture.com/
 local=/lmsffr.shop/
-local=/lmvae.shop/
 local=/loakedeutschland.de/
 local=/loakeschweiz.net/
 local=/loaspool.de/

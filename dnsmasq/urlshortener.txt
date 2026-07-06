@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 06:56 UTC
-# Version: 2026.0706.0656.16
+# Last modified: 06 Jul 2026 09:57 UTC
+# Version: 2026.0706.0957.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9983
+# Number of entries: 9981
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -5038,7 +5038,6 @@ local=/linksflow.bio/
 local=/linksfly.net/
 local=/linkshaft.com/
 local=/linkshare.pro/
-local=/linksharing.app/
 local=/linkshort.co/
 local=/linkshort.eu/
 local=/linkshort.in/
@@ -5214,7 +5213,6 @@ local=/lnkmob.com/
 local=/lnkp.io/
 local=/lnkr1.com/
 local=/lnks.ai/
-local=/lnks.city/
 local=/lnks.es/
 local=/lnks.fr/
 local=/lnkshk.com/

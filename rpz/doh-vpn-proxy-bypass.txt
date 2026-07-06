@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783324680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783336260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 07:58 UTC
-; Version: 2026.0706.0758.48
+; Last modified: 06 Jul 2026 11:11 UTC
+; Version: 2026.0706.1111.03
 ; Syntax: RPZ
-; Number of entries: 33764
+; Number of entries: 33756
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -10645,8 +10645,6 @@ limpvpn.com CNAME .
 *.limpvpn.com CNAME .
 linghun999.com CNAME .
 *.linghun999.com CNAME .
-linkideo.com CNAME .
-*.linkideo.com CNAME .
 linkmetube.com CNAME .
 *.linkmetube.com CNAME .
 mirror4.es-mad-1.linodeobjects.com CNAME .
@@ -10677,8 +10675,6 @@ lmspeedapp.com CNAME .
 *.lmspeedapp.com CNAME .
 lmvipaff.com CNAME .
 *.lmvipaff.com CNAME .
-www.itrsa.env.lntxbox.com CNAME .
-*.www.itrsa.env.lntxbox.com CNAME .
 lnxfwsen.com CNAME .
 *.lnxfwsen.com CNAME .
 dns.lobbygod.com CNAME .
@@ -13389,6 +13385,8 @@ us1-browse.startpage.com CNAME .
 *.us1-browse.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
 *.us2-browse.startpage.com CNAME .
+us3-browse.startpage.com CNAME .
+*.us3-browse.startpage.com CNAME .
 starvpn.com CNAME .
 *.starvpn.com CNAME .
 starvpnapp.com CNAME .
@@ -16541,16 +16539,10 @@ doh.koduarve.ee CNAME .
 *.doh.koduarve.ee CNAME .
 dns.l6.ee CNAME .
 *.dns.l6.ee CNAME .
-lunaralgebra.localization.ee CNAME .
-*.lunaralgebra.localization.ee CNAME .
 playernation.localization.ee CNAME .
 *.playernation.localization.ee CNAME .
 playernationorg.localization.ee CNAME .
 *.playernationorg.localization.ee CNAME .
-shadow.localization.ee CNAME .
-*.shadow.localization.ee CNAME .
-sixsveen2927e8iddj.localization.ee CNAME .
-*.sixsveen2927e8iddj.localization.ee CNAME .
 info.onnemaa.ee CNAME .
 *.info.onnemaa.ee CNAME .
 learn-vcsa.onnemaa.ee CNAME .

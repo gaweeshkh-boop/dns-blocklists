@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 07:58 UTC
-# Version: 2026.0706.0758.48
+# Last modified: 06 Jul 2026 11:11 UTC
+# Version: 2026.0706.1111.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16882
+# Number of entries: 16878
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -4267,13 +4267,9 @@
 *.dns.lmir.info
 *.10.ln7371.top
 *.xm.ln7371.top
-*.www.itrsa.env.lntxbox.com
 *.dns.lobbygod.com
-*.lunaralgebra.localization.ee
 *.playernation.localization.ee
 *.playernationorg.localization.ee
-*.shadow.localization.ee
-*.sixsveen2927e8iddj.localization.ee
 *.history.lodgegomantak.org
 *.flat.loisy.it
 *.nas-fusion.loisy.it
@@ -5960,6 +5956,7 @@
 *.us-proxy.startpage.com
 *.us1-browse.startpage.com
 *.us2-browse.startpage.com
+*.us3-browse.startpage.com
 *.dns.startupstack.tech
 *.idea.graph.statboss.com
 *.adguard.stealbit.com
@@ -12282,7 +12279,6 @@
 *.lindsay.run
 *.linghun999.com
 *.link-vpn.mom
-*.linkideo.com
 *.linkmefree.net
 *.linkmetube.com
 *.linquarivo.xyz

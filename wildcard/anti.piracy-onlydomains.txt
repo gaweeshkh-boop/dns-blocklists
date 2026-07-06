@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 07:51 UTC
-# Version: 2026.0706.0751.53
+# Last modified: 06 Jul 2026 11:03 UTC
+# Version: 2026.0706.1103.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 32328
+# Number of entries: 32325
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -7194,7 +7194,6 @@ filmoflix.is
 filmoflix.ltd
 filmoflix.media
 filmoflix.money
-filmoflix.one
 filmoflix.page
 filmoflix.pizza
 filmoflix.shop
@@ -11414,7 +11413,6 @@ livetorrents.com
 livetv.asia
 livetv.ru
 livetv.sx
-livetv-en.com
 livetv706.me
 livetv786.pro
 livetv802.me
@@ -11446,7 +11444,6 @@ locke-and-kejj-lordfilm.ru
 loffe414wil.com
 logansmovies.com
 loiflix.xyz
-lojawarez.com
 lok-i-klyuch-lordfilm3.ru
 lokerbi-v-poiskah-pravdy-lordfilm3.ru
 loki-lordfilm.buzz
