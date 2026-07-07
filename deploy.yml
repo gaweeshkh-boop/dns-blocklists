@@ -1,0 +1,66 @@
+name: Build and Deploy FortiGate Ad Block List
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download StevenBlack hosts
+        run: |
+          curl -L https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -o hosts
+
+      - name: Convert to FortiGate domain list
+        run: |
+          mkdir site
+          grep -E '^(0\.0\.0\.0|127\.0\.0\.1)' hosts \
+            | awk '{print $2}' \
+            | grep -v '^localhost$' \
+            | grep -v '^localhost.localdomain$' \
+            | grep -v '^local$' \
+            | grep -v '^broadcasthost$' \
+            | grep -v '^ip6-' \
+            | sed '/^$/d' \
+            | sort -u > site/hosts.txt
+
+          cat > site/index.html <<EOF
+          <!doctype html>
+          <html>
+          <head><meta charset="utf-8"><title>FortiGate Ad Block List</title></head>
+          <body>
+          <h2>FortiGate Ad Block List</h2>
+          <p><a href="hosts.txt">hosts.txt</a></p>
+          </body>
+          </html>
+          EOF
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
