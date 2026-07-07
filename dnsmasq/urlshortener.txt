@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 18:15 UTC
-# Version: 2026.0706.1815.48
+# Last modified: 07 Jul 2026 06:55 UTC
+# Version: 2026.0707.0655.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9980
+# Number of entries: 9974
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -495,7 +495,6 @@ local=/static.monactive.net/
 local=/trackingservice.monday.com/
 local=/info.montbell.com/
 local=/qr.motul.com/
-local=/app.moviequik.com/
 local=/url.mpay.pl/
 local=/kt.mrmd.com/
 local=/m.msi5.com/
@@ -526,7 +525,6 @@ local=/sbily.ncontiero.com/
 local=/url.near-real.com/
 local=/short.neos.eu/
 local=/qrcode.primetecnologia.net.br/
-local=/lc.net.br/
 local=/mylinks.net.br/
 local=/weflex.net.au/
 local=/yourls.newstargeted.com/
@@ -5668,7 +5666,6 @@ local=/mozafer.com/
 local=/mpa.li/
 local=/mpit.io/
 local=/mpl.pm/
-local=/mpo-link.com/
 local=/mq.gy/
 local=/mq3.net/
 local=/mr-link.app/
@@ -5721,7 +5718,6 @@ local=/multi.tips/
 local=/multishorturl.com/
 local=/mumy.me/
 local=/munbyn.biz/
-local=/munchbet.live/
 local=/mupf.me/
 local=/murl.com/
 local=/murl.gg/
@@ -5765,7 +5761,6 @@ local=/myfonts.us/
 local=/myglamm.in/
 local=/myikoniq.info/
 local=/myip.kr/
-local=/myjq.info/
 local=/mylinkbio.com/
 local=/mylinkbr.com/
 local=/mylinkd.in/
@@ -5876,7 +5871,6 @@ local=/ndm.ovh/
 local=/ne.fo/
 local=/ne1.net/
 local=/nearurl.com/
-local=/neatlink.ca/
 local=/nectarios.info/
 local=/neexulro.net/
 local=/nefeli.live/

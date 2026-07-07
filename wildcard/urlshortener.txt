@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 18:15 UTC
-# Version: 2026.0706.1815.48
+# Last modified: 07 Jul 2026 06:55 UTC
+# Version: 2026.0707.0655.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9980
+# Number of entries: 9974
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -495,7 +495,6 @@
 *.trackingservice.monday.com
 *.info.montbell.com
 *.qr.motul.com
-*.app.moviequik.com
 *.url.mpay.pl
 *.kt.mrmd.com
 *.m.msi5.com
@@ -526,7 +525,6 @@
 *.url.near-real.com
 *.short.neos.eu
 *.qrcode.primetecnologia.net.br
-*.lc.net.br
 *.mylinks.net.br
 *.weflex.net.au
 *.yourls.newstargeted.com
@@ -5668,7 +5666,6 @@
 *.mpa.li
 *.mpit.io
 *.mpl.pm
-*.mpo-link.com
 *.mq.gy
 *.mq3.net
 *.mr-link.app
@@ -5721,7 +5718,6 @@
 *.multishorturl.com
 *.mumy.me
 *.munbyn.biz
-*.munchbet.live
 *.mupf.me
 *.murl.com
 *.murl.gg
@@ -5765,7 +5761,6 @@
 *.myglamm.in
 *.myikoniq.info
 *.myip.kr
-*.myjq.info
 *.mylinkbio.com
 *.mylinkbr.com
 *.mylinkd.in
@@ -5876,7 +5871,6 @@
 *.ne.fo
 *.ne1.net
 *.nearurl.com
-*.neatlink.ca
 *.nectarios.info
 *.neexulro.net
 *.nefeli.live

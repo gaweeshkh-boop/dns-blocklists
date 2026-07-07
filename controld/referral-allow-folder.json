@@ -92,28 +92,7 @@
       }
     },
     {
-      "PK": "777be.livepartners.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "777ch.livepartners.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "777es.livepartners.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "777nl.livepartners.com",
+      "PK": "777*.livepartners.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1541,7 +1520,7 @@
       }
     },
     {
-      "PK": "clck-001.clickpatrol.com",
+      "PK": "clck-*.clickpatrol.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1584,13 +1563,6 @@
     },
     {
       "PK": "cl.exct.net",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "click2.redbrain.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1955,6 +1927,13 @@
     },
     {
       "PK": "click.pstmrk.it",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "click*.redbrain.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2591,7 +2570,14 @@
       }
     },
     {
-      "PK": "e.customeriomail.com",
+      "PK": "e*.customeriomail.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "edge*.customer.io",
       "action": {
         "do": 1,
         "status": 1
@@ -5398,20 +5384,6 @@
       }
     },
     {
-      "PK": "track01.engagelab.email",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "track2.sendcloud.net",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "track.addtocart.today",
       "action": {
         "do": 1,
@@ -5483,6 +5455,13 @@
     },
     {
       "PK": "track*.effiliation.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "track*.engagelab.email",
       "action": {
         "do": 1,
         "status": 1
@@ -5847,6 +5826,13 @@
     },
     {
       "PK": "track.seadform.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "track*.sendcloud.net",
       "action": {
         "do": 1,
         "status": 1

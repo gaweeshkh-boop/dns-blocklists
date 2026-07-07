@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783361700 43200 3600 259200 3600
+@ SOA localhost. root.localhost. 1783407300 43200 3600 259200 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jul 2026 18:15 UTC
-; Version: 2026.0706.1815.48
+; Last modified: 07 Jul 2026 06:55 UTC
+; Version: 2026.0707.0655.01
 ; Syntax: RPZ
-; Number of entries: 19960
+; Number of entries: 19948
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1267,8 +1267,6 @@ wwon.com.br CNAME .
 *.wwon.com.br CNAME .
 parceiros.zerofuro.com.br CNAME .
 *.parceiros.zerofuro.com.br CNAME .
-lc.net.br CNAME .
-*.lc.net.br CNAME .
 mylinks.net.br CNAME .
 *.mylinks.net.br CNAME .
 qrcode.primetecnologia.net.br CNAME .
@@ -1475,8 +1473,6 @@ my1.ca CNAME .
 *.my1.ca CNAME .
 myurls.ca CNAME .
 *.myurls.ca CNAME .
-neatlink.ca CNAME .
-*.neatlink.ca CNAME .
 peen.ca CNAME .
 *.peen.ca CNAME .
 pql.ca CNAME .
@@ -5499,12 +5495,8 @@ qr.motul.com CNAME .
 *.qr.motul.com CNAME .
 moveurls.com CNAME .
 *.moveurls.com CNAME .
-app.moviequik.com CNAME .
-*.app.moviequik.com CNAME .
 mozafer.com CNAME .
 *.mozafer.com CNAME .
-mpo-link.com CNAME .
-*.mpo-link.com CNAME .
 kt.mrmd.com CNAME .
 *.kt.mrmd.com CNAME .
 mrturl.com CNAME .
@@ -10413,8 +10405,6 @@ mycts.info CNAME .
 *.mycts.info CNAME .
 myikoniq.info CNAME .
 *.myikoniq.info CNAME .
-myjq.info CNAME .
-*.myjq.info CNAME .
 mymole.info CNAME .
 *.mymole.info CNAME .
 myrxbmember.info CNAME .
@@ -13263,8 +13253,6 @@ mattes.live CNAME .
 *.mattes.live CNAME .
 microsoftfiles.live CNAME .
 *.microsoftfiles.live CNAME .
-munchbet.live CNAME .
-*.munchbet.live CNAME .
 my-club.live CNAME .
 *.my-club.live CNAME .
 nanatech.live CNAME .
